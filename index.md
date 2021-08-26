@@ -1,51 +1,30 @@
-# 横山智康 
+## profile
+- 名前
+横山智康（よこやまともやす）
 
-2020年からプログラマー・ソフトウェアエンジニアのようなITエンジニアになりたい
-と思うようになり基礎から勉強をしています。
-同時に情報学部の入学を目指そうかなと思い受験勉強も無謀かもですがお試しで進めています。
+- 所属
+パナソニック株式会社 テクノロジー本部 主任研究員
 
-Thinkpad, Linux, Windowsが好きで、19台のPCでわちゃわちゃしています。
+- 連絡先
+yokoyama.tomoyasu at_mark jp.panasonic.com
+(at_mark を ＠に置き換えてください） 
 
-今日の[todoやメモ](todo.md)
+- 専門
+材料計算科学（第一原理計算）/ マテリアルズインフォマティクス
+太陽電池材料 / 半導体材料 / 電池材料
+（計算・実験両方やります）
 
-## 勉強していること
+- 研究者IDサービスなど
+[google scholar](https://scholar.google.co.jp/citations?user=D-TalWsAAAAJ&hl=ja&oi=ao)
 
-*数学*
-- 青チャートで数学の基礎を勉強
+- 略歴
+2008-2012　京都大学 工学部 物理工学科 
+2012-2014　京都大学大学院 工学研究科 材料工学専攻 修士課程
+2014-　　　パナソニック株式会社
+2019-　　　東京工業大学 フロンティア材料研究所 博士課程
 
-*c++*
-- AtCoderの問題をc++を使って解くことで基礎のプログラミング力をつける
-- c++ポケットリファレンスで勉強
-- vimを使ってc++のコードを書いて実行
-- visual studioを使ったアプリ作成の勉強
-- CMakeなどをvimで使う方法
-
-*vim*
-- vimを使いつつ習得
-- プラグイン作成について勉強
-- 日本語ドキュメントを空いた時間に5分読んで勉強
-
-*go*
-- udemyの講座でgoの基礎をvimでコード書いて勉強
-
-*Linux*
-- Arch Linux,lubuntu,ubuntu,DebianなどいろんなOS使っています。
-
-*Windows*
-- Windows98、 NT、 Windows XP、Windows10
-- クラシックなWindowsが好きで使っています。
-
-*iosアプリ開発＊
-- xcodeとswiftでアプリ作成の勉強をudemyで進めている。
-
-*応用情報技術*
-- Itパスポートの本で一通り勉強したので応用情報技術の基礎を勉強しています。
-- 試験合格を目指して勉強進めています。
-- 応用情報の参考書
-- 応用情報ドットコムですきま時間を活用して過去問を解き勉強しています。
+- 受賞歴
+[第45回（2018年秋季）応用物理学会講演奨励賞](https://www.jsap.or.jp/young-scientist-presentation-award/recipients45)
+[第30回日本MRS年次大会奨励賞](https://www.mrs-j.org/meeting2020/jp/prg/awardList.php)
 
 
-## Links | 下記リンクにアウトプットしています
-- note｜150記事以上作成・SEO1位～10位以内の上位記事も何個かあったりします: [note](https://note.com/noabou)
-- twitter｜毎日更新しています: [twitter](https://twitter.com/noaboucoffee)
-- zenn.dev | zennもはじめました: [zenn](https://zenn.dev/katsuo)
