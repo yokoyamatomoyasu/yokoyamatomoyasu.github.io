@@ -1,9 +1,11 @@
 ## profile
 - 名前  
-横山智康（よこやまともやす）
+横山智康（よこやまともやす）  
+
 
 - 所属  
 パナソニック株式会社 テクノロジー本部 主任研究員  
+
 
 - 連絡先  
 yokoyama.tomoyasu at_mark jp.panasonic.com  
