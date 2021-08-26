@@ -1,4 +1,4 @@
-## profile
+## プロフィール
 - 名前 <br>
 横山智康（よこやまともやす）  
 
@@ -23,7 +23,7 @@ yokoyama.tomoyasu at_mark jp.panasonic.com
 2008-2012　京都大学 工学部 物理工学科  
 2012-2014　京都大学大学院 工学研究科 材料工学専攻 修士課程  
 2014-　　　パナソニック株式会社  
-2019-　　　東京工業大学 フロンティア材料研究所 博士課程  
+2019-　　　東京工業大学 科学技術創生研究院 フロンティア材料研究所 博士課程  
 
 - 受賞歴  
 [第45回（2018年秋季）応用物理学会講演奨励賞](https://www.jsap.or.jp/young-scientist-presentation-award/recipients45)  
