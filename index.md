@@ -29,11 +29,30 @@ yokoyama.tomoyasu at_mark jp.panasonic.com
 [第45回（2018年秋季）応用物理学会講演奨励賞](https://www.jsap.or.jp/young-scientist-presentation-award/recipients45)  
 [第30回日本MRS年次大会奨励賞](https://www.mrs-j.org/meeting2020/jp/prg/awardList.php)  
 
+## 論文  
+- <u>T. Yokoyama</u>, S. Ohuchi, T. Matsui, Y. Kaneko, T. Sasagawa, Low-Cost Computing of the Thermophysical Properties of Organic?Inorganic Halide Perovskites by Density Functional Theory Combined with the Three-Dimensional Reference Interaction Site Method. *J. Phys. Chem. C* **2021**, 45, 31. https://doi.org/10.1021/acs.jpcc.1c01171  
+- <u>T. Yokoyama</u>, S. Ohuchi, E. Igaki, T. Matsui, Y. Kaneko, T. Sasagawa, An Efficient Ab Initio Scheme for Discovering Organic-Inorganic Hybrid Materials by Using Genetic Algorithms. *J. Phys. Chem. Lett.* **2021**, 12, 2023-2028. https://doi.org/10.1021/acs.jpclett.1c00087  
+- Y. Miyamoto, S. Kusumoto, <u>T. Yokoyama</u>, Y. Nishitani, T. Matsui, T. Kouzaki, R. Nishikubo, A. Saeki, Y. Kaneko, High Current Density Sn-Based Perovskite Solar Cells via Enhanced Electron Extraction in Nanoporous Electron Transport Layers. *ACS Appl. Nano Mater.* **2020**, 3 (11), 11650-11657. https://doi.org/10.1021/acsanm.0c02890  
+- <u>T. Yokoyama</u>, Y. Nishitani, Y. Miyamoto, S. Kusumoto, R. Uchida, T. Matsui, K. Kawano, T. Sekiguchi, Y. Kaneko, Improving the Open-Circuit Voltage of Sn-Based Perovskite Solar Cells by Band Alignment at the Electron Transport Layer/Perovskite Layer Interface. *ACS Appl. Mater. Interfaces* **2020**, 12 (24), 27131-27139. https://doi.org/10.1021/acsami.0c04676  
+- T.Sekimoto, M. Suzuka, <u>T. Yokoyama</u>, Y. Miyamoto, R. Uchida, M. Hiraoka, Y. Kaneko, Inverse Temperature Crystallization of Formamidinium Tin Iodide: Indirect Transition State and Restriction of Cation Motion. *Cryst. Growth Des.* **2019**, 20(2), 874-883. https://doi.org/10.1021/acs.cgd.9b01262  
+- T. Matsui, T. Yamamoto, T. Nishihara, R. Morisawa, <u>T. Yokoyama</u>, T. Sekiguchi, T. Negami, Compositional Engineering for Thermally Stable, Highly Efficient Perovskite Solar Cells Exceeding 20% Power Conversion Efficiency with 85 °C/85% 1000 h Stability. *Adv. Mater.* **2019**, 31 (10). https://doi.org/10.1002/adma.201806823  
+- T. Matsui, <u>T. Yokoyama</u>, T. Negami, T. Sekiguchi, M. Saliba, M. Gratzel, H. Segawa, Effect of Rubidium for Thermal Stability of Triple-Cation Perovskite Solar Cells. *Chem. Lett.* **2018**, 47 (6), 814-816. https://doi.org/10.1246/cl.180211  
+- T. Sekimoto, M. Suzuka, <u>T. Yokoyama</u>, R. Uchida, S. I. Machida, T. Sekiguchi, K. Kawano, Energy level diagram of HC(NH2)2PbI3 single crystal evaluated by electrical and optical analyses. *Phys. Chem. Chem. Phys.* **2018**, 20(3), 1373-1380.https://doi.org/10.1039/C7CP07477H  
+- H. Hayashi, S. Katayama, T. Komura, Y. Hinuma, <u>T. Yokoyama</u>, K. Mibu, F. Oba, I. Tanaka, Discovery of a Novel Sn(II)-Based Oxide β-SnMoO4 for Daylight-Driven Photocatalysis. *Adv. Sci.* **2017**, 4 (1). https://doi.org/10.1002/advs.201600246  
+- <u>T. Yokoyama</u>, F. Oba, A. Seko, H. Hayashi, Y. Nose, I. Tanaka, Theoretical Photovoltaic Conversion Efficiencies of ZnSnP2, CdSnP2, and Zn1-XCdxSnP2 Alloys. *Appl. Phys. Express* **2013**, 6 (6). https://doi.org/10.7567/APEX.6.061201  
 
-## 学会発表  
-- <u>横山智康</u>，電気化学界面シミュレーションコンソーシアム2021年度第1回勉強会 (2021).  
-- <u>横山智康</u>，大内暁，市川和秀，四橋聡史，金子幸広，笹川崇男，第68回応用物理学会春季学術講演会 16p-Z33-11 (2021).  
-- <u>横山智康</u>，大内暁，松井太佑，金子幸広，笹川崇男，第30回日本MRS年次大会 E-O9-014  (2020).  
-- <u>T. Yokoyama</u>, Y. Nishitani, Y. Miyamoto, S. Kusumoto, T. Matsui, K. Kawano, Y. Kaneko, 2019 MRS Fall Meeting & Exhibit EN08.06.21 (2019).  
-- <u>横山智康</u>，第4回フロンティア太陽電池セミナー (2019).  
-- <u>横山智康</u>，大内暁，松井太佑，金子幸広，笹川崇男，第80回応用物理学会秋季学術講演会 19a-E318-1 (2019).  
+
+
+## 学会発表・講演  
+- <u>横山智康</u>，「DFT/3D-RISM 法による有機-無機ハイブリッド材料の有限温度での物性評価」 電気化学界面シミュレーションコンソーシアム2021年度第1回勉強会 (2021).  
+- <u>横山智康</u>，大内暁，市川和秀，四橋聡史，金子幸広，笹川崇男，「3D-RISM-SCF法による全固体電池用固体電解質におけるイオン拡散経路の高速探索手法」 第68回応用物理学会春季学術講演会 16p-Z33-11 (2021).  
+- <u>横山智康</u>，大内暁，松井太佑，金子幸広，笹川崇男，「Predicting the temperature dependence of properties of CH3NH3PbI3 by DFT/3D-RISM approach.」 第30回日本MRS年次大会 E-O9-014  (2020).  
+- <u>T. Yokoyama</u>, Y. Nishitani, Y. Miyamoto, S. Kusumoto, T. Matsui, K. Kawano, Y. Kaneko, "Exploring the limit of open circuit voltage by a large band offset at the interface between electron transport layer and tin-based halide perovskite layer" 2019 MRS Fall Meeting & Exhibit EN08.06.21 (2019).  
+- <u>横山智康</u>，大内暁，松井太佑，金子幸広，笹川崇男，「マテリアルズ・インフォマティクスによる有機－無機ハイブリッド材料の探索手法開発」 第4回フロンティア太陽電池セミナー (2019).  
+- <u>横山智康</u>，大内暁，松井太佑，金子幸広，笹川崇男，「第一原理計算と遺伝的アルゴリズムによる鉛フリーの有機－無機ハイブリッド材料の状態図予測」 第80回応用物理学会秋季学術講演会 19a-E318-1 (2019).  
+- <u>横山智康</u>，大内暁，松井太佑，井垣恵美子，笹川崇男，「第一原理計算と遺伝的アルゴリズムによる有機－無機ハイブリッド材料の状態図予測」 第66回応用物理学会春季学術講演会 10p-S423-1 (2019).  
+- <u>横山智康</u>，大内暁，松井太佑，金子幸広，笹川崇男，「The phase diagram prediction of organic-inorganic hybrid materials.」 第28回日本MRS年次大会 D2-O20-003 (2018).  
+- <u>横山智康</u>，大内暁，松井太佑，井垣恵美子，笹川崇男，「第一原理計算と遺伝的アルゴリズムによる有機－無機ハイブリッド材料の状態図予測」 第79回応用物理学会秋季学術講演会 19p-437-12 (2018).  
+- <u>T. Yokoyama</u>, M. Suzuka, Y. Miyamoto, T. Sekimoto, R. Uchida, T. Sekiguchi, K. Kawano, "The bandgap narrowing of organic-inorganic hybrid perovskite by the orientation of organic cations" Perovskite Thin Film Photovoltaics(ABXPV17) (2017).  
+- <u>横山智康</u>，藤田達也，林博之，大場 史康，田中功，「第一原理計算による中間バンド型太陽電池の光吸収層の設計」 日本金属学会2013年秋季講演大会 280 (2013).  
+- <u>横山智康</u>，藤田達也，林博之，大場 史康，田中功，「第一原理計算によるCu2O基中間バンド型太陽電池の光吸収層の設計」 日本金属学会2013年春季講演大会 271 (2013).  
