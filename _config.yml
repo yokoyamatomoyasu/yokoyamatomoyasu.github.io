@@ -2,4 +2,4 @@ theme: jekyll-theme-slate
 title: "TOMOYASU YOKOYAMA"
 google_analytics: UA-205934662-2
 plugins:
-         - jekyll-sitemap
+ - jekyll-sitemap
