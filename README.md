@@ -1,4 +1,4 @@
 # About Me
 
-> このサイトは自己紹介のためのホームページです。
- [kokowokurikku](https://yokoyamatomoyasu.github.io/) 
+このサイトは横山智康の自己紹介のためのホームページです。
+[ここ](https://yokoyamatomoyasu.github.io/) をクリック。
