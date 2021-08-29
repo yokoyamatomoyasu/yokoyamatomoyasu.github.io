@@ -15,8 +15,8 @@ yokoyama.tomoyasu at_mark jp.panasonic.com
 材料計算科学（第一原理計算）/ マテリアルズインフォマティクス  
 太陽電池材料 / 半導体材料 / 電池材料  
 
-- 研究者IDサービスなど  
-[google scholar](https://scholar.google.co.jp/citations?user=D-TalWsAAAAJ&hl=ja&oi=ao)  
+- 研究者IDサービス
+[google scholar](https://scholar.google.co.jp/citations?user=D-TalWsAAAAJ&hl=ja&oi=ao)  [researchmap](https://researchmap.jp/yokoyama_tomoyasu)
 
 - 略歴  
 2008-2012　京都大学 工学部 物理工学科  
