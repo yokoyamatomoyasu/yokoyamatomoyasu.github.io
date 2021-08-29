@@ -29,8 +29,12 @@ yokoyama.tomoyasu at_mark jp.panasonic.com
 [第45回（2018年秋季）応用物理学会講演奨励賞](https://www.jsap.or.jp/young-scientist-presentation-award/recipients45)  
 [第30回日本MRS年次大会奨励賞](https://www.mrs-j.org/meeting2020/jp/prg/awardList.php)  
 
+
 ## 研究内容  
 研究内容の詳細は[こちら](research.md)
+
+## お知らせ  
+日本物理学会2021年秋季大会にて発表予定
 
 ## 論文  
 - <u>T. Yokoyama</u>, S. Ohuchi, T. Matsui, Y. Kaneko, T. Sasagawa, Low-Cost Computing of the Thermophysical Properties of Organic-Inorganic Halide Perovskites by Density Functional Theory Combined with the Three-Dimensional Reference Interaction Site Method. *J. Phys. Chem. C* **2021**, 45, 31. [https://doi.org/10.1021/acs.jpcc.1c01171](https://doi.org/10.1021/acs.jpcc.1c01171)  
