@@ -13,9 +13,10 @@ yokoyama.tomoyasu at_mark jp.panasonic.com
 
 - 専門  
 材料計算科学（第一原理計算）/ マテリアルズインフォマティクス  
-太陽電池材料 / 半導体材料 / 電池材料  
+無機材料 / 有機－無機ハイブリッド材料  
+太陽電池 / 半導体 / 電池  
 
-- 研究者IDサービス
+- 研究者IDサービス  
 [google scholar](https://scholar.google.co.jp/citations?user=D-TalWsAAAAJ&hl=ja&oi=ao)  [researchmap](https://researchmap.jp/yokoyama_tomoyasu)
 
 - 略歴  
