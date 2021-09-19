@@ -18,7 +18,7 @@
   class="embed-card embed-blogcard"
   scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe>
 <cite class="hatena-citation">
-  <a href="https://www.imuza.com/entry/2019/01/07/210817">www.imuza.com</a>
+  <a href="https://yokoyamatomoyasu.github.io/research.html">yokoyamatomoyasu.github.io</a>
 </cite>
 
 
