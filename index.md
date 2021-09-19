@@ -8,8 +8,6 @@
 
 <a href="https://github.com/yokoyamatomoyasu/yokoyamatomoyasu.github.io"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/yokoyamatomoyasu/yokoyamatomoyasu.github.io.png" width="460px"></a> 
 
-<a href="https://ja.wikipedia.org/wiki/Qiita"><img src="YourCustomFileName_CollCode27318.png" alt="サンプル"></a> 
-
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:680px;" title="URLを記入するだけ！はてなブログカード風にWordpress記事も表示させるカスタマイズ方法" src="https://hatenablog-parts.com/embed?url=https://ja.wikipedia.org/wiki/Qiita" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:680px;" title="URLを記入するだけ！はてなブログカード風にWordpress記事も表示させるカスタマイズ方法" src="https://hatenablog-parts.com/embed?url=https://yokoyamatomoyasu.github.io/research.html" width="300" height="150" frameborder="0" scrolling="no"></iframe>
@@ -18,10 +16,8 @@
   src="https://hatenablog-parts.com/embed?url=https://yokoyamatomoyasu.github.io/research.html"
   title="はてなブログ簡単カスタマイズ imzModules バージョンアップ - IMUZA.com"
   class="embed-card embed-blogcard"
+  img = "YourCustomFileName_CollCode27318.png"
   scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe>
-<cite class="hatena-citation">
-  <a href="https://yokoyamatomoyasu.github.io/research.html">yokoyamatomoyasu.github.io</a>
-</cite>
 
 
 - 連絡先  
