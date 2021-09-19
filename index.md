@@ -7,6 +7,7 @@
 パナソニック株式会社 テクノロジー本部 主任研究員  
 
 
+<iframe src="./research.md">同じ階層にあるabout.htmlを埋め込む</iframe>
 
 <iframe title="URLを記入するだけ！はてなブログカード風にWordpress記事も表示させるカスタマイズ方法" src="https://yokoyamatomoyasu.github.io" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
