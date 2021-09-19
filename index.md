@@ -7,6 +7,9 @@
 パナソニック株式会社 テクノロジー本部 主任研究員  
 
 
+https://qiita.com/Qiita/items/c686397e4a0f4f11683d
+
+
 - 連絡先  
 yokoyama.tomoyasu at_mark jp.panasonic.com  
 (at_mark を ＠に置き換えてください）  

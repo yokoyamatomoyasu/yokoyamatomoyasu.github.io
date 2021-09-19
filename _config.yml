@@ -3,3 +3,6 @@ title: "About Tomoyasu Yokoyama"
 google_analytics: UA-205934662-2
 plugins:
  - jekyll-sitemap
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-paginate
