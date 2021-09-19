@@ -8,9 +8,8 @@
 
 <a href="https://github.com/yokoyamatomoyasu/yokoyamatomoyasu.github.io"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/yokoyamatomoyasu/yokoyamatomoyasu.github.io.png" width="460px"></a> 
 
-<a href="https://ja.wikipedia.org/wiki/Qiita"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/yokoyamatomoyasu/yokoyamatomoyasu.github.io.png" width="460px"></a> 
+<a href="https://ja.wikipedia.org/wiki/Qiita"></a> 
 
-<iframe title="URL" src="https://ja.wikipedia.org/wiki/Qiita" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
 - 連絡先  
 yokoyama.tomoyasu at_mark jp.panasonic.com  
