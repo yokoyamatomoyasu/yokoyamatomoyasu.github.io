@@ -7,6 +7,8 @@
 パナソニック株式会社 テクノロジー本部 主任研究員  
 
 
+<iframe title="qiita" width="800" height="500" src="https://ja.wikipedia.org/wiki/Qiita">Qiitaとは</iframe>
+
 <iframe title="URLを記入するだけ！はてなブログカード風にWordpress記事も表示させるカスタマイズ方法" src="https://yokoyamatomoyasu.github.io" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
 - 連絡先  
