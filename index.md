@@ -13,7 +13,7 @@
 <div class="card mb-3" style="max-width: 540px;">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <svg class="bd-placeholder-img" width="100%" height="250" xmlns="https://yokoyamatomoyasu.github.io/" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Image"><title>Placeholder</title><rect fill="#868e96" width="100%" height="100%"/><text fill="#dee2e6" dy=".3em" x="50%" y="50%">Image</text></svg>
+      <svg class="bd-placeholder-img" width="100%" height="250" xmlns="https://yokoyamatomoyasu.github.io" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Image"><title>Placeholder</title><rect fill="#868e96" width="100%" height="100%"/><text fill="#dee2e6" dy=".3em" x="50%" y="50%">Image</text></svg>
     </div>
     <div class="col-md-8">
       <div class="card-body">
