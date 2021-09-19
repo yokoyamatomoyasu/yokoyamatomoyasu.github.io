@@ -7,7 +7,7 @@
 パナソニック株式会社 テクノロジー本部 主任研究員  
 
 
-https://qiita.com/Qiita/items/c686397e4a0f4f11683d
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Qiita Advent Calendar 2020 開催のお知らせ🎅<br><br>おかげさまで今年で開催10周年となりました！<br>今年は例年以上に楽しんでいただけるようにお楽しみ企画を多数ご用意しています🎄<br>詳細はBlogよりご覧ください。<br><br>みなさんのご参加お待ちしています🚀<a href="https://t.co/zR5SdARdbB">https://t.co/zR5SdARdbB</a></p>&mdash; Qiita (キータ) 公式 (@Qiita) <a href="https://twitter.com/Qiita/status/1323176042425540614?ref_src=twsrc%5Etfw">November 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 - 連絡先  
