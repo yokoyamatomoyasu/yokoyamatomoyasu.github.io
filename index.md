@@ -10,7 +10,7 @@
 
 <a href="https://ja.wikipedia.org/wiki/Qiita"><img src="YourCustomFileName_CollCode27318.png" alt="サンプル"></a> 
 
-<div class="blogcard2"><blockquote class="embedly-card" data-card-type="article" data-card-controls="0" data-card-description="0"><h4><a href="%url%">%text%</a></h4></blockquote></div>
+<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:680px;" title="URLを記入するだけ！はてなブログカード風にWordpress記事も表示させるカスタマイズ方法" src="https://hatenablog-parts.com/embed?url=https://nelog.jp/wordpress-blog-card" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
 - 連絡先  
 yokoyama.tomoyasu at_mark jp.panasonic.com  
