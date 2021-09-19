@@ -10,6 +10,20 @@
 
 <a href="https://ja.wikipedia.org/wiki/Qiita"><img src="YourCustomFileName_CollCode27318.png" alt="サンプル"></a> 
 
+<div class="card mb-3" style="max-width: 540px;">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <svg class="bd-placeholder-img" width="100%" height="250" xmlns="https://yokoyamatomoyasu.github.io/" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Image"><title>Placeholder</title><rect fill="#868e96" width="100%" height="100%"/><text fill="#dee2e6" dy=".3em" x="50%" y="50%">Image</text></svg>
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      </div>
+    </div>
+  </div>
+</div>
 
 - 連絡先  
 yokoyama.tomoyasu at_mark jp.panasonic.com  
