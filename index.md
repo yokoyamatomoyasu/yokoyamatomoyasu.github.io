@@ -10,24 +10,7 @@
 
 <a href="https://ja.wikipedia.org/wiki/Qiita"><img src="YourCustomFileName_CollCode27318.png" alt="サンプル"></a> 
 
-<div class="blogCard blogCard--noimg">
-  <div class="blogCardCont">
-    <div class="blogCardTxt">
-      <p class="blogCardTitle"><a href="https://ja.wikipedia.org/wiki/Qiita" target="_blank">{タイトル}</a></p>
-      <p>{description}</p>
-    </div>
-  </div>
-  <div class="blogCardFooter">
-    <a href="https://ja.wikipedia.org/wiki/Qiita"><img src="./YourCustomFileName_CollCode27318.png" alt="">{ドメイン名}</a>
-  </div>
-</div>
-
-<div class="ogp_card clearfix">
-<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/k/kasakasa7970/20160926/20160926185006.jpg" alt="晴れ時々晴天なり" width="100" height="100">
-<p class="title"><a href="https://www.aritai.net/entry/blog-manual" target="_blank">アクセスアップの為のブログ運営マニュアル！ - 晴れ時々晴天なり</a></p>
-ブログのアクセス数が20万PV達成しましたので、今までブログを運営する上で実践してきたブログ運営術を公開したいと思います。アクセスアップ術やSEO、他にも収益方法などを紹介しているので参考になれば幸…
-<p class="copy"><a href="https://www.aritai.net" target="_blank">www.aritai.net</a></p>
-</div>
+<div class="blogcard2"><blockquote class="embedly-card" data-card-type="article" data-card-controls="0" data-card-description="0"><h4><a href="%url%">%text%</a></h4></blockquote></div>
 
 - 連絡先  
 yokoyama.tomoyasu at_mark jp.panasonic.com  
