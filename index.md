@@ -8,7 +8,7 @@
 
 <a href="https://github.com/yokoyamatomoyasu/yokoyamatomoyasu.github.io"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/yokoyamatomoyasu/yokoyamatomoyasu.github.io.png" width="460px"></a> 
 
-<a href="https://ja.wikipedia.org/wiki/Qiita"></a> 
+<a href="https://ja.wikipedia.org/wiki/Qiita"><img src="YourCustomFileName_CollCode27318.png" alt="サンプル"></a> 
 
 
 - 連絡先  
