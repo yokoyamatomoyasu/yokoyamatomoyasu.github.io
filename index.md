@@ -6,10 +6,12 @@
 - 所属  
 パナソニック株式会社 テクノロジー本部 主任研究員  
 
+<a href="https://github.com/yokoyamatomoyasu/yokoyamatomoyasu.github.io"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/yokoyamatomoyasu/yokoyamatomoyasu.github.io.png" width="460px"></a> 
+<a href="https://ja.wikipedia.org/wiki/Qiita"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/yokoyamatomoyasu/yokoyamatomoyasu.github.io.png" width="460px"></a> 
 
 <iframe title="qiita" width="800" height="500" src="https://ja.wikipedia.org/wiki/Qiita">Qiitaとは</iframe>
 
-<iframe title="URLを記入するだけ！はてなブログカード風にWordpress記事も表示させるカスタマイズ方法" src="https://yokoyamatomoyasu.github.io" width="300" height="150" frameborder="0" scrolling="no"></iframe>
+<iframe title="URL" src="https://yokoyamatomoyasu.github.io" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
 - 連絡先  
 yokoyama.tomoyasu at_mark jp.panasonic.com  
