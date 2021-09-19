@@ -20,7 +20,14 @@
   <div class="blogCardFooter">
     <a href="https://ja.wikipedia.org/wiki/Qiita"><img src="./YourCustomFileName_CollCode27318.png" alt="">{ドメイン名}</a>
   </div>
-</div>}}}}}}
+</div>
+
+<div class="ogp_card clearfix">
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/k/kasakasa7970/20160926/20160926185006.jpg" alt="晴れ時々晴天なり" width="100" height="100">
+<p class="title"><a href="https://www.aritai.net/entry/blog-manual" target="_blank">アクセスアップの為のブログ運営マニュアル！ - 晴れ時々晴天なり</a></p>
+ブログのアクセス数が20万PV達成しましたので、今までブログを運営する上で実践してきたブログ運営術を公開したいと思います。アクセスアップ術やSEO、他にも収益方法などを紹介しているので参考になれば幸…
+<p class="copy"><a href="https://www.aritai.net" target="_blank">www.aritai.net</a></p>
+</div>
 
 - 連絡先  
 yokoyama.tomoyasu at_mark jp.panasonic.com  
