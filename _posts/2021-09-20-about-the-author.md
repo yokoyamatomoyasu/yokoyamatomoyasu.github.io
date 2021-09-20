@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "このページについて"
+title: "このサイトについて"
 author: "Tomoyasu Yokoyama"
 categories: journal
 tags: [documentation,sample]
