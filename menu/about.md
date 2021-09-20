@@ -1,42 +1,39 @@
-## プロフィール
-- 名前 <br>
+---
+layout: page
+title:  About
+permalink: /about
+---
+
+### 名前 <br>
 横山智康（よこやまともやす）  
 
 
-- 所属  
+### 所属  
 パナソニック株式会社 テクノロジー本部 主任研究員  
 
 
-- 連絡先  
-yokoyama.tomoyasu at_mark jp.panasonic.com  
-(at_mark を ＠に置き換えてください）  
+### 専門  
+- 材料計算科学（第一原理計算）/ マテリアルズインフォマティクス  
+- 無機材料 / 有機－無機ハイブリッド材料  
+- 太陽電池 / 半導体 / 電池  
 
-- 専門  
-材料計算科学（第一原理計算）/ マテリアルズインフォマティクス  
-無機材料 / 有機－無機ハイブリッド材料  
-太陽電池 / 半導体 / 電池  
 
-- 研究者IDサービス  
+### 略歴  
+- 2008-2012　京都大学 工学部 物理工学科  
+- 2012-2014　京都大学大学院 工学研究科 材料工学専攻 修士課程  
+- 2014-　　　パナソニック株式会社  
+- 2019-　　　東京工業大学 科学技術創生研究院 フロンティア材料研究所 博士課程  
+
+### 受賞歴  
+- [第45回（2018年秋季）応用物理学会講演奨励賞](https://www.jsap.or.jp/young-scientist-presentation-award/recipients45)  
+- [第30回日本MRS年次大会奨励賞](https://www.mrs-j.org/meeting2020/jp/prg/awardList.php)  
+
+
+### 研究者IDサービス  
 [google scholar](https://scholar.google.co.jp/citations?user=D-TalWsAAAAJ&hl=ja&oi=ao)  [researchmap](https://researchmap.jp/yokoyama_tomoyasu)
 
-- 略歴  
-2008-2012　京都大学 工学部 物理工学科  
-2012-2014　京都大学大学院 工学研究科 材料工学専攻 修士課程  
-2014-　　　パナソニック株式会社  
-2019-　　　東京工業大学 科学技術創生研究院 フロンティア材料研究所 博士課程  
 
-- 受賞歴  
-[第45回（2018年秋季）応用物理学会講演奨励賞](https://www.jsap.or.jp/young-scientist-presentation-award/recipients45)  
-[第30回日本MRS年次大会奨励賞](https://www.mrs-j.org/meeting2020/jp/prg/awardList.php)  
-
-
-## 研究内容  
-研究内容の詳細は[こちら](research.md)
-
-## お知らせ  
-日本物理学会2021年秋季大会にて発表予定
-
-## 論文  
+### 論文  
 - <u>T. Yokoyama</u>, S. Ohuchi, T. Matsui, Y. Kaneko, T. Sasagawa, Low-Cost Computing of the Thermophysical Properties of Organic-Inorganic Halide Perovskites by Density Functional Theory Combined with the Three-Dimensional Reference Interaction Site Method. *J. Phys. Chem. C* **2021**, 45, 31. [https://doi.org/10.1021/acs.jpcc.1c01171](https://doi.org/10.1021/acs.jpcc.1c01171)  
 - <u>T. Yokoyama</u>, S. Ohuchi, E. Igaki, T. Matsui, Y. Kaneko, T. Sasagawa, An Efficient Ab Initio Scheme for Discovering Organic-Inorganic Hybrid Materials by Using Genetic Algorithms. *J. Phys. Chem. Lett.* **2021**, 12, 2023-2028. [https://doi.org/10.1021/acs.jpclett.1c00087](https://doi.org/10.1021/acs.jpclett.1c00087)  
 - Y. Miyamoto, S. Kusumoto, <u>T. Yokoyama</u>, Y. Nishitani, T. Matsui, T. Kouzaki, R. Nishikubo, A. Saeki, Y. Kaneko, High Current Density Sn-Based Perovskite Solar Cells via Enhanced Electron Extraction in Nanoporous Electron Transport Layers. *ACS Appl. Nano Mater.* **2020**, 3 (11), 11650-11657. [https://doi.org/10.1021/acsanm.0c02890](https://doi.org/10.1021/acs.jpclett.1c00087)  
@@ -49,7 +46,7 @@ yokoyama.tomoyasu at_mark jp.panasonic.com
 - <u>T. Yokoyama</u>, F. Oba, A. Seko, H. Hayashi, Y. Nose, I. Tanaka, Theoretical Photovoltaic Conversion Efficiencies of ZnSnP<sub>2</sub>, CdSnP<sub>2</sub>, and Zn<sub>1-X</sub>Cd<sub>x</sub>SnP<sub>2</sub> Alloys. *Appl. Phys. Express* **2013**, 6 (6). [https://doi.org/10.7567/APEX.6.061201](https://doi.org/10.7567/APEX.6.061201)  
 
 
-## 学会発表・講演  
+### 学会発表・講演  
 - <u>横山智康</u>，「DFT/3D-RISM 法による有機-無機ハイブリッド材料の有限温度での物性評価」 電気化学界面シミュレーションコンソーシアム2021年度第1回勉強会 (2021).  
 - <u>横山智康</u>，大内暁，市川和秀，四橋聡史，金子幸広，笹川崇男，「3D-RISM-SCF法による全固体電池用固体電解質におけるイオン拡散経路の高速探索手法」 第68回応用物理学会春季学術講演会 16p-Z33-11 (2021).  
 - <u>横山智康</u>，大内暁，松井太佑，金子幸広，笹川崇男，「Predicting the temperature dependence of properties of CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> by DFT/3D-RISM approach.」 第30回日本MRS年次大会 E-O9-014  (2020).  
@@ -68,7 +65,7 @@ yokoyama.tomoyasu at_mark jp.panasonic.com
 - <u>横山智康</u>，藤田達也，林博之，大場 史康，田中功，「第一原理計算によるCu<sub>2</sub>O基中間バンド型太陽電池の光吸収層の設計」 日本金属学会2013年春季講演大会 271 (2013).  
 
 
-## 特許  
+### 特許  
 - パナソニックIPマネジメント株式会社．楠本将平，河野 謙司，<u>横山智康</u>．「太陽電池」WO2021/100237．2021-05-27．
 - パナソニックIPマネジメント株式会社．<u>横山智康</u>，西谷雄，楠本将平，宮本唯未．「太陽電池」WO2020/213196．2020-10-22．
 - パナソニックIPマネジメント株式会社．松井太佑，菊地諒介，<u>横山智康</u>，大場史康．「太陽電池」WO2020/208843．2020-10-15．
