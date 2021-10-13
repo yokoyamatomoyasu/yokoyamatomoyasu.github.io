@@ -8,7 +8,7 @@ image: 1826426_s.jpg
 ---
 
 今回は過去に私が発明した**<font color="Blue">「人工知能（AI）によるペロブスカイト太陽電池の検査装置」</font>**
-（[特開2020-005473](https://www.j-platpat.inpit.go.jp/p0200)）という特許について解説したいと思います。
+（[特開2020-005473](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2020-005473/BAFBEA785A8A8F5D0D25B1ACFDC34927DE6CEA14938914035712A33DF6AFDD22/11/ja)）という特許について解説したいと思います。
 
 
 ### どんなことができるの？
