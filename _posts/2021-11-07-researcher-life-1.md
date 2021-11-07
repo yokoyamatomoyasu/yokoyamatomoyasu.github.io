@@ -7,7 +7,7 @@ tags: [documentation,technology]
 image: scott-graham-5fNmWej4tAA-unsplash.jpg
 ---
 
-今日は**<font color="Blue">社会人博士課程</font>**について、私の経験を書きたいと思います。
+今日は**<font color="Blue">社会人博士課程</font>**への進学を考える方に対し、私が考えてきたことを書きたいと思います。
 
 ### 社会人になってもなぜ博士号をとる必要があるの？
 
