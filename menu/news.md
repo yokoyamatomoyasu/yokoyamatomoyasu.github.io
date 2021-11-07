@@ -6,14 +6,14 @@ permalink: /news
 
 - 2021年12月13日-15日
 
-第31回日本MRS年次大会にて以下のタイトルで招待講演予定
+第31回日本MRS年次大会にて以下のタイトルで招待講演[リンク](https://www.mrs-j.org/meeting2021/jp/prg/programList_oral.php?id=C)
 
 「Predicting structures and properties of organic-inorganic hybrid materials by first-principle calculations」
 
 
 - 2021年10月14日
 
-WIRED CONFERENCE 2021にて以下のタイトルで講演予定[リンク](https://wired.jp/future-re-generative-2021/)
+WIRED CONFERENCE 2021にて以下のタイトルで講演[リンク](https://wired.jp/future-re-generative-2021/)
 
 「マテリアルと情報が重なり合う未来」横山智康×藤原謙（ウミトロンCEO）
 
