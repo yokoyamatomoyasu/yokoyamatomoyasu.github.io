@@ -4,7 +4,7 @@ title: "社会人博士課程に進学する前にすべきこと"
 author: "Tomoyasu Yokoyama"
 categories: blog
 tags: [documentation,technology]
-image: isaac-smith-6EnTPvPPL6I-unsplash.jpg
+image: scott-graham-5fNmWej4tAA-unsplash.jpg
 ---
 
 今日は**<font color="Blue">社会人博士課程</font>**について、私の経験を書きたいと思います。
