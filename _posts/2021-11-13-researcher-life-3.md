@@ -7,7 +7,8 @@ tags: [documentation,technology]
 image: patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg
 ---
 
-第3回は博士課程
+第3回は社会人博士課程への進学を考えている方に向けて、
+進学前に私がお勧めしたいことについて書きたいと思います。
 
 ### 社会人博士課程進学前に何をすればいいの？
 
