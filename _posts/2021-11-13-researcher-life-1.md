@@ -21,9 +21,10 @@ image: thisisengineering-raeng-mF6gB6hV5OU-unsplash.jpg
 
 ### 一般的な博士課程と社会人博士課程は何が違うの？
 
+私が思う社会人博士課程のメリットは、**<font color="Blue">俯瞰して自分の極めたい技術を見定めることができる</font>**点です。
+
 ![Figure](../assets/img/mikael-kristenson-3aVlWP-7bg8-unsplash.jpg)
 
-私が思う社会人博士課程のメリットは、**<font color="Blue">俯瞰して自分の極めたい技術を見定めることができる</font>**点です。
 
 私が修士学生の時の研究テーマは「中間バンド型太陽電池」と呼ばれる
 次世代太陽電池の材料をシミュレーションにより探索するという内容でした。
@@ -46,7 +47,6 @@ image: thisisengineering-raeng-mF6gB6hV5OU-unsplash.jpg
 
 ### 民間企業の研究開発ってどんな感じなの？
 
-![Figure](../assets/img/lenny-kuhne-jHZ70nRk7Ns-unsplash.jpg)
 
 一方学術界と異なり、産業界では、時代のトレンドにあったホットな分野に対し最短の道のりになるよう研究開発を行う傾向があります。
 分野全体を把握して、本質的な課題となっているところを見極め、それに必要な技術を取り入れることで、
@@ -54,6 +54,8 @@ image: thisisengineering-raeng-mF6gB6hV5OU-unsplash.jpg
 それゆえに、さまざまな分野、さまざまな技術を俯瞰して比較することができます。
 今どんな分野・技術に勢いがあるのか、今後ホットになりそうなことは何か、ということにアンテナを張っている研究者が多く、
 たくさんの情報が集まってくる環境です。
+
+![Figure](../assets/img/lenny-kuhne-jHZ70nRk7Ns-unsplash.jpg)
 
 私の場合も、就職してからLiイオン電池材料や太陽電池材料、熱電変換材料など、様々な分野の材料開発に関わることで、
 どこが本質的な課題となっていて、どの分野であれば私のスキルである材料シミュレーションが役に立つかを見極めることができました。
