@@ -29,7 +29,7 @@ permalink: /about
 - [第30回日本MRS年次大会奨励賞](https://www.mrs-j.org/meeting2020/jp/prg/awardList.php)  
 
 ### SNS 
-- [Twwiter](https://twitter.com/yoko_materialDX)
+- [Twitter](https://twitter.com/yoko_materialDX)
 - [LinkedIn](https://www.linkedin.com/in/智康-横山-a48226223/) 
 
 
