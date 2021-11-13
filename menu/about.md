@@ -28,9 +28,14 @@ permalink: /about
 - [第45回（2018年秋季）応用物理学会講演奨励賞](https://www.jsap.or.jp/young-scientist-presentation-award/recipients45)  
 - [第30回日本MRS年次大会奨励賞](https://www.mrs-j.org/meeting2020/jp/prg/awardList.php)  
 
+### SNS 
+- [Twwiter](https://twitter.com/yoko_materialDX)
+- [LinkedIn](https://www.linkedin.com/in/智康-横山-a48226223/) 
+
 
 ### 研究者IDサービス  
-[google scholar](https://scholar.google.co.jp/citations?user=D-TalWsAAAAJ&hl=ja&oi=ao)  [researchmap](https://researchmap.jp/yokoyama_tomoyasu)
+- [google scholar](https://scholar.google.co.jp/citations?user=D-TalWsAAAAJ&hl=ja&oi=ao) 
+- [researchmap](https://researchmap.jp/yokoyama_tomoyasu)
 
 
 ### 論文  
