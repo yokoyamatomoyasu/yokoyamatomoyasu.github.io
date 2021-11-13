@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "私の社会人博士課程の話Ⅲー社会人博士課程進学前に何をすればいいかー"
+title: "私の社会人博士課程の話 Ⅲ ー社会人博士課程進学前に何をすればいいかー"
 author: "Tomoyasu Yokoyama"
 categories: blog,doctor
 tags: [documentation,technology]

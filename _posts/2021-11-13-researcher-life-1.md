@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "私の社会人博士課程の話Ⅰー博士課程と”社会人”博士課程は何が違うかー"
+title: "私の社会人博士課程の話 Ⅰ ー博士課程と”社会人”博士課程は何が違うかー"
 author: "Tomoyasu Yokoyama"
 categories: blog,doctor
 tags: [documentation,technology]

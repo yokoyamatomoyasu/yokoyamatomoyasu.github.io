@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "私の社会人博士課程の話Ⅱーなぜ博士過程に進学したかー"
+title: "私の社会人博士課程の話 Ⅱ ーなぜ博士過程に進学したかー"
 author: "Tomoyasu Yokoyama"
 categories: blog,doctor
 tags: [documentation,technology]
