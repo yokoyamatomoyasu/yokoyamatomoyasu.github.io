@@ -2,7 +2,7 @@
 layout: post
 title: "私の社会人博士課程の話Ⅰー博士課程と”社会人”博士課程は何が違うかー"
 author: "Tomoyasu Yokoyama"
-categories: blog
+categories: blog,doctor
 tags: [documentation,technology]
 image: thisisengineering-raeng-mF6gB6hV5OU-unsplash.jpg
 ---
@@ -80,7 +80,7 @@ image: thisisengineering-raeng-mF6gB6hV5OU-unsplash.jpg
 
 ![Figure](../assets/img/sieuwert-otterloo-AuR4z-edGAU-unsplash.jpg)
 
-ただし、民間企業の研究廃発は、悪い言い方をすれば流行に流されやすく、
+ただし、民間企業の研究開発は、悪い言い方をすれば流行に流されやすく、
 私のように研究テーマがコロコロとかわることもありますし、
 当然ながら、会社での仕事と学業を両立するのは大変です。
 故に、自分の極めたい道が明確な修士課程の学生の方は、そのまま博士課程に進学することをお勧めします。
@@ -91,5 +91,3 @@ image: thisisengineering-raeng-mF6gB6hV5OU-unsplash.jpg
 
 ここまで、一般的な博士課程と社会人博士課程の違いについて社会人博士課程の私が思うことをお話しました。
 次回は、私はなぜ博士課程に進学したか？何がモチベーションだったのか？について書きたいと思います。
-
-[私の社会人博士課程の話Ⅱーなぜ博士過程に進学したかー](../_posts/2021-11-13-researcher-life-2.md)
