@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "私の社会人博士課程の話 Ⅱ ーなぜ博士過程に進学したかー"
+title: "社会人博士論 Ⅱ ーなぜ博士過程に進学したかー"
 author: "Tomoyasu Yokoyama"
 categories: blog,doctor
 tags: [documentation,technology]
@@ -56,4 +56,4 @@ image: vasily-koloda-8CqDvPuo_kI-unsplash.jpg
 ではどのように社会人課程に進学したか？最終回は、社会人博士課程への進学を考えている方に向けて、
 進学前に私がお勧めしたいことについて書きたいと思います。
 
-[私の社会人博士課程の話 Ⅲ ー社会人博士課程進学前に何をすればいいかー](https://yokoyamatomoyasu.github.io/researcher-life-3)
+[社会人博士論 Ⅲ ー社会人博士課程進学前に何をすればいいかー](https://yokoyamatomoyasu.github.io/researcher-life-3)
