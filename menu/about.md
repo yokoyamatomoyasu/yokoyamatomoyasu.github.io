@@ -38,6 +38,11 @@ permalink: /about
 - [researchmap](https://researchmap.jp/yokoyama_tomoyasu)
 
 
+### メディア
+- WIRED JAPAN，「人智を超えた素材開発とその効率化の先にある未来とは」 [リンク](https://wired.jp/2021/11/25/wired-conference-2021-panasonic-ws/)
+- 日経クロステック，「次世代太陽電池にわずか1年で革新　「10年に1人」の企業研究者」 [リンク](https://xtech.nikkei.com/atcl/nxt/column/18/01620/052000007/)
+
+
 ### 論文  
 - <u>T. Yokoyama</u>, S. Ohuchi, T. Matsui, Y. Kaneko, T. Sasagawa, Low-Cost Computing of the Thermophysical Properties of Organic-Inorganic Halide Perovskites by Density Functional Theory Combined with the Three-Dimensional Reference Interaction Site Method. *J. Phys. Chem. C* **2021**, 45, 31. [https://doi.org/10.1021/acs.jpcc.1c01171](https://doi.org/10.1021/acs.jpcc.1c01171)  
 - <u>T. Yokoyama</u>, S. Ohuchi, E. Igaki, T. Matsui, Y. Kaneko, T. Sasagawa, An Efficient Ab Initio Scheme for Discovering Organic-Inorganic Hybrid Materials by Using Genetic Algorithms. *J. Phys. Chem. Lett.* **2021**, 12, 2023-2028. [https://doi.org/10.1021/acs.jpclett.1c00087](https://doi.org/10.1021/acs.jpclett.1c00087)  
