@@ -8,7 +8,7 @@ permalink: /news
 
 	第31回日本MRS年次大会にて以下のタイトルで招待講演しました。
 
-	[「Predicting structures and properties of organic-inorganic hybrid materials by first-principle calculations」](https://www.mrs-j.org/meeting2021/jp/prg/programList_oral.php?id=C)
+	[「Predicting structures and properties of organic-inorganic hybrid materials by first-principles calculations」](https://www.mrs-j.org/meeting2021/jp/prg/programList_oral.php?id=C)
 
 - 2021年11月25日
 
