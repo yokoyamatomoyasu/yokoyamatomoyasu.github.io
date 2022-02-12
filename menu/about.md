@@ -22,7 +22,7 @@ permalink: /about
 - 2008-2012　京都大学 工学部 物理工学科  
 - 2012-2014　京都大学大学院 工学研究科 材料工学専攻 修士課程  
 - 2014-　　　パナソニック株式会社  
-- 2019-　　　東京工業大学 科学技術創生研究院 フロンティア材料研究所 博士課程  
+- 2019-2022　東京工業大学 物質理工学院 材料系 社会人博士課程
 
 ### 受賞歴  
 - [第45回（2018年秋季）応用物理学会講演奨励賞](https://www.jsap.or.jp/young-scientist-presentation-award/recipients45)  
@@ -44,6 +44,7 @@ permalink: /about
 
 
 ### 論文  
+- <u>T. Yokoyama</u>, S. Ohuchi, T. Matsui, Y. Kaneko, Material Digitalization for organic-inorganic hybrid materials. *Panasonic Technical Journal* **2021**, 67, 2. [https://www.panasonic.com/jp/corporate/technology-design/ptj/v6702-gaiyo.html#section01_15](https://www.panasonic.com/jp/corporate/technology-design/ptj/v6702-gaiyo.html#section01_15)  
 - <u>T. Yokoyama</u>, S. Ohuchi, T. Matsui, Y. Kaneko, T. Sasagawa, Low-Cost Computing of the Thermophysical Properties of Organic-Inorganic Halide Perovskites by Density Functional Theory Combined with the Three-Dimensional Reference Interaction Site Method. *J. Phys. Chem. C* **2021**, 45, 31. [https://doi.org/10.1021/acs.jpcc.1c01171](https://doi.org/10.1021/acs.jpcc.1c01171)  
 - <u>T. Yokoyama</u>, S. Ohuchi, E. Igaki, T. Matsui, Y. Kaneko, T. Sasagawa, An Efficient Ab Initio Scheme for Discovering Organic-Inorganic Hybrid Materials by Using Genetic Algorithms. *J. Phys. Chem. Lett.* **2021**, 12, 2023-2028. [https://doi.org/10.1021/acs.jpclett.1c00087](https://doi.org/10.1021/acs.jpclett.1c00087)  
 - Y. Miyamoto, S. Kusumoto, <u>T. Yokoyama</u>, Y. Nishitani, T. Matsui, T. Kouzaki, R. Nishikubo, A. Saeki, Y. Kaneko, High Current Density Sn-Based Perovskite Solar Cells via Enhanced Electron Extraction in Nanoporous Electron Transport Layers. *ACS Appl. Nano Mater.* **2020**, 3 (11), 11650-11657. [https://doi.org/10.1021/acsanm.0c02890](https://doi.org/10.1021/acs.jpclett.1c00087)  

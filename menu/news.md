@@ -4,6 +4,12 @@ title:  News
 permalink: /news
 ---
 
+- 2022年1月13日
+
+	社会人博士課程の博士論文発表会にて以下のタイトルで発表しました。
+
+	[「New Search Scheme for Organic-Inorganic Hybrid Materials by First-Principles Approach」](https://educ.titech.ac.jp/mat/event_information/2021/061678.html)
+
 - 2021年12月13日-15日
 
 	第31回日本MRS年次大会にて以下のタイトルで招待講演しました。
@@ -15,6 +21,12 @@ permalink: /news
 	WIRED CONFERENCE 2021にて講演した内容が記事になりました。
 
 	[「人智を超えた素材開発とその効率化の先にある未来とは：「WIRED CONFERENCE 2021」ウミトロン・藤原謙 × パナソニック テクノロジー本部・横山智康」](https://wired.jp/2021/11/25/wired-conference-2021-panasonic-ws/)
+
+- 2021年11月16日
+
+	パナソニック技報に以下のタイトルで論文を寄稿しました。
+
+	[「有機‐無機ハイブリッド材料開発のデジタライゼーション」](https://www.panasonic.com/jp/corporate/technology-design/ptj/v6702-gaiyo.html#section01_15)
 
 - 2021年10月14日
 
