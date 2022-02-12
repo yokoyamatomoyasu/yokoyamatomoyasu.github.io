@@ -39,4 +39,4 @@ permalink: /research
 
 ![エビフライトライアングル](../assets/img/solar_cell.jpg)
 
-具体的な研究内容は[こちら](../assets/pdf/p0115-2.pdf)をご覧ください。
+ペロブスカイト太陽電池に関連した研究内容の詳細は[こちら](../assets/pdf/p0115-2.pdf)をご覧ください。
