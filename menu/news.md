@@ -8,6 +8,8 @@ permalink: /news
 
 - 2022年3月15日
 
+- 2022年3月15日
+
 	パナソニックの採用HPにてインタビュー記事が公開されました。
 
 	[「パナソニックの人：マテリアルズ・インフォマティクスを駆使し、エネルギー材料を革新したい。」](https://recruit.jpn.panasonic.com/person/t_yokoyama.html)
