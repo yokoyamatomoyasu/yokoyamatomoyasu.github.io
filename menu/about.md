@@ -5,24 +5,24 @@ permalink: /about
 ---
 
 ### 名前 <br>
-横山智康（よこやまともやす）  
+横山智康（よこやまともやす） 博士（工学）
 
 
 ### 所属  
-パナソニック株式会社 テクノロジー本部 主任研究員  
+パナソニック株式会社 テクノロジー本部 主任研究員 
 
 
 ### 専門  
 - 材料計算科学 / 固体電子 / 第一原理計算 / マテリアルズインフォマティクス  
 - 無機材料 / 有機－無機ハイブリッド材料  
-- 太陽電池 / 半導体 / 電池  
+- 太陽電池 / 蓄電池 / 半導体  
 
 
 ### 略歴  
 - 2008-2012　京都大学 工学部 物理工学科  
 - 2012-2014　京都大学大学院 工学研究科 材料工学専攻 修士課程  
-- 2014-　　　パナソニック株式会社  
-- 2019-2022　東京工業大学 物質理工学院 材料系 社会人博士課程
+- 2014-    　パナソニック株式会社  
+- 2019-2022　東京工業大学 物質理工学院 材料系 社会人博士課程 
 
 ### 受賞歴  
 - [第45回（2018年秋季）応用物理学会講演奨励賞](https://www.jsap.or.jp/young-scientist-presentation-award/recipients45)  
@@ -39,6 +39,7 @@ permalink: /about
 
 
 ### メディア
+- パナソニック採用，「パナソニックの人：マテリアルズ・インフォマティクスを駆使し、エネルギー材料を革新したい。」，2022年3月15日 [リンク](https://recruit.jpn.panasonic.com/person/t_yokoyama.html)
 - WIRED JAPAN，「人智を超えた素材開発とその効率化の先にある未来とは」，2021年11月25日 [リンク](https://wired.jp/2021/11/25/wired-conference-2021-panasonic-ws/)
 - 日経クロステック，「次世代太陽電池にわずか1年で革新　「10年に1人」の企業研究者」，2021年5月24日 [リンク](https://xtech.nikkei.com/atcl/nxt/column/18/01620/052000007/)
 
@@ -56,17 +57,18 @@ permalink: /about
 - H. Hayashi, S. Katayama, T. Komura, Y. Hinuma, <u>T. Yokoyama</u>, K. Mibu, F. Oba, I. Tanaka, Discovery of a Novel Sn(II)-Based Oxide β-SnMoO<sub>4</sub> for Daylight-Driven Photocatalysis. *Adv. Sci.* **2017**, 4 (1). [https://doi.org/10.1002/advs.201600246](https://doi.org/10.1002/advs.201600246)  
 - <u>T. Yokoyama</u>, F. Oba, A. Seko, H. Hayashi, Y. Nose, I. Tanaka, Theoretical Photovoltaic Conversion Efficiencies of ZnSnP<sub>2</sub>, CdSnP<sub>2</sub>, and Zn<sub>1-X</sub>Cd<sub>x</sub>SnP<sub>2</sub> Alloys. *Appl. Phys. Express* **2013**, 6 (6). [https://doi.org/10.7567/APEX.6.061201](https://doi.org/10.7567/APEX.6.061201)  
 
-
-### 学会発表・講演  
+### 招待講演  
 - <u>横山智康</u>，大内暁，松井太佑，金子幸広，笹川崇男，「Predicting structures and properties of organic-inorganic hybrid materials by first-principles calculations」 第31回日本MRS年次大会 C-I13-001 (2021).  
-- <u>横山智康</u>，大内暁，松井太佑，金子幸広，笹川崇男，「有機‐無機ハイブリッドペロブスカイト材料のDFT/3D-RISM法による熱物性および相転移予測」 日本物理学会2021年秋季大会 23pG1-5 (2021).  
 - <u>横山智康</u>，「DFT/3D-RISM 法による有機-無機ハイブリッド材料の有限温度での物性評価」 電気化学界面シミュレーションコンソーシアム2021年度第1回勉強会 (2021).  
+- <u>横山智康</u>，大内暁，松井太佑，金子幸広，笹川崇男，「マテリアルズ・インフォマティクスによる有機－無機ハイブリッド材料の探索手法開発」 第4回フロンティア太陽電池セミナー (2019).  
+- <u>横山智康</u>，大内暁，松井太佑，井垣恵美子，笹川崇男，「第一原理計算と遺伝的アルゴリズムによる有機－無機ハイブリッド材料の状態図予測」 第66回応用物理学会春季学術講演会 10p-S423-1 (2019).  
+
+### 学会発表
+- <u>横山智康</u>，大内暁，松井太佑，金子幸広，笹川崇男，「有機‐無機ハイブリッドペロブスカイト材料のDFT/3D-RISM法による熱物性および相転移予測」 日本物理学会2021年秋季大会 23pG1-5 (2021).  
 - <u>横山智康</u>，大内暁，市川和秀，四橋聡史，金子幸広，笹川崇男，「3D-RISM-SCF法による全固体電池用固体電解質におけるイオン拡散経路の高速探索手法」 第68回応用物理学会春季学術講演会 16p-Z33-11 (2021).  
 - <u>横山智康</u>，大内暁，松井太佑，金子幸広，笹川崇男，「Predicting the temperature dependence of properties of CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> by DFT/3D-RISM approach.」 第30回日本MRS年次大会 E-O9-014  (2020).  
 - <u>T. Yokoyama</u>, Y. Nishitani, Y. Miyamoto, S. Kusumoto, T. Matsui, K. Kawano, Y. Kaneko, "Exploring the limit of open circuit voltage by a large band offset at the interface between electron transport layer and tin-based halide perovskite layer" 2019 MRS Fall Meeting & Exhibit EN08.06.21 (2019).  
-- <u>横山智康</u>，大内暁，松井太佑，金子幸広，笹川崇男，「マテリアルズ・インフォマティクスによる有機－無機ハイブリッド材料の探索手法開発」 第4回フロンティア太陽電池セミナー (2019).  
 - <u>横山智康</u>，大内暁，松井太佑，金子幸広，笹川崇男，「第一原理計算と遺伝的アルゴリズムによる鉛フリーの有機－無機ハイブリッド材料の状態図予測」 第80回応用物理学会秋季学術講演会 19a-E318-1 (2019).  
-- <u>横山智康</u>，大内暁，松井太佑，井垣恵美子，笹川崇男，「第一原理計算と遺伝的アルゴリズムによる有機－無機ハイブリッド材料の状態図予測」 第66回応用物理学会春季学術講演会 10p-S423-1 (2019).  
 - <u>横山智康</u>，大内暁，松井太佑，金子幸広，笹川崇男，「The phase diagram prediction of organic-inorganic hybrid materials.」 第28回日本MRS年次大会 D2-O20-003 (2018).  
 - <u>横山智康</u>，大内暁，松井太佑，井垣恵美子，笹川崇男，「第一原理計算と遺伝的アルゴリズムによる有機－無機ハイブリッド材料の状態図予測」 第79回応用物理学会秋季学術講演会 19p-437-12 (2018).  
 - <u>T. Yokoyama</u>, M. Suzuka, Y. Miyamoto, T. Sekimoto, R. Uchida, T. Sekiguchi, K. Kawano, "The bandgap narrowing of organic-inorganic hybrid perovskite by the orientation of organic cations" Perovskite Thin Film Photovoltaics (ABXPV17) (2017).  
