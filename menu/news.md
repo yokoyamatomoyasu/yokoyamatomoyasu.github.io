@@ -4,58 +4,39 @@ title:  News
 permalink: /news
 ---
 
-{% twitter https://twitter.com/yoko_materialDX/status/1507673724316577795?s=20&t=tla9ML8kA07CAOWJreaFVg %}
+### 2022年3月15日
+パナソニックの採用HPにてインタビュー記事が公開されました。
+{% twitter https://twitter.com/yoko_materialDX/status/1504774626894700544?s=20&t=5FP_LMAkwDhH5vVkIVrxBg %}	
 
-- 2022年3月15日
+### 2022年1月17日
+社会人博士課程の博士論文発表会にて以下のタイトルで発表しました。
+{% twitter https://twitter.com/yoko_materialDX/status/1483028853664907269?s=20&t=5FP_LMAkwDhH5vVkIVrxBg %}	
 
-- 2022年3月15日
+### 2022年1月1日
+2022年になりました。本年もよろしくお願いいたします。
+{% twitter https://twitter.com/yoko_materialDX/status/1477217762154250248?s=20&t=5FP_LMAkwDhH5vVkIVrxBg %}
 
-	パナソニックの採用HPにてインタビュー記事が公開されました。
+### 2021年12月13日
+第31回日本MRS年次大会にて以下のタイトルで招待講演しました。
+{% twitter https://twitter.com/yoko_materialDX/status/1470010831878635529?s=20&t=5FP_LMAkwDhH5vVkIVrxBg %}
 
-	[「パナソニックの人：マテリアルズ・インフォマティクスを駆使し、エネルギー材料を革新したい。」](https://recruit.jpn.panasonic.com/person/t_yokoyama.html)
+### 2021年11月25日
+WIRED CONFERENCE 2021にて講演した内容が記事になりました。
+{% twitter https://twitter.com/yoko_materialDX/status/1464474066702807042?s=20&t=5FP_LMAkwDhH5vVkIVrxBg %}
 
-- 2022年1月13日
+### 2021年11月15日
+パナソニック技報に以下のタイトルで論文を寄稿しました。
+{% twitter https://twitter.com/yoko_materialDX/status/1460152453018439683?s=20&t=5FP_LMAkwDhH5vVkIVrxBg %}
 
-	社会人博士課程の博士論文発表会にて以下のタイトルで発表しました。
+### 2021年10月14日
+WIRED CONFERENCE 2021にて以下のタイトルで講演しました。
+{% twitter https://twitter.com/wired_jp/status/1446449043727536130?s=20&t=5FP_LMAkwDhH5vVkIVrxBg %}
 
-	[「New Search Scheme for Organic-Inorganic Hybrid Materials by First-Principles Approach」](https://educ.titech.ac.jp/mat/event_information/2021/061678.html)
+### 2021年10月13日
+Twitterを始めました。マテリアルズ・インフォマティクスや材料科学の最新の論文やニュースを発信しています。
 
-- 2021年12月13日-15日
+{% twitter https://twitter.com/yoko_materialDX/status/1452110078551592966?s=20&t=heHj9wXdva_yzenPC8vReA %}	
 
-	第31回日本MRS年次大会にて以下のタイトルで招待講演しました。
-
-	[「Predicting structures and properties of organic-inorganic hybrid materials by first-principles calculations」](https://www.mrs-j.org/meeting2021/jp/prg/programList_oral.php?id=C)
-
-- 2021年11月25日
-
-	WIRED CONFERENCE 2021にて講演した内容が記事になりました。
-
-	[「人智を超えた素材開発とその効率化の先にある未来とは：「WIRED CONFERENCE 2021」ウミトロン・藤原謙 × パナソニック テクノロジー本部・横山智康」](https://wired.jp/2021/11/25/wired-conference-2021-panasonic-ws/)
-
-- 2021年11月16日
-
-	パナソニック技報に以下のタイトルで論文を寄稿しました。
-
-	[「有機‐無機ハイブリッド材料開発のデジタライゼーション」](https://www.panasonic.com/jp/corporate/technology-design/ptj/v6702-gaiyo.html#section01_15)
-
-- 2021年10月14日
-
-	WIRED CONFERENCE 2021にて以下のタイトルで講演しました。
-
-	[「マテリアルと情報が重なり合う未来 横山智康×藤原謙（ウミトロンCEO）」](https://wired.jp/future-re-generative-2021/)
-
-
-- 2021年9月23日
-
-	日本物理学会2021年秋季大会にて以下のタイトルで講演
-
-	「有機‐無機ハイブリッドペロブスカイト材料のDFT/3D-RISM法による熱物性および相転移予測」（23pG1-5）
-
-- 2021年5月24日
-
-	日経クロステックから取材を受け記事になりました。
-
-	[「次世代太陽電池にわずか1年で革新　「10年に1人」の企業研究者」](https://xtech.nikkei.com/atcl/nxt/column/18/01620/052000007/)
 
 
 
