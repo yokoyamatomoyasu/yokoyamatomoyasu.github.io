@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Tomoyasu Yokoyama</title>
+		<description>Material Scientist's Pages</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>企業研究者にとって大事なこと Ⅰ</title>
+				
+					<dc:creator>Tomoyasu Yokoyama</dc:creator>
+				
+				
+					<description>&lt;p&gt;私が企業研究者にとって大事だと思うことが３つあります。今回はそのことについて書きたいと思います。&lt;/p&gt;
+</description>
+				
+				<pubDate>Sun, 27 Mar 2022 00:00:00 +0900</pubDate>
+				<link>/researcher-life-4</link>
+				<guid isPermaLink="true">/researcher-life-4</guid>
+			</item>
+		
+			<item>
+				<title>社会人博士論 Ⅲ ー社会人博士課程進学前に何をすればいいかー</title>
+				
+					<dc:creator>Tomoyasu Yokoyama</dc:creator>
+				
+				
+					<description>&lt;p&gt;第3回は社会人博士課程への進学を考えている方に向けて、
+進学前に私がお勧めしたいことについて書きたいと思います。&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 13 Nov 2021 00:00:00 +0900</pubDate>
+				<link>/researcher-life-3</link>
+				<guid isPermaLink="true">/researcher-life-3</guid>
+			</item>
+		
+			<item>
+				<title>社会人博士論 Ⅱ ーなぜ博士過程に進学したかー</title>
+				
+					<dc:creator>Tomoyasu Yokoyama</dc:creator>
+				
+				
+					<description>&lt;p&gt;第2回は、どういう考えから私が&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;社会人博士課程&lt;/font&gt;&lt;/strong&gt;に進学するに至ったかについて
+書きたいと思います。&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 13 Nov 2021 00:00:00 +0900</pubDate>
+				<link>/researcher-life-2</link>
+				<guid isPermaLink="true">/researcher-life-2</guid>
+			</item>
+		
+			<item>
+				<title>社会人博士論 Ⅰ ー博士課程と”社会人”博士課程は何が違うかー</title>
+				
+					<dc:creator>Tomoyasu Yokoyama</dc:creator>
+				
+				
+					<description>&lt;p&gt;私はパナソニックで働きながら2019年に博士課程に進学しました。
+今回は&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;社会人博士課程&lt;/font&gt;&lt;/strong&gt;について
+私が考えてきたことを3回に分けて書きたいと思います。
+第1回は、博士課程に進学するか、民間企業に就職するか悩んでいる方に対し、
+私が思う社会人博士課程のメリットについてお話したいと思います。&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 13 Nov 2021 00:00:00 +0900</pubDate>
+				<link>/researcher-life-1</link>
+				<guid isPermaLink="true">/researcher-life-1</guid>
+			</item>
+		
+			<item>
+				<title>[技術解説]ペロブスカイト太陽電池とは？</title>
+				
+					<dc:creator>Tomoyasu Yokoyama</dc:creator>
+				
+				
+					<description>&lt;p&gt;次世代の太陽電池として注目されている&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「ペロブスカイト太陽電池」&lt;/font&gt;&lt;/strong&gt;について、開発に携わる者として解説したいと思います。&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 12 Oct 2021 00:00:00 +0900</pubDate>
+				<link>/tech-trend-1</link>
+				<guid isPermaLink="true">/tech-trend-1</guid>
+			</item>
+		
+			<item>
+				<title>[特許解説]人工知能によるペロブスカイト太陽電池の検査装置</title>
+				
+					<dc:creator>Tomoyasu Yokoyama</dc:creator>
+				
+				
+					<description>&lt;p&gt;今回は過去に私が発明した&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「人工知能（AI）によるペロブスカイト太陽電池の検査装置」&lt;/font&gt;&lt;/strong&gt;
+（&lt;a href=&quot;https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2020-005473/BAFBEA785A8A8F5D0D25B1ACFDC34927DE6CEA14938914035712A33DF6AFDD22/11/ja&quot;&gt;特開2020-005473&lt;/a&gt;）という特許について解説したいと思います。&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 21 Sep 2021 00:00:00 +0900</pubDate>
+				<link>/patent-yoko-1</link>
+				<guid isPermaLink="true">/patent-yoko-1</guid>
+			</item>
+		
+			<item>
+				<title>このサイトについて</title>
+				
+					<dc:creator>Tomoyasu Yokoyama</dc:creator>
+				
+				
+					<description>&lt;p&gt;本サイトを閲覧いただきありがとうございます。&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 20 Sep 2021 00:00:00 +0900</pubDate>
+				<link>/about-the-author</link>
+				<guid isPermaLink="true">/about-the-author</guid>
+			</item>
+		
+	</channel>
+</rss>
