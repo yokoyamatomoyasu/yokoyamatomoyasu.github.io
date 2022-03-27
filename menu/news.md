@@ -4,11 +4,15 @@ title:  News
 permalink: /news
 ---
 
+<blockquote class=”twitter-tweet” data-conversation=”none”><a href=”https://twitter.com/yoko_materialDX/status/1507673724316577795?s=20&t=tla9ML8kA07CAOWJreaFVg”></a></blockquote>
+
+
+
 - 2022年3月15日
 
 	パナソニックの採用HPにてインタビュー記事が公開されました。
 
-	[「マテリアルズ・インフォマティクスを駆使し、エネルギー材料を革新したい。」](https://recruit.jpn.panasonic.com/person/t_yokoyama.html)
+	[「パナソニックの人：マテリアルズ・インフォマティクスを駆使し、エネルギー材料を革新したい。」](https://recruit.jpn.panasonic.com/person/t_yokoyama.html)
 
 - 2022年1月13日
 
