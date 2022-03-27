@@ -4,9 +4,7 @@ title:  News
 permalink: /news
 ---
 
-<blockquote class=”twitter-tweet” data-conversation=”none”><a href=”https://twitter.com/yoko_materialDX/status/1507673724316577795?s=20&t=tla9ML8kA07CAOWJreaFVg”></a></blockquote>
-
-
+{% twitter https://twitter.com/yoko_materialDX/status/1507673724316577795?s=20&t=tla9ML8kA07CAOWJreaFVg %}
 
 - 2022年3月15日
 
