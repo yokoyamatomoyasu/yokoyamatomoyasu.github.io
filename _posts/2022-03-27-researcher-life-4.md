@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "企業研究者にとって大事なこと Ⅰ"
+title: "企業研究者にとって大事だと思うこと Ⅰ"
 author: "Tomoyasu Yokoyama"
 categories: blog,mindset
 tags: [documentation,technology,mindset]
 image: pexels-fauxels-3183153.jpg
 ---
 
-
-私が企業研究者にとって大事だと思うことが３つあります。今回はそのことについて書きたいと思います。
+私が企業研究者にとって大事だと思い、日頃から意識していることが３つあります。今回はそのことについて書きたいと思います。
 
 ### 企業研究者にとって大事なことは？その１
 
