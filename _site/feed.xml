@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-04-03T15:34:11+09:00</updated><id>/feed.xml</id><title type="html">Tomoyasu Yokoyama</title><subtitle>Material Scientist's Pages</subtitle><author><name>Tomoyasu Yokoyama</name></author><entry><title type="html">企業研究者にとって大事なこと Ⅰ</title><link href="/researcher-life-4" rel="alternate" type="text/html" title="企業研究者にとって大事なこと Ⅰ" /><published>2022-03-27T00:00:00+09:00</published><updated>2022-03-27T00:00:00+09:00</updated><id>/researcher-life-4</id><content type="html" xml:base="/researcher-life-4">&lt;p&gt;私が企業研究者にとって大事だと思うことが３つあります。今回はそのことについて書きたいと思います。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-04-03T22:04:04+09:00</updated><id>/feed.xml</id><title type="html">Tomoyasu Yokoyama</title><subtitle>Material Scientist's Pages</subtitle><author><name>Tomoyasu Yokoyama</name></author><entry><title type="html">企業研究者にとって大事だと思うこと ⅠⅠ</title><link href="/researcher-life-5" rel="alternate" type="text/html" title="企業研究者にとって大事だと思うこと ⅠⅠ" /><published>2022-04-03T00:00:00+09:00</published><updated>2022-04-03T00:00:00+09:00</updated><id>/researcher-life-5</id><content type="html" xml:base="/researcher-life-5">&lt;p&gt;&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;前回に引き続き、私が民間企業の研究者として大事だと思うことについて書きたいと思います。&lt;/p&gt;
+
+&lt;h3 id=&quot;企業研究者にとって大事なことはその２&quot;&gt;企業研究者にとって大事なことは？その２&lt;/h3&gt;
+
+&lt;p&gt;企業の研究開発において私が大事だと思うことの二つ目は、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「異分野融合」&lt;/font&gt;&lt;/strong&gt;です。
+その理由は、異分野の融合が最も簡単にイノベーションを起こすことができる手段であると思うためです。&lt;/p&gt;
+
+&lt;p&gt;Aの分野では当たり前の技術をBの分野に適用することで、多くの研究成果が成し遂げられています。
+例えば、AIやシミュレーションで材料探索をDX化するマテリアルズ・インフォマティクス（MI）でも同様です。&lt;/p&gt;
+
+&lt;p&gt;AIによって医者の代わりに医療画像から病気を診断することができるのであれば、素材を発見してきた優れた研究者をAIでも再現できるのではないか？といったように、「AI」×「素材」という異分野が重なり合ったのがMIです。
+実際、AIの技術が先行する画像処理や自然言語処理の分野で提案された手法が、２〜３年後にMIの分野に波及し、今までできなかったことがどんどんできるようになってきています。&lt;/p&gt;
+
+&lt;p&gt;このように異分野融合とイノベーションについては、ノーベル賞を受賞された田中耕一さんも&lt;a href=&quot;https://project.nikkeibp.co.jp/atclmono/vision/060500031/&quot;&gt;こちら&lt;/a&gt;で述べられており、異分野融合は天才でなくともイノベーションを起こすことができる方法であると私も思います。
+特に、さまざまなテクノロジー分野にまたがり、さまざまな分野の研究者が連携して研究開発を行う民間企業という場こそ、異分野融合による新しいイノベーション誕生の可能性が高いと感じています。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/vardan-papikyan-DnXqvmS0eXM-unsplash.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;私にとっての異分野融合&quot;&gt;私にとっての異分野融合&lt;/h3&gt;
+
+&lt;p&gt;私自身も、弊社でさまざまな素材を扱った経験から、新しいMI手法を構築することができました。&lt;/p&gt;
+
+&lt;p&gt;入社して３年目に、それまで取り組んできた蓄電池のプロジェクトから、太陽電池のプロジェクトへ移動になりました。
+ここで取り組んでいた次世代太陽電池は、有機－無機ハイブリッド材料という特殊な材料を使ったものでした。
+この材料は、従来の材料と異なり計算による特性予測が困難でおり、これまでのMI技術をそのまま適用することができませんでした。&lt;/p&gt;
+
+&lt;p&gt;そこで私は、これまで取り組んできた蓄電池のシミュレーション技術を、ハイブリッド材料に適用できないかと考えました。
+そのアイデアは想像以上にうまくいき、これまでできなかった予測手法を創出することに成功しました。
+詳細は&lt;a href=&quot;../assets/pdf/p0115-2.pdf&quot;&gt;こちら&lt;/a&gt;をご参考ください。
+&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「蓄電池」×「太陽電池」&lt;/font&gt;&lt;/strong&gt;という異分野融合が、これまでにないMI手法の構築に繋がりました。&lt;/p&gt;
+
+&lt;h3 id=&quot;新しい異分野融合はどのようにして起こるのか&quot;&gt;新しい異分野融合はどのようにして起こるのか？&lt;/h3&gt;
+
+&lt;p&gt;蓄電池開発を経験した材料計算科学者が、次世代太陽電池開発に携わる、そんな研究者は世界中身回しても数人しかいないのではないかと思います。そうした自分しかできなかった&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;偶然の経験&lt;/font&gt;&lt;/strong&gt;こそが、異分野融合の種になると感じています。&lt;/p&gt;
+
+&lt;p&gt;私の好きな考え方の一つに、&lt;a href=&quot;https://www.rgf-professional.jp/insights/2020-06-what-is-planned-happenstance-theory-how-to-create-a-career-contingency-career-plan&quot;&gt;&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;計画的偶発性理論&lt;/font&gt;&lt;/strong&gt;&lt;/a&gt;があります。
+これは心理学者のジョン・D・クランボルツ教授によって1999年に発表されたキャリア理論で、個人のキャリア形成の8割が予期しない出来事や偶然の出会いによって決定されると考えます。クランボルツ教授らが社会的成功を収めた数百人のビジネスパーソンについて同教授がそのキャリアを分析したところ、約8割の人が「自分の現在のキャリアは予期せぬ偶然によるものだ」と答えたそうです。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/pexels-anna-shvets-6664249.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;前回のオリジナリティの話にも関わってきますが、私はこの&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「偶然」&lt;/font&gt;&lt;/strong&gt;の中にこそ自分にしかできない異分野融合があると思います。
+私が蓄電池の開発プロジェクトから太陽電池の開発プロジェクトに異動になったことも偶然であり、その偶然がなければ「蓄電池」と「太陽電池」を組み合わせてみようとは発想できませんでした。&lt;/p&gt;
+
+&lt;p&gt;自分のキャリアにこうした「偶然」が訪れた時に、最初は「自分の専門分野とはちょっと違うな」と感じることもあるかもしれません。
+そうした時も、計画的偶発性理論のようにチャンスと捉えてる姿勢が大切かなと思います。
+自分のこれまでの経験と融合できることは何かを考え、その&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;異分野に一歩ずつ足を踏み出していく&lt;/font&gt;&lt;/strong&gt;ことにより、自分にしかできない異分野融合ができるのではないでしょうか。&lt;/p&gt;
+
+&lt;p&gt;自分の専門領域を広げながら、自分にしかできない異分野融合を見つけて、イノベーションを起こせる確率をあげたいと思います。&lt;/p&gt;
+
+&lt;p&gt;次回は、企業研究者として大切と思う三つのことのうち最も大切と私が感じている「物事の「本質」を理解する」について書きたいと思います。&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,mindset" /><category term="documentation" /><category term="technology" /><category term="mindset" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pexels-jadson-thomas-542556.jpg" /><media:content medium="image" url="/pexels-jadson-thomas-542556.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">企業研究者にとって大事だと思うこと Ⅰ</title><link href="/researcher-life-4" rel="alternate" type="text/html" title="企業研究者にとって大事だと思うこと Ⅰ" /><published>2022-03-27T00:00:00+09:00</published><updated>2022-03-27T00:00:00+09:00</updated><id>/researcher-life-4</id><content type="html" xml:base="/researcher-life-4">&lt;p&gt;パナソニックの研究所で研究者として働く私が、これまでの経験から大事だと思うことが３つあります。今回はそのことについて書きたいと思います。&lt;/p&gt;
 
 &lt;h3 id=&quot;企業研究者にとって大事なことはその１&quot;&gt;企業研究者にとって大事なことは？その１&lt;/h3&gt;
 
@@ -14,7 +65,7 @@
 
 &lt;p&gt;MIの分野では材料に関するデータをAIに教え込むことで、鋭い勘や経験を持つ熟練の材料科学者のように革新的な材料を効率的に発見することが期待されています。機械学習に代表されるようなAIに教え込む技術は、まだ黎明期であり日進月歩でさまざまな手法が提案されています。いずればMIに最適な機械学習手法が見出されこうした技術が成熟すれば、誰しもがその技術を使って同じことができるようになると思います。&lt;/p&gt;
 
-&lt;p&gt;例えば、第一原理計算がそれに該当します。昔はさまざまな第一原理計算用のソフトがありましたが、精度や速度の観点から今ではGaussianやVAPSといった代表的なソフトが広く普及し、これを購入すれば誰でも同じ結果を得ることができます。そうしたソフトの使い方をちょっと勉強すれば誰でもできてしまうのです。&lt;/p&gt;
+&lt;p&gt;例えば、第一原理計算がそれに該当します。昔はさまざまな第一原理計算用のソフトがありましたが、精度や速度の観点から今ではGaussianやVASPといった代表的なソフトが広く普及し、これを購入すれば誰でも同じ結果を得ることができます。そうしたソフトの使い方をちょっと勉強すれば誰でもできてしまうのです。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../assets/img/pexels-artem-podrez-8533026.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
 
@@ -26,91 +77,14 @@
 
 &lt;p&gt;第一原理計算では、材料を構成する原子同時がどのようにつながっているか、つまり「構造」がわからないと材料の物性を予測できません。通常は実験のデータベースなどから構造ファイルを取得して計算しますが、まだ発見されていない物質の構造ファイルは収録されていないため、そうした未知の物質を予測することはこれまで困難でした。&lt;/p&gt;
 
-&lt;p&gt;そこで、まだ発見されてない物質の「構造」を独自に予測できれば、自分にしか作ることができないデータになると考えました。予測された構造データに基づき第一原理計算やMIにより評価することで、他の人には真似できない革新的な新材料を生み出せる可能性があります。こうした自分にしか作れないデータが増えれば、自分にしか作れない高性能なAIを作ることもできます。ゆえに、私は構造予測、特に結晶構造生成に特に興味を持って研究を進めています。&lt;a href=&quot;https://recruit.jpn.panasonic.com/person/t_yokoyama.html&quot;&gt;こちら&lt;/a&gt;にも私が取り組む結晶構造予測の一例を説明しておりますので、ご参考になれば幸いです。&lt;/p&gt;
+&lt;p&gt;そこで、まだ発見されてない物質の「構造」を独自に予測できれば、自分にしか作ることができないデータになると考えました。予測された構造データに基づき第一原理計算やMIにより評価することで、他の人には真似できない革新的な新材料を生み出せる可能性があります。こうした自分にしか作れないデータが増えれば、自分にしか作れない高性能なAIを作ることもできます。ゆえに、私は構造予測、特に結晶構造生成に特に興味を持って研究を進めています。&lt;a href=&quot;../assets/pdf/p0115-2.pdf&quot;&gt;こちら&lt;/a&gt;にも私が取り組む結晶構造予測の一例を説明しておりますので、ご参考になれば幸いです。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../assets/img/uspex.png&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;唯一無二の研究者になるために、AI社会の源泉であるデータを生み出す技術の構築をこれからも続けたいと思います。&lt;/p&gt;
 
-&lt;p&gt;次回は、企業研究者として大切と思うことの二つ目である「異分野の融合」について書きたいと思います。&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,mindset" /><category term="documentation" /><category term="technology" /><category term="mindset" /><summary type="html">私が企業研究者にとって大事だと思うことが３つあります。今回はそのことについて書きたいと思います。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pexels-fauxels-3183153.jpg" /><media:content medium="image" url="/pexels-fauxels-3183153.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">社会人博士論 Ⅰ ー博士課程と”社会人”博士課程は何が違うかー</title><link href="/researcher-life-1" rel="alternate" type="text/html" title="社会人博士論 Ⅰ ー博士課程と”社会人”博士課程は何が違うかー" /><published>2021-11-13T00:00:00+09:00</published><updated>2021-11-13T00:00:00+09:00</updated><id>/researcher-life-1</id><content type="html" xml:base="/researcher-life-1">&lt;p&gt;私はパナソニックで働きながら2019年に博士課程に進学しました。
-今回は&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;社会人博士課程&lt;/font&gt;&lt;/strong&gt;について
-私が考えてきたことを3回に分けて書きたいと思います。
-第1回は、博士課程に進学するか、民間企業に就職するか悩んでいる方に対し、
-私が思う社会人博士課程のメリットについてお話したいと思います。&lt;/p&gt;
-
-&lt;p&gt;社会人博士課程のよく言われるメリットとして、自分の働きたい会社に入ってから博士号を取得できる点が挙げられます。
-一昔前は博士卒は修士卒より就職が難しいと言われましたが、
-現在ではそのような傾向は少なくなってきているように感じます。
-弊社でも、研究部門に配属される新入社員のうち博士卒と修士卒が同じくらいの人数の年もありました。
-逆に、修士卒の場合は修士までの研究とは全く異なる分野のテーマに配属されるなど、希望通りの配属にならない場合もあります。&lt;/p&gt;
-
-&lt;h3 id=&quot;一般的な博士課程と社会人博士課程は何が違うの&quot;&gt;一般的な博士課程と社会人博士課程は何が違うの？&lt;/h3&gt;
-
-&lt;p&gt;私が思う社会人博士課程のメリットは、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;選択肢を増やす&lt;/font&gt;&lt;/strong&gt;ことができる点です。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/img/mikael-kristenson-3aVlWP-7bg8-unsplash.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;私が修士学生の時の研究テーマは「中間バンド型太陽電池」と呼ばれる
-次世代太陽電池の材料をシミュレーションにより探索するという内容でした。
-クリーンエネルギーデバイスに関する材料探索をやりたかった私にとっては、とてもやりがいのあるテーマで、研究に没頭しました。&lt;/p&gt;
-
-&lt;p&gt;しかしながら、この太陽電池を実用化に近づけるために最も取り組まなければならない根本的な課題をは何か？と考えると、
-私のアプローチが最適な方法なのか、もっと他に解決すべき問題点があるのではないか、と疑問に感じるようになりました。
-また、この太陽電池は太陽電池業界においてもかなりマイナーであり、学会発表などの場においても
-私の研究内容について興味を持ってくださる方はあまりいらっしゃいませんでした。&lt;/p&gt;
-
-&lt;p&gt;つまり、修士の私が感じていたモヤモヤは&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;物事の本質的な課題に対してアプローチできているのか？&lt;/li&gt;
-  &lt;li&gt;果たしてこの努力は誰の役に立つのだろうか？&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;というように、研究テーマの設定が原因でした。&lt;/p&gt;
-
-&lt;p&gt;学術界であれば、こうした基礎研究の積み重ねが、将来の全く新しい法則や原理の発見につながりますし、
-あるいは、今すぐには役に立たなくても、何十年後に役に立つことも多々ありますので、どんな研究も重要だと思います。
-ただ、当時の私にはそういった信念や覚悟がなかったんだと思います。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/img/lenny-kuhne-jHZ70nRk7Ns-unsplash.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;一方学術界と異なり、産業界では、時代のトレンドに合ったホットな分野の技術を最短の道のりで形にし、事業にすることを目的として研究開発を行います。
-そのため、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;分野全体を把握し、本質的な課題となっているところを見極め、それに必要な技術を取り入れる&lt;/font&gt;&lt;/strong&gt;ことをより重要視します。
-今どんな分野・技術に勢いがあるのか、今後ホットになりそうなことは何か、ということに常にアンテナを張っている研究者が多く、
-たくさんの情報が集まってくる環境です。&lt;/p&gt;
-
-&lt;p&gt;私の場合も、就職後にLiイオン電池材料や太陽電池材料、熱電変換材料など、様々な分野の材料開発に関わるうちに、
-どこが本質的な課題となっていて、どの分野であれば私のスキルである材料シミュレーションが役に立つかを見定めることができました。&lt;/p&gt;
-
-&lt;p&gt;その中でも、次世代の太陽電池として注目度の高いペロブスカイト太陽電池の開発に携わる中で、
-ペロブスカイト太陽電池の光吸収層に使われる、有機-無機ハイブリッド材料という新素材に興味を持ちました。
-ペロブスカイト太陽電池については、&lt;a href=&quot;https://yokoyamatomoyasu.github.io/tech-trend-1&quot;&gt;こちらの記事&lt;/a&gt;にまとめましたのでご参照ください。&lt;/p&gt;
-
-&lt;p&gt;有機-無機ハイブリッド材料は、有機材料と無機材料という異種分野が融合した素材です。
-この材料系は、有機材料と無機材料の両方のメリットを持ち合わせる今までにない素材であり、
-また、その組み合わせから未だ見つかっていない素材が膨大に存在します。
-今後、太陽電池だけでなく様々なデバイスに展開されていく将来性のある素材であると感じました。&lt;/p&gt;
-
-&lt;p&gt;そこで、有機-無機ハイブリッド材料のシミュレーションスキルを極めるために、
-共同研究先の研究室の先生にこのテーマを提案し、社会人博士課程への進学を決めました。&lt;/p&gt;
-
-&lt;p&gt;このように、民間企業に就職し、修士学生の時よりもさまざまな分野の技術や素材に触れることで、
-博士課程で研究したい研究分野の選択肢を増やし、その中から自分のやりたいことを選択することができました。
-修士課程からそのまま進学する場合は、修士課程で過ごした研究室で博士課程も過ごすことが多いですが、
-それに対し社会人博士課程は&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;様々な選択肢の中から自分の極めたい道を選択できる&lt;/font&gt;&lt;/strong&gt;点がメリットだと思います。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/img/sieuwert-otterloo-AuR4z-edGAU-unsplash.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ただし、民間企業の研究開発は、悪い言い方をすれば流行に流されやすく、
-私のように研究テーマがコロコロとかわることもありますし、
-当然ながら、会社での仕事と学業を両立するのは大変です。
-故に、自分の極めたい道が明確な修士学生の方には、そのまま博士課程に進学することをお勧めします。
-一方で、現在学んでいる分野の研究開発を仕事にすることに自信がなく、極めたい道が明確ではない修士学生の方は、
-一度民間企業に就職してから、やりたいことを見出し、社会人博士課程として極めることもありだと思います。&lt;/p&gt;
-
-&lt;p&gt;ここまで、一般的な博士課程と社会人博士課程の違いについて社会人博士課程の私が思うことをお話しました。
-次回は、私はなぜ博士課程に進学したか？何がモチベーションだったのか？について書きたいと思います。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://yokoyamatomoyasu.github.io/researcher-life-2&quot;&gt;社会人博士論 Ⅱ ーなぜ博士過程に進学したかー&lt;/a&gt;&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,doctor" /><category term="documentation" /><category term="technology" /><summary type="html">私はパナソニックで働きながら2019年に博士課程に進学しました。 今回は社会人博士課程について 私が考えてきたことを3回に分けて書きたいと思います。 第1回は、博士課程に進学するか、民間企業に就職するか悩んでいる方に対し、 私が思う社会人博士課程のメリットについてお話したいと思います。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/thisisengineering-raeng-mF6gB6hV5OU-unsplash.jpg" /><media:content medium="image" url="/thisisengineering-raeng-mF6gB6hV5OU-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">社会人博士論 Ⅱ ーなぜ博士過程に進学したかー</title><link href="/researcher-life-2" rel="alternate" type="text/html" title="社会人博士論 Ⅱ ーなぜ博士過程に進学したかー" /><published>2021-11-13T00:00:00+09:00</published><updated>2021-11-13T00:00:00+09:00</updated><id>/researcher-life-2</id><content type="html" xml:base="/researcher-life-2">&lt;p&gt;第2回は、どういう考えから私が&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;社会人博士課程&lt;/font&gt;&lt;/strong&gt;に進学するに至ったかについて
+&lt;p&gt;次回は、企業研究者として大切と思うことの二つ目である「異分野の融合」について書きたいと思います。
+&lt;a href=&quot;https://yokoyamatomoyasu.github.io/researcher-life-5&quot;&gt;企業研究者にとって大事だと思うこと Ⅰ&lt;/a&gt;&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,mindset" /><category term="documentation" /><category term="technology" /><category term="mindset" /><summary type="html">パナソニックの研究所で研究者として働く私が、これまでの経験から大事だと思うことが３つあります。今回はそのことについて書きたいと思います。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pexels-fauxels-3183153.jpg" /><media:content medium="image" url="/pexels-fauxels-3183153.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">社会人博士論 Ⅱ ーなぜ博士過程に進学したかー</title><link href="/researcher-life-2" rel="alternate" type="text/html" title="社会人博士論 Ⅱ ーなぜ博士過程に進学したかー" /><published>2021-11-13T00:00:00+09:00</published><updated>2021-11-13T00:00:00+09:00</updated><id>/researcher-life-2</id><content type="html" xml:base="/researcher-life-2">&lt;p&gt;第2回は、どういう考えから私が&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;社会人博士課程&lt;/font&gt;&lt;/strong&gt;に進学するに至ったかについて
 書きたいと思います。&lt;/p&gt;
 
 &lt;h3 id=&quot;なぜ社会人になっても博士課程に進学する必要があるの&quot;&gt;なぜ社会人になっても博士課程に進学する必要があるの？&lt;/h3&gt;
@@ -209,7 +183,85 @@
   &lt;li&gt;共同研究を行う下準備（ヒアリング・学会参加、思いを口に出す）を継続してチャンスを伺う。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;です。博士課程への進学を考える皆さんのご参考になれば幸いです。&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,doctor" /><category term="documentation" /><category term="technology" /><summary type="html">第3回は社会人博士課程への進学を考えている方に向けて、 進学前に私がお勧めしたいことについて書きたいと思います。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg" /><media:content medium="image" url="/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">[技術解説]ペロブスカイト太陽電池とは？</title><link href="/tech-trend-1" rel="alternate" type="text/html" title="[技術解説]ペロブスカイト太陽電池とは？" /><published>2021-10-12T00:00:00+09:00</published><updated>2021-10-12T00:00:00+09:00</updated><id>/tech-trend-1</id><content type="html" xml:base="/tech-trend-1">&lt;p&gt;次世代の太陽電池として注目されている&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「ペロブスカイト太陽電池」&lt;/font&gt;&lt;/strong&gt;について、開発に携わる者として解説したいと思います。&lt;/p&gt;
+&lt;p&gt;です。博士課程への進学を考える皆さんのご参考になれば幸いです。&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,doctor" /><category term="documentation" /><category term="technology" /><summary type="html">第3回は社会人博士課程への進学を考えている方に向けて、 進学前に私がお勧めしたいことについて書きたいと思います。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg" /><media:content medium="image" url="/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">社会人博士論 Ⅰ ー博士課程と”社会人”博士課程は何が違うかー</title><link href="/researcher-life-1" rel="alternate" type="text/html" title="社会人博士論 Ⅰ ー博士課程と”社会人”博士課程は何が違うかー" /><published>2021-11-13T00:00:00+09:00</published><updated>2021-11-13T00:00:00+09:00</updated><id>/researcher-life-1</id><content type="html" xml:base="/researcher-life-1">&lt;p&gt;私はパナソニックで働きながら2019年に博士課程に進学しました。
+今回は&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;社会人博士課程&lt;/font&gt;&lt;/strong&gt;について
+私が考えてきたことを3回に分けて書きたいと思います。
+第1回は、博士課程に進学するか、民間企業に就職するか悩んでいる方に対し、
+私が思う社会人博士課程のメリットについてお話したいと思います。&lt;/p&gt;
+
+&lt;p&gt;社会人博士課程のよく言われるメリットとして、自分の働きたい会社に入ってから博士号を取得できる点が挙げられます。
+一昔前は博士卒は修士卒より就職が難しいと言われましたが、
+現在ではそのような傾向は少なくなってきているように感じます。
+弊社でも、研究部門に配属される新入社員のうち博士卒と修士卒が同じくらいの人数の年もありました。
+逆に、修士卒の場合は修士までの研究とは全く異なる分野のテーマに配属されるなど、希望通りの配属にならない場合もあります。&lt;/p&gt;
+
+&lt;h3 id=&quot;一般的な博士課程と社会人博士課程は何が違うの&quot;&gt;一般的な博士課程と社会人博士課程は何が違うの？&lt;/h3&gt;
+
+&lt;p&gt;私が思う社会人博士課程のメリットは、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;選択肢を増やす&lt;/font&gt;&lt;/strong&gt;ことができる点です。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/mikael-kristenson-3aVlWP-7bg8-unsplash.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;私が修士学生の時の研究テーマは「中間バンド型太陽電池」と呼ばれる
+次世代太陽電池の材料をシミュレーションにより探索するという内容でした。
+クリーンエネルギーデバイスに関する材料探索をやりたかった私にとっては、とてもやりがいのあるテーマで、研究に没頭しました。&lt;/p&gt;
+
+&lt;p&gt;しかしながら、この太陽電池を実用化に近づけるために最も取り組まなければならない根本的な課題をは何か？と考えると、
+私のアプローチが最適な方法なのか、もっと他に解決すべき問題点があるのではないか、と疑問に感じるようになりました。
+また、この太陽電池は太陽電池業界においてもかなりマイナーであり、学会発表などの場においても
+私の研究内容について興味を持ってくださる方はあまりいらっしゃいませんでした。&lt;/p&gt;
+
+&lt;p&gt;つまり、修士の私が感じていたモヤモヤは&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;物事の本質的な課題に対してアプローチできているのか？&lt;/li&gt;
+  &lt;li&gt;果たしてこの努力は誰の役に立つのだろうか？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;というように、研究テーマの設定が原因でした。&lt;/p&gt;
+
+&lt;p&gt;学術界であれば、こうした基礎研究の積み重ねが、将来の全く新しい法則や原理の発見につながりますし、
+あるいは、今すぐには役に立たなくても、何十年後に役に立つことも多々ありますので、どんな研究も重要だと思います。
+ただ、当時の私にはそういった信念や覚悟がなかったんだと思います。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/lenny-kuhne-jHZ70nRk7Ns-unsplash.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;一方学術界と異なり、産業界では、時代のトレンドに合ったホットな分野の技術を最短の道のりで形にし、事業にすることを目的として研究開発を行います。
+そのため、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;分野全体を把握し、本質的な課題となっているところを見極め、それに必要な技術を取り入れる&lt;/font&gt;&lt;/strong&gt;ことをより重要視します。
+今どんな分野・技術に勢いがあるのか、今後ホットになりそうなことは何か、ということに常にアンテナを張っている研究者が多く、
+たくさんの情報が集まってくる環境です。&lt;/p&gt;
+
+&lt;p&gt;私の場合も、就職後にLiイオン電池材料や太陽電池材料、熱電変換材料など、様々な分野の材料開発に関わるうちに、
+どこが本質的な課題となっていて、どの分野であれば私のスキルである材料シミュレーションが役に立つかを見定めることができました。&lt;/p&gt;
+
+&lt;p&gt;その中でも、次世代の太陽電池として注目度の高いペロブスカイト太陽電池の開発に携わる中で、
+ペロブスカイト太陽電池の光吸収層に使われる、有機-無機ハイブリッド材料という新素材に興味を持ちました。
+ペロブスカイト太陽電池については、&lt;a href=&quot;https://yokoyamatomoyasu.github.io/tech-trend-1&quot;&gt;こちらの記事&lt;/a&gt;にまとめましたのでご参照ください。&lt;/p&gt;
+
+&lt;p&gt;有機-無機ハイブリッド材料は、有機材料と無機材料という異種分野が融合した素材です。
+この材料系は、有機材料と無機材料の両方のメリットを持ち合わせる今までにない素材であり、
+また、その組み合わせから未だ見つかっていない素材が膨大に存在します。
+今後、太陽電池だけでなく様々なデバイスに展開されていく将来性のある素材であると感じました。&lt;/p&gt;
+
+&lt;p&gt;そこで、有機-無機ハイブリッド材料のシミュレーションスキルを極めるために、
+共同研究先の研究室の先生にこのテーマを提案し、社会人博士課程への進学を決めました。&lt;/p&gt;
+
+&lt;p&gt;このように、民間企業に就職し、修士学生の時よりもさまざまな分野の技術や素材に触れることで、
+博士課程で研究したい研究分野の選択肢を増やし、その中から自分のやりたいことを選択することができました。
+修士課程からそのまま進学する場合は、修士課程で過ごした研究室で博士課程も過ごすことが多いですが、
+それに対し社会人博士課程は&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;様々な選択肢の中から自分の極めたい道を選択できる&lt;/font&gt;&lt;/strong&gt;点がメリットだと思います。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/sieuwert-otterloo-AuR4z-edGAU-unsplash.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ただし、民間企業の研究開発は、悪い言い方をすれば流行に流されやすく、
+私のように研究テーマがコロコロとかわることもありますし、
+当然ながら、会社での仕事と学業を両立するのは大変です。
+故に、自分の極めたい道が明確な修士学生の方には、そのまま博士課程に進学することをお勧めします。
+一方で、現在学んでいる分野の研究開発を仕事にすることに自信がなく、極めたい道が明確ではない修士学生の方は、
+一度民間企業に就職してから、やりたいことを見出し、社会人博士課程として極めることもありだと思います。&lt;/p&gt;
+
+&lt;p&gt;ここまで、一般的な博士課程と社会人博士課程の違いについて社会人博士課程の私が思うことをお話しました。
+次回は、私はなぜ博士課程に進学したか？何がモチベーションだったのか？について書きたいと思います。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://yokoyamatomoyasu.github.io/researcher-life-2&quot;&gt;社会人博士論 Ⅱ ーなぜ博士過程に進学したかー&lt;/a&gt;&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,doctor" /><category term="documentation" /><category term="technology" /><summary type="html">私はパナソニックで働きながら2019年に博士課程に進学しました。 今回は社会人博士課程について 私が考えてきたことを3回に分けて書きたいと思います。 第1回は、博士課程に進学するか、民間企業に就職するか悩んでいる方に対し、 私が思う社会人博士課程のメリットについてお話したいと思います。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/thisisengineering-raeng-mF6gB6hV5OU-unsplash.jpg" /><media:content medium="image" url="/thisisengineering-raeng-mF6gB6hV5OU-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">[技術解説]ペロブスカイト太陽電池とは？</title><link href="/tech-trend-1" rel="alternate" type="text/html" title="[技術解説]ペロブスカイト太陽電池とは？" /><published>2021-10-12T00:00:00+09:00</published><updated>2021-10-12T00:00:00+09:00</updated><id>/tech-trend-1</id><content type="html" xml:base="/tech-trend-1">&lt;p&gt;次世代の太陽電池として注目されている&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「ペロブスカイト太陽電池」&lt;/font&gt;&lt;/strong&gt;について、開発に携わる者として解説したいと思います。&lt;/p&gt;
 
 &lt;h3 id=&quot;なにがすごいの&quot;&gt;なにがすごいの？&lt;/h3&gt;
 
