@@ -5,15 +5,18 @@ permalink: /about
 ---
 
 ### 名前 <br>
-横山智康（よこやまともやす） 博士（工学）
+横山智康（よこやまともやす）
 
 
 ### 所属  
-パナソニック株式会社 テクノロジー本部 主任研究員 
+パナソニックホールディングス株式会社 テクノロジー本部 
 
+### 役職・資格
+主任研究員 博士（工学）
 
 ### 専門  
-- 材料計算科学 / 固体電子 / 第一原理計算 / マテリアルズインフォマティクス  
+- 材料計算科学 / 物性物理 / 固体電子 
+- 第一原理計算 / 機械学習 / マテリアルズインフォマティクス  
 - 無機材料 / 有機－無機ハイブリッド材料  
 - 太陽電池 / 蓄電池 / 半導体  
 
@@ -21,8 +24,9 @@ permalink: /about
 ### 略歴  
 - 2008-2012　京都大学 工学部 物理工学科  
 - 2012-2014　京都大学大学院 工学研究科 材料工学専攻 修士課程  
-- 2014-    　パナソニック株式会社  
+- 2014-2022　パナソニック株式会社  
 - 2019-2022　東京工業大学 物質理工学院 材料系 社会人博士課程 
+- 2022-    　パナソニックホールディングス株式会社  
 
 ### 受賞歴  
 - [第45回（2018年秋季）応用物理学会講演奨励賞](https://www.jsap.or.jp/young-scientist-presentation-award/recipients45)  
@@ -39,6 +43,8 @@ permalink: /about
 
 
 ### メディア
+- Channel Panasonic-Official YouTube，「AIで太陽電池に革命を起こす｜Panasonic Young Leaders」，2022年3月28日 [リンク](https://www.youtube.com/watch?v=i71Tz72NnQ8)
+- Panasonic Newsroom Japan，「「個のチカラ」で会社を変える～Panasonic Young Leaders」，2022年3月28日 [リンク](https://news.panasonic.com/jp/stories/2022/98060.html)
 - パナソニック採用，「パナソニックの人：マテリアルズ・インフォマティクスを駆使し、エネルギー材料を革新したい。」，2022年3月15日 [リンク](https://recruit.jpn.panasonic.com/person/t_yokoyama.html)
 - WIRED JAPAN，「人智を超えた素材開発とその効率化の先にある未来とは」，2021年11月25日 [リンク](https://wired.jp/2021/11/25/wired-conference-2021-panasonic-ws/)
 - 日経クロステック，「次世代太陽電池にわずか1年で革新　「10年に1人」の企業研究者」，2021年5月24日 [リンク](https://xtech.nikkei.com/atcl/nxt/column/18/01620/052000007/)
