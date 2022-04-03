@@ -29,8 +29,10 @@ permalink: /about
 - 2022-　　　パナソニックホールディングス株式会社  
 
 ### 受賞歴  
-- [第45回（2018年秋季）応用物理学会講演奨励賞](https://www.jsap.or.jp/young-scientist-presentation-award/recipients45)  
 - [第30回日本MRS年次大会奨励賞](https://www.mrs-j.org/meeting2020/jp/prg/awardList.php)  
+recipients45)  
+- 2020年度パナソニックイノベーション推進部門個人事業部長賞
+- [第45回（2018年秋季）応用物理学会講演奨励賞](https://www.jsap.or.jp/young-scientist-presentation-award/- - 2018年度パナソニックイノベーション推進部門知財若手奨励賞
 
 ### SNS 
 - [Twitter](https://twitter.com/yoko_materialDX)
