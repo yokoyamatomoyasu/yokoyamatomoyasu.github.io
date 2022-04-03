@@ -48,7 +48,7 @@ AIによって医者の代わりに医療画像から病気を診断すること
 私の好きな考え方の一つに、[**<font color="Blue">計画的偶発性理論</font>**](https://www.rgf-professional.jp/insights/2020-06-what-is-planned-happenstance-theory-how-to-create-a-career-contingency-career-plan)があります。
 これは心理学者のジョン・D・クランボルツ教授によって1999年に発表されたキャリア理論で、個人のキャリア形成の8割が予期しない出来事や偶然の出会いによって決定されると考えます。クランボルツ教授らが社会的成功を収めた数百人のビジネスパーソンについて同教授がそのキャリアを分析したところ、約8割の人が「自分の現在のキャリアは予期せぬ偶然によるものだ」と答えたそうです。
 
-![Figure](../assets/img/pexels-anna-shvets-6664249.jpg)
+![Figure](../assets/img/vd-photography-pCvyg4e_Kn4-unsplash.jpg)
 
 前回のオリジナリティの話にも関わってきますが、私はこの**<font color="Blue">「偶然」</font>**の中にこそ自分にしかできない異分野融合があると思います。
 私が蓄電池の開発プロジェクトから太陽電池の開発プロジェクトに異動になったことも偶然であり、その偶然がなければ「蓄電池」と「太陽電池」を組み合わせてみようとは発想できませんでした。
