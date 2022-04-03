@@ -12,7 +12,7 @@ permalink: /about
 パナソニックホールディングス株式会社 テクノロジー本部 
 
 ### 役職・資格
-主任研究員 博士（工学）
+主任研究員　　博士（工学）
 
 ### 専門  
 - 材料計算科学 / 物性物理 / 固体電子 
@@ -26,7 +26,7 @@ permalink: /about
 - 2012-2014　京都大学大学院 工学研究科 材料工学専攻 修士課程  
 - 2014-2022　パナソニック株式会社  
 - 2019-2022　東京工業大学 物質理工学院 材料系 社会人博士課程 
-- 2022-    　パナソニックホールディングス株式会社  
+- 2022-　　　　　パナソニックホールディングス株式会社  
 
 ### 受賞歴  
 - [第45回（2018年秋季）応用物理学会講演奨励賞](https://www.jsap.or.jp/young-scientist-presentation-award/recipients45)  
@@ -43,7 +43,6 @@ permalink: /about
 
 
 ### メディア
-- Channel Panasonic-Official YouTube，「AIで太陽電池に革命を起こす｜Panasonic Young Leaders」，2022年3月28日 [リンク](https://www.youtube.com/watch?v=i71Tz72NnQ8)
 - Panasonic Newsroom Japan，「「個のチカラ」で会社を変える～Panasonic Young Leaders」，2022年3月28日 [リンク](https://news.panasonic.com/jp/stories/2022/98060.html)
 - パナソニック採用，「パナソニックの人：マテリアルズ・インフォマティクスを駆使し、エネルギー材料を革新したい。」，2022年3月15日 [リンク](https://recruit.jpn.panasonic.com/person/t_yokoyama.html)
 - WIRED JAPAN，「人智を超えた素材開発とその効率化の先にある未来とは」，2021年11月25日 [リンク](https://wired.jp/2021/11/25/wired-conference-2021-panasonic-ws/)

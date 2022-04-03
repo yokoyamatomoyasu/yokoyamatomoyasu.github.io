@@ -5,16 +5,17 @@ permalink: /news
 ---
 
 ### 2022年4月1日
-組織変更に伴いパナソニックホールディングス株式会社に所属が変わりました。
+組織変更に伴い「パナソニックホールディングス株式会社」に所属が変わりました。
 
-### 2022年3月28日
-パナソニックのHPに取り組みが紹介されました。
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">パナソニック が目指すより良いくらし<br>技術者 横山智康さん <a href="https://twitter.com/yoko_materialDX?ref_src=twsrc%5Etfw">@yoko_materialDX</a> が描く持続可能な未来<br><br>彼は <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a> と <a href="https://twitter.com/hashtag/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3?src=hash&amp;ref_src=twsrc%5Etfw">#シミュレーション</a> の力で<br>次世代 <a href="https://twitter.com/hashtag/%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0?src=hash&amp;ref_src=twsrc%5Etfw">#太陽電池</a> の開発を前に進めた研究者<br><br>『街全体を発電所へ』<br>『<a href="https://twitter.com/hashtag/%E3%82%B5%E3%82%B9%E3%83%86%E3%83%8A%E3%83%96%E3%83%AB?src=hash&amp;ref_src=twsrc%5Etfw">#サステナブル</a> な社会に技術で貢献する』<br><br>彼の根源にある次世代への想いに迫ります</p>&mdash; パナソニックブランド公式 (@PanasonicBrand) <a href="https://twitter.com/PanasonicBrand/status/1508760888022556681?ref_src=twsrc%5Etfw">March 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2022年3月28日
 社会人博士課程を卒業し、博士号を取得しました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">本日 <a href="https://twitter.com/hashtag/%E7%A4%BE%E4%BC%9A%E4%BA%BA%E5%8D%9A%E5%A3%AB%E8%AA%B2%E7%A8%8B?src=hash&amp;ref_src=twsrc%5Etfw">#社会人博士課程</a> の卒業式でした。長年の夢だった <a href="https://twitter.com/hashtag/%E5%8D%9A%E5%A3%AB%E5%8F%B7?src=hash&amp;ref_src=twsrc%5Etfw">#博士号</a> を取得できました。<br><br>ありがたいことに論文6報（筆頭3報）、学会発表8件（招待講演3件）、受賞1件と研究環境に恵まれた3年間でした。<a href="https://twitter.com/hashtag/%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BA%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9?src=hash&amp;ref_src=twsrc%5Etfw">#マテリアルズインフォマティクス</a> により新材料を発見できるよう今後も精進したいと思います。 <a href="https://t.co/VSNXDESBeu">pic.twitter.com/VSNXDESBeu</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1508398505533992963?ref_src=twsrc%5Etfw">March 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+### 2022年3月28日
+パナソニックのHPに取り組みが紹介されました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">パナソニック が目指すより良いくらし<br>技術者 横山智康さん <a href="https://twitter.com/yoko_materialDX?ref_src=twsrc%5Etfw">@yoko_materialDX</a> が描く持続可能な未来<br><br>彼は <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a> と <a href="https://twitter.com/hashtag/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3?src=hash&amp;ref_src=twsrc%5Etfw">#シミュレーション</a> の力で<br>次世代 <a href="https://twitter.com/hashtag/%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0?src=hash&amp;ref_src=twsrc%5Etfw">#太陽電池</a> の開発を前に進めた研究者<br><br>『街全体を発電所へ』<br>『<a href="https://twitter.com/hashtag/%E3%82%B5%E3%82%B9%E3%83%86%E3%83%8A%E3%83%96%E3%83%AB?src=hash&amp;ref_src=twsrc%5Etfw">#サステナブル</a> な社会に技術で貢献する』<br><br>彼の根源にある次世代への想いに迫ります</p>&mdash; パナソニックブランド公式 (@PanasonicBrand) <a href="https://twitter.com/PanasonicBrand/status/1508760888022556681?ref_src=twsrc%5Etfw">March 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2022年3月15日
 パナソニックの採用HPにてインタビュー記事が公開されました。
@@ -27,7 +28,7 @@ permalink: /news
 
 ### 2021年12月13日
 第31回日本MRS年次大会にて以下のタイトルで招待講演しました。
-{<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">明日の朝一番にMRS-Jで招待講演させていただきます。<br><br>学会の座長や講演評価という役目が初めてなのでいつもより緊張していますが、頑張ってきます。 <a href="https://t.co/88WwYpm51w">https://t.co/88WwYpm51w</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1470010831878635529?ref_src=twsrc%5Etfw">December 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">明日の朝一番にMRS-Jで招待講演させていただきます。<br><br>学会の座長や講演評価という役目が初めてなのでいつもより緊張していますが、頑張ってきます。 <a href="https://t.co/88WwYpm51w">https://t.co/88WwYpm51w</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1470010831878635529?ref_src=twsrc%5Etfw">December 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2021年11月25日
 WIRED CONFERENCE 2021にて講演した内容が記事になりました。
