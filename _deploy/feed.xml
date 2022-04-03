@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-04-03T15:34:11+09:00</updated><id>/feed.xml</id><title type="html">Tomoyasu Yokoyama</title><subtitle>Material Scientist's Pages</subtitle><author><name>Tomoyasu Yokoyama</name></author><entry><title type="html">企業研究者にとって大事なこと Ⅰ</title><link href="/researcher-life-4" rel="alternate" type="text/html" title="企業研究者にとって大事なこと Ⅰ" /><published>2022-03-27T00:00:00+09:00</published><updated>2022-03-27T00:00:00+09:00</updated><id>/researcher-life-4</id><content type="html" xml:base="/researcher-life-4">&lt;p&gt;私が企業研究者にとって大事だと思うことが３つあります。今回はそのことについて書きたいと思います。&lt;/p&gt;
+
+&lt;h3 id=&quot;企業研究者にとって大事なことはその１&quot;&gt;企業研究者にとって大事なことは？その１&lt;/h3&gt;
+
+&lt;p&gt;企業の研究開発において私が大事だと思うことの一つ目は、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「オリジナリティ」&lt;/font&gt;&lt;/strong&gt;、つまり代替不可能な&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;唯一無二の研究者&lt;/font&gt;&lt;/strong&gt;でいることです。
+このように考えるようになったのは、&lt;a href=&quot;https://yokoyamatomoyasu.github.io/researcher-life-2&quot;&gt;こちら&lt;/a&gt;の記事にも書いた通り入社して感じた危機感がきっかけでした。
+私のような企業研究者が活躍し続けるためには、技術的優位性、つまりオリジナリティを保有しなければならないと思います。&lt;/p&gt;
+
+&lt;p&gt;AIとシミュレーションを組み合わせて材料探索をDX化する、いわゆるマテリアルズ・インフォマティクス（MI）が近年注目を集めています。私もMIの技術構築について取り組んでおりますが、材料科学だけでなくデータ科学の分野からも多くの研究者がMIの研究を行なっている昨今、自分のオリジナリティを発揮するのがますます難しくなっていると感じています。&lt;/p&gt;
+
+&lt;h3 id=&quot;マテリアルズインフォマティクスにおけるオリジナリティとは&quot;&gt;マテリアルズ・インフォマティクスにおける「オリジナリティ」とは？&lt;/h3&gt;
+
+&lt;p&gt;こうしたMIの流行のなかでどのようにオリジナリティを発揮していけばよいのでしょうか？私のような材料科学者にとって、それは&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「データ」&lt;/font&gt;&lt;/strong&gt;にあると思います。&lt;/p&gt;
+
+&lt;p&gt;MIの分野では材料に関するデータをAIに教え込むことで、鋭い勘や経験を持つ熟練の材料科学者のように革新的な材料を効率的に発見することが期待されています。機械学習に代表されるようなAIに教え込む技術は、まだ黎明期であり日進月歩でさまざまな手法が提案されています。いずればMIに最適な機械学習手法が見出されこうした技術が成熟すれば、誰しもがその技術を使って同じことができるようになると思います。&lt;/p&gt;
+
+&lt;p&gt;例えば、第一原理計算がそれに該当します。昔はさまざまな第一原理計算用のソフトがありましたが、精度や速度の観点から今ではGaussianやVAPSといった代表的なソフトが広く普及し、これを購入すれば誰でも同じ結果を得ることができます。そうしたソフトの使い方をちょっと勉強すれば誰でもできてしまうのです。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/pexels-artem-podrez-8533026.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;では、MIにおいて自分にしかできない研究をするためにはどうしたらいいのでしょうか？それには&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;自分にしか作れないデータ&lt;/font&gt;&lt;/strong&gt;が重要になると思います。AIに教え込む方法は同じでも、教え込むことが異なれば、独自のAIを作り上げることができます。データ科学の分野でGAFAが時代を席巻しているのも、彼らが他の誰も持っていないオリジナルのデータをもっていることが一つの要因です。自分しか持っていないデータを持つことは、MIにおいて自分のオリジナリティを発揮するのに不可欠であると思います。それが自分あるいはその組織の強みになると思います。&lt;/p&gt;
+
+&lt;h3 id=&quot;唯一無二の研究者になるために&quot;&gt;唯一無二の研究者になるために&lt;/h3&gt;
+
+&lt;p&gt;以上から、私は&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;自分にしか作れないデータを作る技術&lt;/font&gt;&lt;/strong&gt;こそがMIの「オリジナリティ」の源泉ではないかと考えます。例えば、私の場合には&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「構造予測」&lt;/font&gt;&lt;/strong&gt;がそれにあたると考え、取り組みを推進しています。&lt;/p&gt;
+
+&lt;p&gt;第一原理計算では、材料を構成する原子同時がどのようにつながっているか、つまり「構造」がわからないと材料の物性を予測できません。通常は実験のデータベースなどから構造ファイルを取得して計算しますが、まだ発見されていない物質の構造ファイルは収録されていないため、そうした未知の物質を予測することはこれまで困難でした。&lt;/p&gt;
+
+&lt;p&gt;そこで、まだ発見されてない物質の「構造」を独自に予測できれば、自分にしか作ることができないデータになると考えました。予測された構造データに基づき第一原理計算やMIにより評価することで、他の人には真似できない革新的な新材料を生み出せる可能性があります。こうした自分にしか作れないデータが増えれば、自分にしか作れない高性能なAIを作ることもできます。ゆえに、私は構造予測、特に結晶構造生成に特に興味を持って研究を進めています。&lt;a href=&quot;https://recruit.jpn.panasonic.com/person/t_yokoyama.html&quot;&gt;こちら&lt;/a&gt;にも私が取り組む結晶構造予測の一例を説明しておりますので、ご参考になれば幸いです。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/uspex.png&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;唯一無二の研究者になるために、AI社会の源泉であるデータを生み出す技術の構築をこれからも続けたいと思います。&lt;/p&gt;
+
+&lt;p&gt;次回は、企業研究者として大切と思うことの二つ目である「異分野の融合」について書きたいと思います。&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,mindset" /><category term="documentation" /><category term="technology" /><category term="mindset" /><summary type="html">私が企業研究者にとって大事だと思うことが３つあります。今回はそのことについて書きたいと思います。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pexels-fauxels-3183153.jpg" /><media:content medium="image" url="/pexels-fauxels-3183153.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">社会人博士論 Ⅰ ー博士課程と”社会人”博士課程は何が違うかー</title><link href="/researcher-life-1" rel="alternate" type="text/html" title="社会人博士論 Ⅰ ー博士課程と”社会人”博士課程は何が違うかー" /><published>2021-11-13T00:00:00+09:00</published><updated>2021-11-13T00:00:00+09:00</updated><id>/researcher-life-1</id><content type="html" xml:base="/researcher-life-1">&lt;p&gt;私はパナソニックで働きながら2019年に博士課程に進学しました。
+今回は&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;社会人博士課程&lt;/font&gt;&lt;/strong&gt;について
+私が考えてきたことを3回に分けて書きたいと思います。
+第1回は、博士課程に進学するか、民間企業に就職するか悩んでいる方に対し、
+私が思う社会人博士課程のメリットについてお話したいと思います。&lt;/p&gt;
+
+&lt;p&gt;社会人博士課程のよく言われるメリットとして、自分の働きたい会社に入ってから博士号を取得できる点が挙げられます。
+一昔前は博士卒は修士卒より就職が難しいと言われましたが、
+現在ではそのような傾向は少なくなってきているように感じます。
+弊社でも、研究部門に配属される新入社員のうち博士卒と修士卒が同じくらいの人数の年もありました。
+逆に、修士卒の場合は修士までの研究とは全く異なる分野のテーマに配属されるなど、希望通りの配属にならない場合もあります。&lt;/p&gt;
+
+&lt;h3 id=&quot;一般的な博士課程と社会人博士課程は何が違うの&quot;&gt;一般的な博士課程と社会人博士課程は何が違うの？&lt;/h3&gt;
+
+&lt;p&gt;私が思う社会人博士課程のメリットは、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;選択肢を増やす&lt;/font&gt;&lt;/strong&gt;ことができる点です。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/mikael-kristenson-3aVlWP-7bg8-unsplash.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;私が修士学生の時の研究テーマは「中間バンド型太陽電池」と呼ばれる
+次世代太陽電池の材料をシミュレーションにより探索するという内容でした。
+クリーンエネルギーデバイスに関する材料探索をやりたかった私にとっては、とてもやりがいのあるテーマで、研究に没頭しました。&lt;/p&gt;
+
+&lt;p&gt;しかしながら、この太陽電池を実用化に近づけるために最も取り組まなければならない根本的な課題をは何か？と考えると、
+私のアプローチが最適な方法なのか、もっと他に解決すべき問題点があるのではないか、と疑問に感じるようになりました。
+また、この太陽電池は太陽電池業界においてもかなりマイナーであり、学会発表などの場においても
+私の研究内容について興味を持ってくださる方はあまりいらっしゃいませんでした。&lt;/p&gt;
+
+&lt;p&gt;つまり、修士の私が感じていたモヤモヤは&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;物事の本質的な課題に対してアプローチできているのか？&lt;/li&gt;
+  &lt;li&gt;果たしてこの努力は誰の役に立つのだろうか？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;というように、研究テーマの設定が原因でした。&lt;/p&gt;
+
+&lt;p&gt;学術界であれば、こうした基礎研究の積み重ねが、将来の全く新しい法則や原理の発見につながりますし、
+あるいは、今すぐには役に立たなくても、何十年後に役に立つことも多々ありますので、どんな研究も重要だと思います。
+ただ、当時の私にはそういった信念や覚悟がなかったんだと思います。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/lenny-kuhne-jHZ70nRk7Ns-unsplash.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;一方学術界と異なり、産業界では、時代のトレンドに合ったホットな分野の技術を最短の道のりで形にし、事業にすることを目的として研究開発を行います。
+そのため、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;分野全体を把握し、本質的な課題となっているところを見極め、それに必要な技術を取り入れる&lt;/font&gt;&lt;/strong&gt;ことをより重要視します。
+今どんな分野・技術に勢いがあるのか、今後ホットになりそうなことは何か、ということに常にアンテナを張っている研究者が多く、
+たくさんの情報が集まってくる環境です。&lt;/p&gt;
+
+&lt;p&gt;私の場合も、就職後にLiイオン電池材料や太陽電池材料、熱電変換材料など、様々な分野の材料開発に関わるうちに、
+どこが本質的な課題となっていて、どの分野であれば私のスキルである材料シミュレーションが役に立つかを見定めることができました。&lt;/p&gt;
+
+&lt;p&gt;その中でも、次世代の太陽電池として注目度の高いペロブスカイト太陽電池の開発に携わる中で、
+ペロブスカイト太陽電池の光吸収層に使われる、有機-無機ハイブリッド材料という新素材に興味を持ちました。
+ペロブスカイト太陽電池については、&lt;a href=&quot;https://yokoyamatomoyasu.github.io/tech-trend-1&quot;&gt;こちらの記事&lt;/a&gt;にまとめましたのでご参照ください。&lt;/p&gt;
+
+&lt;p&gt;有機-無機ハイブリッド材料は、有機材料と無機材料という異種分野が融合した素材です。
+この材料系は、有機材料と無機材料の両方のメリットを持ち合わせる今までにない素材であり、
+また、その組み合わせから未だ見つかっていない素材が膨大に存在します。
+今後、太陽電池だけでなく様々なデバイスに展開されていく将来性のある素材であると感じました。&lt;/p&gt;
+
+&lt;p&gt;そこで、有機-無機ハイブリッド材料のシミュレーションスキルを極めるために、
+共同研究先の研究室の先生にこのテーマを提案し、社会人博士課程への進学を決めました。&lt;/p&gt;
+
+&lt;p&gt;このように、民間企業に就職し、修士学生の時よりもさまざまな分野の技術や素材に触れることで、
+博士課程で研究したい研究分野の選択肢を増やし、その中から自分のやりたいことを選択することができました。
+修士課程からそのまま進学する場合は、修士課程で過ごした研究室で博士課程も過ごすことが多いですが、
+それに対し社会人博士課程は&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;様々な選択肢の中から自分の極めたい道を選択できる&lt;/font&gt;&lt;/strong&gt;点がメリットだと思います。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/sieuwert-otterloo-AuR4z-edGAU-unsplash.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ただし、民間企業の研究開発は、悪い言い方をすれば流行に流されやすく、
+私のように研究テーマがコロコロとかわることもありますし、
+当然ながら、会社での仕事と学業を両立するのは大変です。
+故に、自分の極めたい道が明確な修士学生の方には、そのまま博士課程に進学することをお勧めします。
+一方で、現在学んでいる分野の研究開発を仕事にすることに自信がなく、極めたい道が明確ではない修士学生の方は、
+一度民間企業に就職してから、やりたいことを見出し、社会人博士課程として極めることもありだと思います。&lt;/p&gt;
+
+&lt;p&gt;ここまで、一般的な博士課程と社会人博士課程の違いについて社会人博士課程の私が思うことをお話しました。
+次回は、私はなぜ博士課程に進学したか？何がモチベーションだったのか？について書きたいと思います。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://yokoyamatomoyasu.github.io/researcher-life-2&quot;&gt;社会人博士論 Ⅱ ーなぜ博士過程に進学したかー&lt;/a&gt;&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,doctor" /><category term="documentation" /><category term="technology" /><summary type="html">私はパナソニックで働きながら2019年に博士課程に進学しました。 今回は社会人博士課程について 私が考えてきたことを3回に分けて書きたいと思います。 第1回は、博士課程に進学するか、民間企業に就職するか悩んでいる方に対し、 私が思う社会人博士課程のメリットについてお話したいと思います。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/thisisengineering-raeng-mF6gB6hV5OU-unsplash.jpg" /><media:content medium="image" url="/thisisengineering-raeng-mF6gB6hV5OU-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">社会人博士論 Ⅱ ーなぜ博士過程に進学したかー</title><link href="/researcher-life-2" rel="alternate" type="text/html" title="社会人博士論 Ⅱ ーなぜ博士過程に進学したかー" /><published>2021-11-13T00:00:00+09:00</published><updated>2021-11-13T00:00:00+09:00</updated><id>/researcher-life-2</id><content type="html" xml:base="/researcher-life-2">&lt;p&gt;第2回は、どういう考えから私が&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;社会人博士課程&lt;/font&gt;&lt;/strong&gt;に進学するに至ったかについて
+書きたいと思います。&lt;/p&gt;
+
+&lt;h3 id=&quot;なぜ社会人になっても博士課程に進学する必要があるの&quot;&gt;なぜ社会人になっても博士課程に進学する必要があるの？&lt;/h3&gt;
+
+&lt;p&gt;私が博士課程に進学したいと考えた理由は、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;企業研究者として活躍し続ける&lt;/font&gt;&lt;/strong&gt;ためです。&lt;/p&gt;
+
+&lt;p&gt;入社してしばらく研究開発に従事しているうちに、今後の自分の研究者人生に&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;危機感&lt;/font&gt;&lt;/strong&gt;を覚えるようになりました。
+仮に社外の優秀な研究者が入社してきた場合、このままでは自分は彼らの下位互換になってしまうのではないかと考えたためです。&lt;/p&gt;
+
+&lt;p&gt;私が入社した2014年には、社内で材料シミュレーションができる人は数人しかいなかったため、
+そのスキルを保有する私は組織の中で貴重な存在として、技術的な優位性がありました。&lt;/p&gt;
+
+&lt;p&gt;しかしながら、汎用的なシミュレーションツールが増え、使い方さえ覚えれば誰でもシミュレーションができるような現代、
+その後やはり材料シミュレーションのスキルを保有する研究者たちが続々と入社してきました。
+大学で准教授や助教のお仕事をされていたような、高い技術力をもった優秀な研究者がキャリア入社してくることも少なくなく、
+学生時代に習得した私のスキルの優位性など、このままではすぐになくなってしてしまうと強く危機感を覚えました。&lt;/p&gt;
+
+&lt;p&gt;また、必要とされるスキルが変化してきていると実感したことで、さらに危機感が募りました。
+材料開発のDX、いわゆるマテリアルズ・インフォマティクスの流行に伴い、
+材料シミュレーションのスキルと台頭して機械学習のスキルも重要視されるようになりました。
+テクノロジーは常に進歩しており、必要とされるスキルも変化します。
+いつか機械学習の分野が飛躍的に発達すれば、材料シミュレーションが必要なくなり、私の保有するスキルが陳腐化するかもしれません。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/luca-bravo-XJXWbfSo2f0-unsplash.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;視点を変え、組織をマネジメントする立場から考えてみると、必要な技術が社内になければ、それを保有する研究者を社外から引っ張ってくれば良いだけなのです。
+ゆえに、我々企業研究者が活躍し続けるためには、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;必要とされる技術を、学術業界と同等のレベルで習得し続け&lt;/font&gt;&lt;/strong&gt;、
+さらに&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;彼らにはない別の技術的優位性を保有しなければならない&lt;/font&gt;&lt;/strong&gt;のです。&lt;/p&gt;
+
+&lt;p&gt;ここで言う「活躍」とは「自分のやりたいことで成果をあげる」ことを指しています。
+上司から言われたことにしたがって研究開発を進めることもできますが、
+自分の幸福度を上げるためには、自分のやりたい研究開発を自由にできることが一番だと思います。
+自分のやりたいことができる環境にするためには、
+&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;自分にしかできないことがある唯一無二の研究者&lt;/font&gt;&lt;/strong&gt;にならないといけないと感じました。&lt;/p&gt;
+
+&lt;p&gt;こうした危機感から、博士課程に進学することで、自分の保有するスキルをアップデートしたい、
+そして今後アップデートし続けられるようなきっかけにしたい、と思い至りました。
+博士課程において、世界にまだない技術をゼロから自分の力で構築しそれを発信するプロセスを経験することができます。
+その経験は、企業における研究開発においても必要なスキルを常にアップデートし続ける基盤になると考えました。
+そうしたことを継続できれば、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;企業研究者として活躍できる&lt;/font&gt;&lt;/strong&gt;と考えました。&lt;/p&gt;
+
+&lt;p&gt;私は修士課程の時に、博士課程に進むか民間企業に就職するか悩んだこともあり、
+就職前から博士課程に進みたいという思いはずっとありましたが、
+上記のような危機感からその思いが強くなり、進学を決めました。&lt;/p&gt;
+
+&lt;p&gt;ではどのように社会人課程に進学したか？最終回は、社会人博士課程への進学を考えている方に向けて、
+進学前に私がお勧めしたいことについて書きたいと思います。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://yokoyamatomoyasu.github.io/researcher-life-3&quot;&gt;社会人博士論 Ⅲ ー社会人博士課程進学前に何をすればいいかー&lt;/a&gt;&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,doctor" /><category term="documentation" /><category term="technology" /><summary type="html">第2回は、どういう考えから私が社会人博士課程に進学するに至ったかについて 書きたいと思います。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/vasily-koloda-8CqDvPuo_kI-unsplash.jpg" /><media:content medium="image" url="/vasily-koloda-8CqDvPuo_kI-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">社会人博士論 Ⅲ ー社会人博士課程進学前に何をすればいいかー</title><link href="/researcher-life-3" rel="alternate" type="text/html" title="社会人博士論 Ⅲ ー社会人博士課程進学前に何をすればいいかー" /><published>2021-11-13T00:00:00+09:00</published><updated>2021-11-13T00:00:00+09:00</updated><id>/researcher-life-3</id><content type="html" xml:base="/researcher-life-3">&lt;p&gt;第3回は社会人博士課程への進学を考えている方に向けて、
+進学前に私がお勧めしたいことについて書きたいと思います。&lt;/p&gt;
+
+&lt;h3 id=&quot;社会人博士課程進学前に何をすればいいの&quot;&gt;社会人博士課程進学前に何をすればいいの？&lt;/h3&gt;
+
+&lt;p&gt;これは人それぞれだと思いますが、私が個人的にお勧めするのは進学したい大学と所属企業の間で&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;共同研究を行う&lt;/font&gt;&lt;/strong&gt;ことです。&lt;/p&gt;
+
+&lt;p&gt;社会人博士課程の進学の際に、一番の悩みは業務と両立できるのか、
+平日の仕事・残業以外の時間で卒業できるほどの研究成果を出せるのか、という点だと思います。&lt;/p&gt;
+
+&lt;p&gt;博士課程に進学する前にその大学と&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;共同研究&lt;/font&gt;&lt;/strong&gt;をしておくと、精神的・身体的な負担が圧倒的に少なくなります。
+進学前の共同研究によって、いわば&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;博士課程0年生&lt;/font&gt;&lt;/strong&gt;として、リスク少なく研究ができるためです。&lt;/p&gt;
+
+&lt;p&gt;私も共同研究がきっかけで、社会人博士課程に進学しました。
+私が入社する前から続いていた東京工業大学との共同研究のメンバーに私も加えていただき、
+幸運にも、参加後１年で学術発表に値する成果を得ることができました。
+その成果を学術発表することで、博士号が取得できる見込みがあると共同研究先の先生にも了解をいただき、博士課程に進学しました。&lt;/p&gt;
+
+&lt;p&gt;このように、この博士課程0年生の成果によって、アドバンテージがある状態で博士課程をスタートできます。
+私自身も、このアドバンテージがあったため、精神的にもそれほど負担はなく、
+また、進学後も共同研究の枠組みの中で自身の研究活動ができたため、身体的にも楽でした。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/trnava-university-_9xRHrMOjeg-unsplash.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ゆえに、社会人博士過程に進学したいと考える企業研究者の方は、
+まずは&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;共同研究ができる可能性があるか探ってみる&lt;/font&gt;&lt;/strong&gt;ことから始めると良いと思います。
+そのために、大学の先生にヒアリングを行ったり、学会発表に参加・質問したりと、
+常に目を光らせて&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;共同研究をしたい研究室を探す努力と、先生方に自分自身を知ってもらう努力&lt;/font&gt;&lt;/strong&gt;をすることが大切だと思います。&lt;/p&gt;
+
+&lt;p&gt;ただ、このアプローチはどうしても企業の所属上司の考え方に依存します。
+現状は難しくても、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;自分の意思を口に出し続けていれば&lt;/font&gt;&lt;/strong&gt;チャンスを掴める可能性は上がります。
+初めはガッツリした共同研究でなくとも、金額的にもハードルの低いアドバイザリー契約から始めるのでも良いと思います。&lt;/p&gt;
+
+&lt;p&gt;また、共同研究が成立した暁には、進学をする前に共同研究の成果という位置付けで、その研究内容で学会発表をすることをお勧めします。
+発表済みという事実を作ることで、所属上司に博士課程進学への説得がしやすくなるためです。
+私の場合は、共同研究の成果として学会発表した結果、幸運にも講演奨励賞をいただくことができ、
+社会人博士課程進学について上司を説得しやすくなりました。&lt;/p&gt;
+
+&lt;h3 id=&quot;まとめ&quot;&gt;まとめ&lt;/h3&gt;
+
+&lt;p&gt;以上3回に分けて、社会人博士課程について私が考えてきたことについて書きました。
+まとめると、&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;企業研究者として活躍し続ける（自分のやりたいことで成果をあげる）ために、博士課程に進学したいと思った。&lt;/li&gt;
+  &lt;li&gt;社会人博士課程では、研究分野の選択肢を増やしてから、自分の極めたいテーマを選択できる。&lt;/li&gt;
+  &lt;li&gt;社会人博士課程に進学する前に、進学したい大学と共同研究を行うことで、博士0年生として研究ができるので負担が少なく卒業できる。&lt;/li&gt;
+  &lt;li&gt;共同研究を行う下準備（ヒアリング・学会参加、思いを口に出す）を継続してチャンスを伺う。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;です。博士課程への進学を考える皆さんのご参考になれば幸いです。&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,doctor" /><category term="documentation" /><category term="technology" /><summary type="html">第3回は社会人博士課程への進学を考えている方に向けて、 進学前に私がお勧めしたいことについて書きたいと思います。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg" /><media:content medium="image" url="/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">[技術解説]ペロブスカイト太陽電池とは？</title><link href="/tech-trend-1" rel="alternate" type="text/html" title="[技術解説]ペロブスカイト太陽電池とは？" /><published>2021-10-12T00:00:00+09:00</published><updated>2021-10-12T00:00:00+09:00</updated><id>/tech-trend-1</id><content type="html" xml:base="/tech-trend-1">&lt;p&gt;次世代の太陽電池として注目されている&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「ペロブスカイト太陽電池」&lt;/font&gt;&lt;/strong&gt;について、開発に携わる者として解説したいと思います。&lt;/p&gt;
+
+&lt;h3 id=&quot;なにがすごいの&quot;&gt;なにがすごいの？&lt;/h3&gt;
+
+&lt;p&gt;「ペロブスカイト太陽電池」は、ペンキのように&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;塗るだけで発電する&lt;/font&gt;&lt;/strong&gt;ため、
+&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「低価格に作れる」「曲げられる」「軽くなる」&lt;/font&gt;&lt;/strong&gt;といったこれまでの太陽電池にはないメリットを有します。&lt;/p&gt;
+
+&lt;p&gt;そのため、建物の屋根だけでなく、これまで太陽電池が設置できなかったビルの壁面などが発電エリアになり、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「街全体」を発電所に変える&lt;/font&gt;&lt;/strong&gt;ことができると期待されています。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/bipv.png&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;これまでの次世代と言われる太陽電池と大きく異なるのは、初めて太陽電池としての報告がなされてから劇的なスピードで発電性能が向上し、今や市販の太陽電池に匹敵する25％を超える高い変換効率を示す点です。&lt;/p&gt;
+
+&lt;p&gt;また、従来の太陽電池より弱い光でも発電性能が高く、曇りや屋内でもよく発電できることや、宇宙線に対する耐性が高く、宇宙用途の太陽電池としても検討されていたりと、これまでの太陽電池にはない特徴が次々と明らかになっており、更なる展開が期待されています。&lt;/p&gt;
+
+&lt;h3 id=&quot;なぜすごいの&quot;&gt;なぜすごいの？&lt;/h3&gt;
+
+&lt;p&gt;このようなペロブスカイト太陽電池のメリットの起源は、それに使われる&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「新素材」&lt;/font&gt;&lt;/strong&gt;にあります。&lt;/p&gt;
+
+&lt;p&gt;我々が扱う「素材」は主に「有機材料」と「無機材料」のふたつに分類することができます。
+「有機材料」とはペットボトルやプラスチックに使われる素材で、低コストで柔らかいという特徴を持ちます。
+「無機材料」は石や金属などで、電気をよく通す、光をよく吸うという特徴を持ちます。&lt;/p&gt;
+
+&lt;p&gt;これまでの太陽電池は、後者の「無機材料」から作っていたため、作る際に1000度以上の温度で焼く必要があり、大型の設備が必要でコストが高くなったり、曲げると割れてしまったりしてしまいました。&lt;/p&gt;
+
+&lt;p&gt;一方、最近これらを組み合わせた新しい素材&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「有機–無機ハイブリッド材料」&lt;/font&gt;&lt;/strong&gt;が見出され、有機と無機の両者のメリットを有するというこれまでにない素材としてと注目されています。この新素材を用いた太陽電池が&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「ペロブスカイト太陽電池」&lt;/font&gt;&lt;/strong&gt;になります。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/oihm.png&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;これまでの太陽電池材料とは異なり有機材料の特徴も併せ持つため、インクに溶かして塗るだけで太陽電池ができます。
+これにより、これまで太陽電池の製造に必要であった高価な装置が入らず、またどんなところにも塗るだけでできるので、フィルムなどの軽くて曲がる基板にも太陽電池を作ることができます。従って「低価格に作れる」「曲げられる」「軽くなる」という特徴が生まれるのです。&lt;/p&gt;
+
+&lt;p&gt;私も初めてペロブスカイト太陽電池を作った時は、「こんな簡単に、こんなすぐに太陽電池ができるのか」と、理科の実験をみる小学生のように感動したことを今でも覚えています。&lt;a href=&quot;https://youtu.be/d2npedzLFaA?t=283&quot;&gt;こちら&lt;/a&gt;の動画のように、黄色い膜が黒色に変化し、有機-無機ハイブリッド材料が瞬時にできます。&lt;/p&gt;
+
+&lt;p&gt;このように、有機–無機ハイブリッド材料という新素材を使うことで、ペロブスカイト太陽電池というこれまでにない価値を有する新デバイスを作ることができます。つまり、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;新素材の発見が、新デバイスの創出につながる&lt;/font&gt;&lt;/strong&gt;のです。小さな素材から社会を大きく変えていける、そんなところに材料科学の魅力があるかなと思います。&lt;/p&gt;
+
+&lt;p&gt;最後に補足ですが、「ペロブスカイト」とはこの材料の構造の名前から来ています。ロシアのペロブスキーさんが発見したペロブスカイト型構造という結晶構造があり、この構造を持つ有機–無機ハイブリッド材料が使われているため、「ペロブスカイト太陽電池」と言います。素材の構造的特徴が表現されたネーミングです。&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="journal" /><category term="documentation" /><category term="technology" /><summary type="html">次世代の太陽電池として注目されている「ペロブスカイト太陽電池」について、開発に携わる者として解説したいと思います。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/solar_cell.jpg" /><media:content medium="image" url="/solar_cell.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">[特許解説]人工知能によるペロブスカイト太陽電池の検査装置</title><link href="/patent-yoko-1" rel="alternate" type="text/html" title="[特許解説]人工知能によるペロブスカイト太陽電池の検査装置" /><published>2021-09-21T00:00:00+09:00</published><updated>2021-09-21T00:00:00+09:00</updated><id>/patent-yoko-1</id><content type="html" xml:base="/patent-yoko-1">&lt;p&gt;今回は過去に私が発明した&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「人工知能（AI）によるペロブスカイト太陽電池の検査装置」&lt;/font&gt;&lt;/strong&gt;
+（&lt;a href=&quot;https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2020-005473/BAFBEA785A8A8F5D0D25B1ACFDC34927DE6CEA14938914035712A33DF6AFDD22/11/ja&quot;&gt;特開2020-005473&lt;/a&gt;）という特許について解説したいと思います。&lt;/p&gt;
+
+&lt;h3 id=&quot;どんなことができるの&quot;&gt;どんなことができるの？&lt;/h3&gt;
+&lt;p&gt;一言でこの特許を表現すると、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;完成したペロブスカイト太陽電池をカメラで撮影し、
+AIによりその写真をもとに太陽電池の出来具合を調べる特許&lt;/font&gt;&lt;/strong&gt;です。&lt;/p&gt;
+
+&lt;p&gt;下記の図のようにライン上で流れてきた太陽電池（15番）を、
+下のライト（40番）で照らし、上からカメラ（30番）で撮影します。
+その画像をコンピューター（20番）の中あらかじめ学習済みの機械学習モデルに入力することで
+その太陽電池の変換効率を予測することができるという仕組みです。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/JPA_502005473_i_000009.jpg&quot; alt=&quot;エビフライトライアングル&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;なにがすごいの&quot;&gt;なにがすごいの？&lt;/h3&gt;
+&lt;p&gt;AIをつかうことで&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;太陽電池の画像だけで発電性能を瞬時に、かつ高い精度で予測できる&lt;/font&gt;&lt;/strong&gt;ことがすごい点です。&lt;/p&gt;
+
+&lt;p&gt;この検査装置のポイントはペロブスカイト太陽電池にあります。&lt;/p&gt;
+
+&lt;p&gt;ペロブスカイト太陽電池とは現在最も注目される次世代太陽電池です。
+ペロブスカイト太陽電池は従来の太陽電池に匹敵する25%以上の高い変換効率を示すだけでなく、
+従来の太陽電池と異なり、ペンキのように塗って作ることができるため、
+低価格になる、曲げられる、軽くなる、といったこれまでにないメリットを有します。&lt;/p&gt;
+
+&lt;p&gt;しかしながら、塗ってつくるため&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;発電性能にばらつきが生じやすい&lt;/font&gt;&lt;/strong&gt;という、
+これまでの太陽電池にないデメリットがありました。
+つまり、同じようにつくっても高い変換効率と低い変換効率のものができてしまうということです。
+購入した太陽電池が全然使い物にならなかったら困りますよね。
+このばらつきの原因は、塗るときの乾燥条件や塗った液の広がり方などに応じて、
+ペロブスカイト層の結晶の偏り、または膜厚の偏りが生じることに起因しています。
+こうした偏りはペロブスカイト太陽電池の&lt;strong&gt;色ムラ&lt;/strong&gt;として現れます。&lt;/p&gt;
+
+&lt;p&gt;例えば、（白黒で見にくいですが）変換効率が高いペロブスカイト太陽電池は、
+以下のようにムラが少なくきれいですが、&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/JPA_502005473_i_000011.jpg&quot; alt=&quot;高変換効率PSC&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;変換効率が低いペロブスカイト太陽電池の写真は、
+濃淡があったり、色が濃すぎたりと、目でみても違いがわかります。
+これは従来の太陽電池にはない特徴です。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/JPA_502005473_i_000012.jpg&quot; alt=&quot;低変換効率PSC&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;人が目で見ても判断できるということで
+同じことが&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;AIでもできるのではないか？&lt;/font&gt;&lt;/strong&gt;と私は考えました。&lt;/p&gt;
+
+&lt;p&gt;そこで、400個のペロブスカイト太陽電池の写真と、
+実際に測定した発電性能をニューラルネットワークを用いて学習したところ、
+写真のみの情報で&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;変換効率が3%以下の誤差で予測できる&lt;/font&gt;&lt;/strong&gt;ことがわかりました。&lt;/p&gt;
+
+&lt;p&gt;太陽電池は、複数の層が積み重なってできておりますが
+通常、太陽電池の発電性能を評価するためには、
+すべての層を積み重ね、電極を配置して電気を流す必要があり、手間がかかります。
+故に従来はすべての完成品を評価するには&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;膨大な時間がかかる&lt;/font&gt;&lt;/strong&gt;ため、
+一部の完成品のみ検査することしかできませんでした。&lt;/p&gt;
+
+&lt;p&gt;一方、この方法であれば、電気を流すことなく&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;写真のみで瞬時に評価できる&lt;/font&gt;&lt;/strong&gt;ので、
+すべての完成品を評価することができます。
+さらに全部の層を積み重ねるよりも前に不良品を判断できるため、
+使う材料を節約することも可能です。&lt;/p&gt;
+
+&lt;p&gt;このように材料・デバイス開発においても、
+AIによってこれまでできなかったことが実現されつつあります。
+今回は太陽電池の検査装置という少しマニアックな内容でしたが、
+今後も&lt;strong&gt;材料・デバイス×AI&lt;/strong&gt;の動向を解説したいと思います。&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="journal" /><category term="documentation" /><category term="patent" /><summary type="html">今回は過去に私が発明した「人工知能（AI）によるペロブスカイト太陽電池の検査装置」 （特開2020-005473）という特許について解説したいと思います。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/1826426_s.jpg" /><media:content medium="image" url="/1826426_s.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">このサイトについて</title><link href="/about-the-author" rel="alternate" type="text/html" title="このサイトについて" /><published>2021-09-20T00:00:00+09:00</published><updated>2021-09-20T00:00:00+09:00</updated><id>/about-the-author</id><content type="html" xml:base="/about-the-author">&lt;p&gt;本サイトを閲覧いただきありがとうございます。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;計算材料科学者の横山智康&lt;/strong&gt;と申します。&lt;/p&gt;
+
+&lt;p&gt;私はパナソニック株式会社の研究部門にて次世代エネルギー材料の研究開発に携わっております。&lt;/p&gt;
+
+&lt;p&gt;このサイトは技術者としての横山智康の個人ホームページページになります。&lt;/p&gt;
+
+&lt;p&gt;今回このようなサイトを立ち上げた理由は、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;研究者としての「情報発信」の幅を広げたい&lt;/font&gt;&lt;/strong&gt;と感じたからです。&lt;/p&gt;
+
+&lt;p&gt;私のような&lt;strong&gt;「企業研究者」&lt;/strong&gt;は、会社外に対する&lt;strong&gt;「情報発信」&lt;/strong&gt;を行う機会は少なく、
+あったとしても学会発表や、学術論文あるいは特許の公開といった&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;限定的な範囲の発信に限られます&lt;/font&gt;&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;幸運なことに私はこうした機会に恵まれ、学会発表や論文執筆など学術領域に向けた発信を経験させていただきました。
+しかし、会社外に発信するという貴重な機会にもかかわらず、
+こうした発信方法では同じ専門の研究者・技術者以外のコミュニティに私の発信が届くことはほとんどありません。&lt;/p&gt;
+
+&lt;p&gt;こうした&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;企業研究者の限定的な情報発信を少しずつ広げたい&lt;/font&gt;&lt;/strong&gt;という思いに加え、会社の後押しもあり、このサイトを立ち上げました。
+この&lt;strong&gt;「情報発信の場」&lt;/strong&gt;を通じて、技術者としての横山を知ってもらうことに加え、
+「パナソニックにはこんな研究者がいるのか」と知ってもらうことで
+会社のブランド力の向上に微力ながら貢献できればと期待しております。&lt;/p&gt;
+
+&lt;p&gt;もちろん会社に勤める以上、会社内の秘情報は発信できませんが、
+すでに公開されている情報を私なりに咀嚼してわかりやすくお伝えすることを心がけたいです。&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="journal" /><category term="documentation" /><category term="sample" /><summary type="html">本サイトを閲覧いただきありがとうございます。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/panasonic_sakura.jpg" /><media:content medium="image" url="/panasonic_sakura.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
