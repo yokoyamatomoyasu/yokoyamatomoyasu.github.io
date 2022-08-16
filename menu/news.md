@@ -4,6 +4,16 @@ title:  News
 permalink: /news
 ---
 
+### 2022年7月17日
+日本印刷学会のシンポジウム「2022年度Ｐ＆Ｉ研究会第2 回シンポジウム」にて招待講演予定です。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ご縁があり、日本印刷学会のシンポジウムで講演する機会を頂きました。昨今のMIの動向なども含めてお話できればと思ってます。<br><br>ノーベル賞候補・宮坂先生の最近のお話も伺えるとのことでとても楽しみです。<a href="https://t.co/l1K3Afk6NE">https://t.co/l1K3Afk6NE</a> <a href="https://t.co/3Txr3RImhw">pic.twitter.com/3Txr3RImhw</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1548623551523168257?ref_src=twsrc%5Etfw">July 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### 2022年5月11日
+コーセーさんの研究者との対談記事が公開されました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">先日、コーセーさんの研究者とお話する機会がありました。<br><br>印象に残ったのは「化粧品開発は正解がない」という言葉。<br><br>性能を上げることが正解の材料開発とは違い、自分で正解を作り出せる点が面白かったです。<br><br>就活生の方に興味を持って頂ければ嬉しく思います。<a href="https://t.co/aZvJcyqNQX">https://t.co/aZvJcyqNQX</a> <a href="https://twitter.com/hashtag/LabBase?src=hash&amp;ref_src=twsrc%5Etfw">#LabBase</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1525430734244261889?ref_src=twsrc%5Etfw">May 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ### 2022年4月22日
 SF作家の長谷敏司さんへインタビューさせていただいた記事が公開されました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">&quot;q&amp;d&quot;<br>仕事やくらしの中の膨大な「決断」 <br>幸せな人生のために <a href="https://twitter.com/hashtag/%E6%B1%BA%E3%82%81%E3%82%8B%E3%81%AE%E3%81%AF%E3%82%8F%E3%81%9F%E3%81%97%E3%81%8BAI%E3%81%8B?src=hash&amp;ref_src=twsrc%5Etfw">#決めるのはわたしかAIか</a> ?<br><br>パナソニックの計算材料研究者が <a href="https://twitter.com/hashtag/SF%E4%BD%9C%E5%AE%B6?src=hash&amp;ref_src=twsrc%5Etfw">#SF作家</a> の 長谷敏司<a href="https://twitter.com/hose_s?ref_src=twsrc%5Etfw">@hose_s</a> さんと対談<br><br>データが「はずれ」と切り捨ててしまうもの<br>そこから「当たり」を見出すことも、わたしたちの選択肢👇<a href="https://twitter.com/hashtag/%E3%83%9D%E3%82%B9%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%95%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9?src=hash&amp;ref_src=twsrc%5Etfw">#ポストワークライフバランス</a></p>&mdash; パナソニックブランド公式 (@PanasonicBrand) <a href="https://twitter.com/PanasonicBrand/status/1517428000979095553?ref_src=twsrc%5Etfw">April 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
