@@ -4,10 +4,17 @@ title:  News
 permalink: /news
 ---
 
-### 2022年7月17日
-日本印刷学会のシンポジウム「2022年度Ｐ＆Ｉ研究会第2 回シンポジウム」にて招待講演予定です。
+### 2022年9月15日
+日経BPから出版の「[日経テクノロジー展望2023 世界を変える100の技術](https://t.co/4XTFPkhb9S)」に私の研究が掲載されました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今週発売された「日経テクノロジー展望2023 世界を変える100の技術」という本に、僕の研究を掲載いただきました。ちょうど100番目に載ってます。<a href="https://t.co/4XTFPkhb9S">https://t.co/4XTFPkhb9S</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1571091595583102976?ref_src=twsrc%5Etfw">September 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 2022年9月2日
+日本印刷学会のシンポジウム「2022年度Ｐ＆Ｉ研究会第2回シンポジウム」にて招待講演を行いました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ご縁があり、日本印刷学会のシンポジウムで講演する機会を頂きました。昨今のMIの動向なども含めてお話できればと思ってます。<br><br>ノーベル賞候補・宮坂先生の最近のお話も伺えるとのことでとても楽しみです。<a href="https://t.co/l1K3Afk6NE">https://t.co/l1K3Afk6NE</a> <a href="https://t.co/3Txr3RImhw">pic.twitter.com/3Txr3RImhw</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1548623551523168257?ref_src=twsrc%5Etfw">July 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### 2022年8月28日
+大阪大学の学生主催のシンポジウム「[第8回インタラクティブ交流会](https://www.msc.osaka-u.ac.jp/shms/2022/08/29/20220828-29/)」にて招待講演を行いました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今日は大阪大学の学生さんが主催するシンポジウムに招待いただき、<a href="https://twitter.com/hashtag/%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BA%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9?src=hash&amp;ref_src=twsrc%5Etfw">#マテリアルズインフォマティクス</a> の取り組みについて講演してきました。<br><br>みなさんとても活気があって僕も明日から頑張ろうという気持ちになりました。 <a href="https://t.co/1lpNTlHZBx">pic.twitter.com/1lpNTlHZBx</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1563843847683203073?ref_src=twsrc%5Etfw">August 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2022年5月11日
 コーセーさんの研究者との対談記事が公開されました。
