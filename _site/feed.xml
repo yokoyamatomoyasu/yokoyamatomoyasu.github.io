@@ -1,4 +1,146 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-04-03T22:04:04+09:00</updated><id>/feed.xml</id><title type="html">Tomoyasu Yokoyama</title><subtitle>Material Scientist's Pages</subtitle><author><name>Tomoyasu Yokoyama</name></author><entry><title type="html">企業研究者にとって大事だと思うこと ⅠⅠ</title><link href="/researcher-life-5" rel="alternate" type="text/html" title="企業研究者にとって大事だと思うこと ⅠⅠ" /><published>2022-04-03T00:00:00+09:00</published><updated>2022-04-03T00:00:00+09:00</updated><id>/researcher-life-5</id><content type="html" xml:base="/researcher-life-5">&lt;p&gt;&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-12-27T18:37:08+09:00</updated><id>/feed.xml</id><title type="html">Tomoyasu Yokoyama</title><subtitle>Material Scientist's Pages</subtitle><author><name>Tomoyasu Yokoyama</name></author><entry><title type="html">2022年の読んでおきたいマテリアルズ・インフォマティクス論文5選</title><link href="/mi-paper-2022" rel="alternate" type="text/html" title="2022年の読んでおきたいマテリアルズ・インフォマティクス論文5選" /><published>2022-12-27T00:00:00+09:00</published><updated>2022-12-27T00:00:00+09:00</updated><id>/mi-paper-2022</id><content type="html" xml:base="/mi-paper-2022">&lt;p&gt;&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;マテリアルズ・インフォマティクス（MI）の分野は毎日数十報もの論文が公開されます。そうした論文を流し見し、つまみ食いし、垂れ流すことを毎日続けている中で、１ヶ月に1回くらいの頻度で「お！？」となる論文があります。数百から数千の論文の中からそんな注目論文を分野ごとに5本ピックアップしてみました。&lt;/p&gt;
+
+&lt;h3 id=&quot;機械学習ポテンシャル&quot;&gt;機械学習ポテンシャル&lt;/h3&gt;
+
+&lt;p&gt;2022年の中でMI関連で最も多かったと感じた論文が「機械学習ポテンシャル」関連です。&lt;/p&gt;
+
+&lt;p&gt;機械学習ポテンシャルとは、機械学習により原子の間に働くエネルギーや原子間力を予測する手法です。従来の第一原理計算をはじめとする計算科学的な手法では計算コストが高かった課題を、機械学習で解決しようという取り組み。これにより、これまで時間がかかって難しかった有限温度でのシミュレーションや表面や界面などのマクロスケールのシミュレーションが可能になると期待されています。昨年までで手法がかなり進化してきたため、今年はさまざまな材料デバイスに応用した論文が一気に増えました。&lt;/p&gt;
+
+&lt;p&gt;そうした中でも面白かったのが、以下のDeepMindさんの機械学習ポテンシャルの論文。調和ポテンシャルで学習することで、エネルギー曲面を平坦にして局所解を減らすor抜け出す点がポイントのようです。面白いことに、原子間力の予測精度が悪くてもちゃんとした構造を予測できるとのことで、さらなるブレイクスルーに繋がりそうと感じました。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;DeepMindさんの機械学習ポテンシャルが登場。&lt;br /&gt;&lt;br /&gt;学習モデルの力の予測がうまくいかなくても、安定構造を予測できるという驚きの結果。なぜうまくいくのかまだわからないそうです。&lt;br /&gt;&lt;br /&gt;VASPなど第一原理計算コードよりも最適解にたどりつきやすい点も興味深い。これらのコードもAIに駆逐されてしまうのか… &lt;a href=&quot;https://t.co/yQ1MRmIfhV&quot;&gt;https://t.co/yQ1MRmIfhV&lt;/a&gt;&lt;/p&gt;&amp;mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) &lt;a href=&quot;https://twitter.com/yoko_materialDX/status/1576958379645636610?ref_src=twsrc%5Etfw&quot;&gt;October 3, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;機械学習波動関数&quot;&gt;機械学習波動関数&lt;/h3&gt;
+
+&lt;p&gt;2022年で最も増加したと感じた論文が「機械学習波動関数」関連です。&lt;/p&gt;
+
+&lt;p&gt;機械学習波動関数は、電子の振る舞いを表す方程式であるシュレディンガー方程式を機械学習を用いて解いて波動関数を予測する手法です。シュレディンガー方程式を厳密に解くことができないため、従来は近似して波動関数を求めていましたが、機械学習により厳密解に近い波動関数を予測する取り組み。これにより、これまでの近似手法に基づいている第一原理計算では実験を再現できない材料系（強相関系など）を正確に予測できる、つまり第一原理計算を超えることができることが期待されています。機械学習ポテンシャルに比べるとまだ歴史は浅いですが、昨年と比べると今年は論文数が急増した印象でした。&lt;/p&gt;
+
+&lt;p&gt;そうした中で注目度が高いのが、これまたDeepMindさんの論文。2020年にDeepMindさんが報告したFermiNetの続編で、自然言語処理の分野で効果を発揮しているトランスフォーマーを使うことで従来より精度が大きく改善したそうです。おそらくまだ精度や計算コスト等の面で課題があると思いますが、5年後くらいには今の機械学習ポテンシャルのような存在になっているのではないかと期待しています。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;機械学習でシュレディンガー方程式を解く論文。&lt;br /&gt;&lt;br /&gt;DeepMindさんは一昨年にFermiNetを発表しましたが、今年はPsiformerだそうです。&lt;br /&gt;&lt;br /&gt;Transformerアーキテクチャで電子間の相互作用を学習することで劇的に精度が改善したとのこと。&lt;br /&gt;&lt;br /&gt;来年はこの分野もTransformerが主流に？&lt;a href=&quot;https://t.co/KE8CjDNhMW&quot;&gt;https://t.co/KE8CjDNhMW&lt;/a&gt;&lt;/p&gt;&amp;mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) &lt;a href=&quot;https://twitter.com/yoko_materialDX/status/1599357856758652930?ref_src=twsrc%5Etfw&quot;&gt;December 4, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;自動実験装置のオープンソース化&quot;&gt;自動実験装置のオープンソース化&lt;/h3&gt;
+
+&lt;p&gt;ソフト面だけでなくハード面でも今年は気になる動きがありました。それは実験装置のオープンソース化です。&lt;/p&gt;
+
+&lt;p&gt;Githubなどで最新のコードを試すことができるようにソフト面ではオープンソース化が浸透してきましたが、それがハード面でも起きる可能性を感じています。これにより、誰でも簡単に自動実験装置などを導入でき、生成コストが高かった実験データを簡単に貯めることができ、機械学習と組み合わせて開発時間を短縮できることが期待されます。&lt;/p&gt;
+
+&lt;p&gt;例えば、以下のような電池セルを自動作成する実験装置のオープンソース化についての論文を読むと、数年後にはそうした未来が到来するように期待してしまいます。装置のための部品の型番や、組み立て方、操作方法、操作・解析のためのソフトまで公開されています。新しい装置ビジネスにもつながりそう。お金さえあれば・・。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;電池開発の自動実験の論文。&lt;br /&gt;&lt;br /&gt;ロボットを使って1日に64個の電池セルを組む自動実験システムを構築したそうです。&lt;br /&gt;&lt;br /&gt;面白いのは、データやコードだけでなく必要な部品やその組み立て方、操作方法などもGitHubに公開されており、（お金さえあれば）誰でも再現が可能です。&lt;a href=&quot;https://t.co/5Zuwn7UBM8&quot;&gt;https://t.co/5Zuwn7UBM8&lt;/a&gt; &lt;a href=&quot;https://t.co/Wjv5KYczf1&quot;&gt;pic.twitter.com/Wjv5KYczf1&lt;/a&gt;&lt;/p&gt;&amp;mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) &lt;a href=&quot;https://twitter.com/yoko_materialDX/status/1590298161339170816?ref_src=twsrc%5Etfw&quot;&gt;November 9, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;機械学習の外挿性&quot;&gt;機械学習の外挿性&lt;/h3&gt;
+
+&lt;p&gt;あと増えたなと感じたのが、実際にMIを使うときの課題を解決するより現実的なアプローチです。具体的には「機械学習で物性を高精度に予測できました」という単純な論文だけでなく、実際に探索する時の課題になる「外挿性」をどううまく考慮するかという点です。&lt;/p&gt;
+
+&lt;p&gt;材料デバイス分野は既存よりも高い物性・特性を有する材料・デバイスを見つけたいという問題設定が多く、データが少ない領域である「外挿」領域を予測することが重要視されます。しかし学習データがそもそも少ないので、機械学習は外挿領域の予測は苦手です。そこで「データの偏り」や「不確実性」を考慮し外挿性を高めようとする、材料デバイスに特化した手法が最近報告されています。&lt;/p&gt;
+
+&lt;p&gt;例えば、特異点を想定した最適化アルゴリズムにより従来の400倍早く最適化することができるとの報告があります。いい材料ってデータの中で見ると異常値でしかないので、それを超えるさらに異常値の材料を見つけるのはまだまだ難しいと思いますが、こうした取り組みが進むことで少しでも確率を上げられるといいなと思います。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;データの偏りを考慮した最適化の論文。&lt;br /&gt;&lt;br /&gt;材料探索では特異点のような高い特性の材料を見つけたいですが、データの多くは低い特性のため、通常の手法では最適化できない問題がありました。&lt;br /&gt;&lt;br /&gt;この偏りを考慮できる手法が提案されたそうです。&lt;br /&gt;&lt;br /&gt;良い材料って異常値ですもんね。&lt;a href=&quot;https://t.co/lkq5wXTPZQ&quot;&gt;https://t.co/lkq5wXTPZQ&lt;/a&gt; &lt;a href=&quot;https://t.co/o2zTUdE4Pr&quot;&gt;pic.twitter.com/o2zTUdE4Pr&lt;/a&gt;&lt;/p&gt;&amp;mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) &lt;a href=&quot;https://twitter.com/yoko_materialDX/status/1565655785652232192?ref_src=twsrc%5Etfw&quot;&gt;September 2, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;miによる発見&quot;&gt;MIによる発見&lt;/h3&gt;
+
+&lt;p&gt;で、実際MIは役に立っているの？っていう話によくなりますが、着実にMIが成果に繋がっていると感じています。&lt;/p&gt;
+
+&lt;p&gt;機械学習で予測された材料が実験でちゃんと合成でき、予測通り高い特性を持つことがわかったという報告が年々増えています。2022年で特に注目度が高かったのは以下の高エントロピー合金の論文です。&lt;/p&gt;
+
+&lt;p&gt;高エントロピー合金とは、５種類以上の元素を混ぜた金属材料で、考えられうる元素の組み合わせとその比率が膨大であるため、従来のアプローチでは最適材料の発見は困難です。この論文では、オートエンコーダーを用いて合成可能な元素の組み合わせ候補を生成し、回帰モデルでその候補の物性を予測し、高い物性の候補を実際に実験を行ってフィードバックするというループを繰り返すことで、熱膨張係数が極めて低い高エントロピー合金を発見しています。カッコいい・・こんな発見がしたいです。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;Machine learning–enabled high-entropy alloy discovery&lt;a href=&quot;https://t.co/NN2DvfLLFs&quot;&gt;https://t.co/NN2DvfLLFs&lt;/a&gt;&lt;br /&gt;機械学習で超熱膨張率の高エントロピー合金を発見してScience、時代を感じる&lt;/p&gt;&amp;mdash; 部品（本田翼） (@tjmlab) &lt;a href=&quot;https://twitter.com/tjmlab/status/1578525867357405185?ref_src=twsrc%5Etfw&quot;&gt;October 7, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;以上です、2023年はどんな面白いMIの研究が報告されるか楽しみです。&lt;/p&gt;
+
+&lt;h3 id=&quot;番外編その１&quot;&gt;番外編その１&lt;/h3&gt;
+
+&lt;p&gt;MIのレビュー論文です。かなりわかりやすくまとめてあって、初学者からプロまでおすすめの一本です。僕も学会発表のイントロでよく使わせていただいております。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BA%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#マテリアルズインフォマティクス&lt;/a&gt; の最新レビュー論文。&lt;br /&gt;&lt;br /&gt;300以上の論文が目的や手法ごとにまとまっています。&lt;br /&gt;&lt;br /&gt;物性予測や機械学習ポテンシャルに加え、ここ最近は機械学習汎関数の研究が増えてきているとのこと、たしかに。&lt;br /&gt;&lt;br /&gt;教科書的で初学者にもオススメです。&lt;a href=&quot;https://t.co/apc4BwIuOQ&quot;&gt;https://t.co/apc4BwIuOQ&lt;/a&gt; &lt;a href=&quot;https://t.co/dIUvLVINvF&quot;&gt;pic.twitter.com/dIUvLVINvF&lt;/a&gt;&lt;/p&gt;&amp;mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) &lt;a href=&quot;https://twitter.com/yoko_materialDX/status/1514921478852030467?ref_src=twsrc%5Etfw&quot;&gt;April 15, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;番外編その2&quot;&gt;番外編その2&lt;/h3&gt;
+
+&lt;p&gt;材料データの標準化の論文です。分子構造はいろんな書き方があり、機械学習で統一のフォーマットに変換しようという取り組み。&lt;/p&gt;
+
+&lt;p&gt;標準フォーマットを権利化できると何もしなくてもお金もちになれます。IBMさんは頭がいい。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;IBMさんの機械学習により分子構造を標準化する論文。&lt;br /&gt;&lt;br /&gt;分子の書き方は任意性があり僅かな違いが予測精度を下げる要因になります。&lt;br /&gt;&lt;br /&gt;適当な構造から標準化されたフォーマットに高精度に変換できるTransformerモデルを構築したそうです。&lt;br /&gt;&lt;br /&gt;標準化はビジネスの匂いがしますね。&lt;a href=&quot;https://t.co/hLDGoEHJPO&quot;&gt;https://t.co/hLDGoEHJPO&lt;/a&gt; &lt;a href=&quot;https://t.co/8eXov4Wk8E&quot;&gt;pic.twitter.com/8eXov4Wk8E&lt;/a&gt;&lt;/p&gt;&amp;mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) &lt;a href=&quot;https://twitter.com/yoko_materialDX/status/1596096362734493696?ref_src=twsrc%5Etfw&quot;&gt;November 25, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;番外編その3&quot;&gt;番外編その3&lt;/h3&gt;
+
+&lt;p&gt;MI関係ないですが、笑ってしまったのでここに記録しておきます。盛り上がる研究分野に対し論文数を稼ぐような意味のない研究をするなと警鐘鳴らす論文です。何を入れたとしても特性が良くなるので論文を公開するのに意味がないという論法です。&lt;/p&gt;
+
+&lt;p&gt;面白いのは原料として鳥のフンを使っている点、ちゃんと特性が改善するそうです。ツバを吐きかけても改善するだろうと言っており、どこまでも尖っています。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;面白い論文を見つけました。&lt;br /&gt;&lt;br /&gt;グラフェン電極を鳥のフンでコートすると優れた活性が得られるという論文。&lt;br /&gt;&lt;br /&gt;グラフェンに元素を添加すると特性が上がる論文が量産されていることに対する批判を込めた研究だそうです。&lt;br /&gt;&lt;br /&gt;唾を吐きかけても改善するだろうと書いてあり笑えます。&lt;a href=&quot;https://t.co/lff7NUgaPr&quot;&gt;https://t.co/lff7NUgaPr&lt;/a&gt;&lt;/p&gt;&amp;mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) &lt;a href=&quot;https://twitter.com/yoko_materialDX/status/1510210435642900480?ref_src=twsrc%5Etfw&quot;&gt;April 2, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,tweet,mi" /><category term="documentation" /><category term="technology" /><category term="tweet" /><category term="mi" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/annie-spratt-5cFwQ-WMcJU-unsplash.jpg" /><media:content medium="image" url="/annie-spratt-5cFwQ-WMcJU-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">2022年のバズったツイートTOP3</title><link href="/top-tweet-2022" rel="alternate" type="text/html" title="2022年のバズったツイートTOP3" /><published>2022-12-26T00:00:00+09:00</published><updated>2022-12-26T00:00:00+09:00</updated><id>/top-tweet-2022</id><content type="html" xml:base="/top-tweet-2022">&lt;p&gt;&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;毎日のつぶやきの中で注目度が高かったツイートをまとめました。2022年でインプレッション数が多かったtop3のツイートを紹介します。&lt;/p&gt;
+
+&lt;h3 id=&quot;第3位&quot;&gt;第3位&lt;/h3&gt;
+
+&lt;p&gt;第3位は「マテリアルズインフォマティクスの部署へ配属のため学生のうちに何をしたらよいか？」に関するツイートです。配属ガチャもあるので絶対的な解はないですが、学生の皆さんが気になる点かと思います。「博士課程を取って新卒で入社」「ポスドク・助教から中途で入社」「MIベンチャーから大企業に中途で入社」など色々な方がアドバイスくださり勉強になりました。&lt;/p&gt;
+
+&lt;p&gt;ただ年々MIをやりたい学生さんは増えている印象ですので、他の人にはなオリジナリティが個人的には大切と思います。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;学生さんから「&lt;a href=&quot;https://twitter.com/hashtag/%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BA%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#マテリアルズインフォマティクス&lt;/a&gt; の部署へ配属のため何をしたらよいか？」と質問されました。&lt;br /&gt;&lt;br /&gt;材料工学と情報工学、両方の勘所を研究の中で把握することが大切と個人的に思います。&lt;br /&gt;&lt;br /&gt;なので、学士は材料デバイス系、修士はがっつり情報系の研究室で勉強するとかありかなと思いました。&lt;/p&gt;&amp;mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) &lt;a href=&quot;https://twitter.com/yoko_materialDX/status/1502992884827516929?ref_src=twsrc%5Etfw&quot;&gt;March 13, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;第2位&quot;&gt;第2位&lt;/h3&gt;
+
+&lt;p&gt;第2位は「最新論文を追いかけるためのpythonコード」に関するツイートです。いろんな人に論文の解説して欲しいので、僕の情報収集の秘伝コードを公開しました。このAPIはとても便利なのに（特にchemRxivは）調べてもあまり出てこなくて驚きました。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;情報収集に便利なツール。&lt;br /&gt;&lt;br /&gt;最新論文を追いかけるのに、プレプリントのAPIとDeepLのAPIを組み合わせると便利です。情報収集の効率がグッと上がりました。&lt;br /&gt;&lt;br /&gt;arXivとChemRxivからの情報収集と、DeepLによる翻訳は、こんな感じで実行できます。&lt;br /&gt;&lt;br /&gt;簡単なのでpythonのお勉強のきっかけにもオススメ？ &lt;a href=&quot;https://t.co/A0EVamzWTr&quot;&gt;pic.twitter.com/A0EVamzWTr&lt;/a&gt;&lt;/p&gt;&amp;mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) &lt;a href=&quot;https://twitter.com/yoko_materialDX/status/1558770410845618181?ref_src=twsrc%5Etfw&quot;&gt;August 14, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;ちなみに僕は上記で集めた論文をTeamsのbotで共有し、毎日論文を追いかけています。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;Teamsのbotをpythonで作ってみたらとても便利でした。&lt;br /&gt;&lt;br /&gt;最新のarXiv論文をpythonで取得&lt;br /&gt;↓&lt;br /&gt;DeepLのpython apiでタイトルと概要を和訳&lt;br /&gt;↓&lt;br /&gt;pythonでTeamsへ通知&lt;br /&gt;&lt;br /&gt;気になる論文を社内Teams上にてみんなで議論できるのがオススメ。&lt;br /&gt;&lt;br /&gt;やり方は以下、Slackでもできるそうです。&lt;a href=&quot;https://t.co/DqcKmBN5xK&quot;&gt;https://t.co/DqcKmBN5xK&lt;/a&gt;&lt;/p&gt;&amp;mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) &lt;a href=&quot;https://twitter.com/yoko_materialDX/status/1571453987634790404?ref_src=twsrc%5Etfw&quot;&gt;September 18, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;第1位&quot;&gt;第1位&lt;/h3&gt;
+
+&lt;p&gt;第1位は「分子を音に変換する論文」に関するツイートです。詳しくは&lt;a href=&quot;https://ai-scholar.tech/articles/treatise/Molecular_Sonification&quot;&gt;こちらの記事&lt;/a&gt;がわかりやすいと思います。機械学習の入力としてだけでなく、化学と音楽をつなぐ面白い研究だと思います。続報に期待です。&lt;/p&gt;
+
+&lt;p&gt;ただ、こうした変換はメロディになりやすいルールがまず設定され、それに従って変換されるため、「音にしたらこんなに聞きやすいんだ！」という間違った理解・表現がされやすいとの専門家のご意見をいただき、なるほどと思いました。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;分子を「音」に変換する論文。&lt;a href=&quot;https://twitter.com/hashtag/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#機械学習&lt;/a&gt; の入力として、分子構造を記述する方法は化学式だけでなくグラフや文字列など様々です。&lt;br /&gt;&lt;br /&gt;今回分子を音符として表現する方法が提案され、音に基づく分子設計が可能になったそうです。&lt;a href=&quot;https://twitter.com/hashtag/%E5%8C%96%E5%AD%A6?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#化学&lt;/a&gt; と &lt;a href=&quot;https://twitter.com/hashtag/%E9%9F%B3%E6%A5%BD?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#音楽&lt;/a&gt; の融合、発想に脱帽です。&lt;a href=&quot;https://t.co/9Wg2HerFh6&quot;&gt;https://t.co/9Wg2HerFh6&lt;/a&gt; &lt;a href=&quot;https://t.co/l9mm5ypGBR&quot;&gt;pic.twitter.com/l9mm5ypGBR&lt;/a&gt;&lt;/p&gt;&amp;mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) &lt;a href=&quot;https://twitter.com/yoko_materialDX/status/1507673724316577795?ref_src=twsrc%5Etfw&quot;&gt;March 26, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;以上です。バズりたい方は参考にしてみてください。&lt;/p&gt;
+
+&lt;h3 id=&quot;番外編その1&quot;&gt;番外編その1&lt;/h3&gt;
+
+&lt;p&gt;論文紹介ツイートで意識していることです。感想はとても大切です。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;半年くらい論文紹介を続けてきて、意識していることを整理しました。&lt;br /&gt;&lt;br /&gt;基本は以下の4要素で構成していますが、この中で一番大切なのは「感想」です。&lt;br /&gt;&lt;br /&gt;自分だからこその視点、発信のオリジナリティがあると、受け手の興味を惹きやすいです。&lt;br /&gt;&lt;br /&gt;呟きも研究発表も同じだなぁと感じました。 &lt;a href=&quot;https://t.co/SG18kETXLJ&quot;&gt;pic.twitter.com/SG18kETXLJ&lt;/a&gt;&lt;/p&gt;&amp;mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) &lt;a href=&quot;https://twitter.com/yoko_materialDX/status/1555871312471625731?ref_src=twsrc%5Etfw&quot;&gt;August 6, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;番外編その2&quot;&gt;番外編その2&lt;/h3&gt;
+
+&lt;p&gt;近未来の研究スタイルです。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;VRで原子モデルを可視化する論文。&lt;br /&gt;&lt;br /&gt;原子を思い通りに配置したり、動きを可視化するのに2次元画面上の操作に満足しない人は多いはず。&lt;br /&gt;&lt;br /&gt;金属有機多孔体MOFをVRで3次元にモデリングできるコードが開発されたそうです。&lt;br /&gt;&lt;br /&gt;近未来の研究者の姿がここに。&lt;a href=&quot;https://t.co/HbsJEzUEuy&quot;&gt;https://t.co/HbsJEzUEuy&lt;/a&gt;&lt;a href=&quot;https://t.co/ZETFodJlgq&quot;&gt;pic.twitter.com/ZETFodJlgq&lt;/a&gt;&lt;/p&gt;&amp;mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) &lt;a href=&quot;https://twitter.com/yoko_materialDX/status/1527605058652839942?ref_src=twsrc%5Etfw&quot;&gt;May 20, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;もしかしたらすごく役に立つかも知らないツール。&lt;br /&gt;&lt;br /&gt;JACSの論文を学習し、画像からタイトルを生成したり、タイトルから仮想のアブストラクトを生成したりするモデルを以下から試せます。&lt;a href=&quot;https://t.co/LGRWKRk8tL&quot;&gt;https://t.co/LGRWKRk8tL&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;仮想のアブストラクトから次の論文ネタを考える、これぞ未来の研究者？&lt;/p&gt;&amp;mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) &lt;a href=&quot;https://twitter.com/yoko_materialDX/status/1566018166085431296?ref_src=twsrc%5Etfw&quot;&gt;September 3, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;番外編その2-1&quot;&gt;番外編その2&lt;/h3&gt;
+
+&lt;p&gt;遊び心のあるデザインツールです。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;化学×デザインのツールmolcloud。&lt;br /&gt;&lt;br /&gt;分子で絵を描くという面白そうなコードで、試しに「分子ネコ」を描いてみました。&lt;br /&gt;&lt;br /&gt;シルエット画像とSMILES形式の分子を入力すると自動生成してくれます。&lt;br /&gt;&lt;br /&gt;お気に入りの分子をイラスト化して発表資料の表紙にしてみてはいかがでしょうか。&lt;a href=&quot;https://t.co/u8ZJBald2q&quot;&gt;https://t.co/u8ZJBald2q&lt;/a&gt; &lt;a href=&quot;https://t.co/6Ve6DeFJr7&quot;&gt;pic.twitter.com/6Ve6DeFJr7&lt;/a&gt;&lt;/p&gt;&amp;mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) &lt;a href=&quot;https://twitter.com/yoko_materialDX/status/1556233697682067456?ref_src=twsrc%5Etfw&quot;&gt;August 7, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,tweet" /><category term="documentation" /><category term="technology" /><category term="tweet" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/alexander-shatov-SXfwXS0jWNg-unsplash.jpg" /><media:content medium="image" url="/alexander-shatov-SXfwXS0jWNg-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">企業研究者にとって大事だと思うこと ⅠⅠ</title><link href="/researcher-life-5" rel="alternate" type="text/html" title="企業研究者にとって大事だと思うこと ⅠⅠ" /><published>2022-04-23T00:00:00+09:00</published><updated>2022-04-23T00:00:00+09:00</updated><id>/researcher-life-5</id><content type="html" xml:base="/researcher-life-5">&lt;p&gt;&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;前回に引き続き、私が民間企業の研究者として大事だと思うことについて書きたいと思います。&lt;/p&gt;
 
@@ -13,48 +155,49 @@
 &lt;p&gt;AIによって医者の代わりに医療画像から病気を診断することができるのであれば、素材を発見してきた優れた研究者をAIでも再現できるのではないか？といったように、「AI」×「素材」という異分野が重なり合ったのがMIです。
 実際、AIの技術が先行する画像処理や自然言語処理の分野で提案された手法が、２〜３年後にMIの分野に波及し、今までできなかったことがどんどんできるようになってきています。&lt;/p&gt;
 
-&lt;p&gt;このように異分野融合とイノベーションについては、ノーベル賞を受賞された田中耕一さんも&lt;a href=&quot;https://project.nikkeibp.co.jp/atclmono/vision/060500031/&quot;&gt;こちら&lt;/a&gt;で述べられており、異分野融合は天才でなくともイノベーションを起こすことができる方法であると私も思います。
+&lt;p&gt;このように異分野融合とイノベーションについては、ノーベル賞を受賞された田中耕一さんも&lt;a href=&quot;https://project.nikkeibp.co.jp/atclmono/vision/060500031/&quot;&gt;こちら&lt;/a&gt;で述べられており、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;異分野融合は天才でなくともイノベーションを起こすことができる方法&lt;/font&gt;&lt;/strong&gt;であると私も思います。
 特に、さまざまなテクノロジー分野にまたがり、さまざまな分野の研究者が連携して研究開発を行う民間企業という場こそ、異分野融合による新しいイノベーション誕生の可能性が高いと感じています。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../assets/img/vardan-papikyan-DnXqvmS0eXM-unsplash.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;私にとっての異分野融合&quot;&gt;私にとっての異分野融合&lt;/h3&gt;
 
-&lt;p&gt;私自身も、弊社でさまざまな素材を扱った経験から、新しいMI手法を構築することができました。&lt;/p&gt;
+&lt;p&gt;私自身も、パナソニックでさまざまな素材を扱った経験から、新しいMI手法を構築することができました。&lt;/p&gt;
 
-&lt;p&gt;入社して３年目に、それまで取り組んできた蓄電池のプロジェクトから、太陽電池のプロジェクトへ移動になりました。
+&lt;p&gt;入社して３年目に、それまで取り組んできたバッテリー開発のプロジェクトから、太陽電池開発のプロジェクトへ移動になりました。
 ここで取り組んでいた次世代太陽電池は、有機－無機ハイブリッド材料という特殊な材料を使ったものでした。
-この材料は、従来の材料と異なり計算による特性予測が困難でおり、これまでのMI技術をそのまま適用することができませんでした。&lt;/p&gt;
+この材料は、これまでのMI技術をそのまま適用することができず、計算による特性予測が困難でした。&lt;/p&gt;
 
-&lt;p&gt;そこで私は、これまで取り組んできた蓄電池のシミュレーション技術を、ハイブリッド材料に適用できないかと考えました。
+&lt;p&gt;そこで私は、これまで取り組んできたバッテリーのシミュレーション技術を、ハイブリッド材料に適用できないかと考えました。
 そのアイデアは想像以上にうまくいき、これまでできなかった予測手法を創出することに成功しました。
 詳細は&lt;a href=&quot;../assets/pdf/p0115-2.pdf&quot;&gt;こちら&lt;/a&gt;をご参考ください。
-&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「蓄電池」×「太陽電池」&lt;/font&gt;&lt;/strong&gt;という異分野融合が、これまでにないMI手法の構築に繋がりました。&lt;/p&gt;
+&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「バッテリー」×「太陽電池」&lt;/font&gt;&lt;/strong&gt;という異分野融合が、これまでにないMI手法の構築に繋がりました。&lt;/p&gt;
 
 &lt;h3 id=&quot;新しい異分野融合はどのようにして起こるのか&quot;&gt;新しい異分野融合はどのようにして起こるのか？&lt;/h3&gt;
 
-&lt;p&gt;蓄電池開発を経験した材料計算科学者が、次世代太陽電池開発に携わる、そんな研究者は世界中身回しても数人しかいないのではないかと思います。そうした自分しかできなかった&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;偶然の経験&lt;/font&gt;&lt;/strong&gt;こそが、異分野融合の種になると感じています。&lt;/p&gt;
+&lt;p&gt;バッテリー開発を経験した材料計算科学者が、次世代太陽電池開発に携わる、そんな研究者は世界中を見回しても数人しかいないのではないかと思います。そうした自分しかできなかった&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;偶然の経験&lt;/font&gt;&lt;/strong&gt;こそが、異分野融合の種になると感じています。&lt;/p&gt;
 
 &lt;p&gt;私の好きな考え方の一つに、&lt;a href=&quot;https://www.rgf-professional.jp/insights/2020-06-what-is-planned-happenstance-theory-how-to-create-a-career-contingency-career-plan&quot;&gt;&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;計画的偶発性理論&lt;/font&gt;&lt;/strong&gt;&lt;/a&gt;があります。
-これは心理学者のジョン・D・クランボルツ教授によって1999年に発表されたキャリア理論で、個人のキャリア形成の8割が予期しない出来事や偶然の出会いによって決定されると考えます。クランボルツ教授らが社会的成功を収めた数百人のビジネスパーソンについて同教授がそのキャリアを分析したところ、約8割の人が「自分の現在のキャリアは予期せぬ偶然によるものだ」と答えたそうです。&lt;/p&gt;
+これは心理学者のジョン・D・クランボルツ教授によって1999年に発表されたキャリア理論で、個人のキャリア形成の8割が予期しない出来事や偶然の出会いによって決定されると考えます。クランボルツ教授らが社会的成功を収めた数百人のビジネスパーソンについてそのキャリアを分析したところ、約8割の人が計画されたものではなく「自分の現在のキャリアは予期せぬ偶然によるものだ」と答えたそうです。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/img/pexels-anna-shvets-6664249.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/img/vd-photography-pCvyg4e_Kn4-unsplash.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;前回のオリジナリティの話にも関わってきますが、私はこの&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「偶然」&lt;/font&gt;&lt;/strong&gt;の中にこそ自分にしかできない異分野融合があると思います。
-私が蓄電池の開発プロジェクトから太陽電池の開発プロジェクトに異動になったことも偶然であり、その偶然がなければ「蓄電池」と「太陽電池」を組み合わせてみようとは発想できませんでした。&lt;/p&gt;
+私がバッテリーの開発プロジェクトから太陽電池の開発プロジェクトに異動になったことも「偶然」であり、その偶然がなければ「バッテリー」と「太陽電池」を組み合わせてみようとは発想できませんでした。&lt;/p&gt;
 
 &lt;p&gt;自分のキャリアにこうした「偶然」が訪れた時に、最初は「自分の専門分野とはちょっと違うな」と感じることもあるかもしれません。
-そうした時も、計画的偶発性理論のようにチャンスと捉えてる姿勢が大切かなと思います。
+そうした時も、計画的偶発性理論のようにチャンスと捉える姿勢が大切かなと思います。
 自分のこれまでの経験と融合できることは何かを考え、その&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;異分野に一歩ずつ足を踏み出していく&lt;/font&gt;&lt;/strong&gt;ことにより、自分にしかできない異分野融合ができるのではないでしょうか。&lt;/p&gt;
 
 &lt;p&gt;自分の専門領域を広げながら、自分にしかできない異分野融合を見つけて、イノベーションを起こせる確率をあげたいと思います。&lt;/p&gt;
 
-&lt;p&gt;次回は、企業研究者として大切と思う三つのことのうち最も大切と私が感じている「物事の「本質」を理解する」について書きたいと思います。&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,mindset" /><category term="documentation" /><category term="technology" /><category term="mindset" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pexels-jadson-thomas-542556.jpg" /><media:content medium="image" url="/pexels-jadson-thomas-542556.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">企業研究者にとって大事だと思うこと Ⅰ</title><link href="/researcher-life-4" rel="alternate" type="text/html" title="企業研究者にとって大事だと思うこと Ⅰ" /><published>2022-03-27T00:00:00+09:00</published><updated>2022-03-27T00:00:00+09:00</updated><id>/researcher-life-4</id><content type="html" xml:base="/researcher-life-4">&lt;p&gt;パナソニックの研究所で研究者として働く私が、これまでの経験から大事だと思うことが３つあります。今回はそのことについて書きたいと思います。&lt;/p&gt;
+&lt;p&gt;次回は、企業研究者として大切と思う三つのことのうち最も大切と私が感じている「物事の「本質」を理解する」について書きたいと思います。&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,mindset" /><category term="documentation" /><category term="technology" /><category term="mindset" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pexels-jadson-thomas-542556.jpg" /><media:content medium="image" url="/pexels-jadson-thomas-542556.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">企業研究者にとって大事だと思うこと Ⅰ</title><link href="/researcher-life-4" rel="alternate" type="text/html" title="企業研究者にとって大事だと思うこと Ⅰ" /><published>2022-03-27T00:00:00+09:00</published><updated>2022-03-27T00:00:00+09:00</updated><id>/researcher-life-4</id><content type="html" xml:base="/researcher-life-4">&lt;p&gt;パナソニックの研究所で計算材料科学者として働く私が、これまでの経験から重要だと思うことが３つあります。今回はそのことについて３回に分けて書きたいと思います。&lt;/p&gt;
 
 &lt;h3 id=&quot;企業研究者にとって大事なことはその１&quot;&gt;企業研究者にとって大事なことは？その１&lt;/h3&gt;
 
 &lt;p&gt;企業の研究開発において私が大事だと思うことの一つ目は、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「オリジナリティ」&lt;/font&gt;&lt;/strong&gt;、つまり代替不可能な&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;唯一無二の研究者&lt;/font&gt;&lt;/strong&gt;でいることです。
 このように考えるようになったのは、&lt;a href=&quot;https://yokoyamatomoyasu.github.io/researcher-life-2&quot;&gt;こちら&lt;/a&gt;の記事にも書いた通り入社して感じた危機感がきっかけでした。
+アカデミアの研究者にとってはもちろん大切なことでしたが、最近は企業研究者にとっても重要性が増していると思います。
 私のような企業研究者が活躍し続けるためには、技術的優位性、つまりオリジナリティを保有しなければならないと思います。&lt;/p&gt;
 
 &lt;p&gt;AIとシミュレーションを組み合わせて材料探索をDX化する、いわゆるマテリアルズ・インフォマティクス（MI）が近年注目を集めています。私もMIの技術構築について取り組んでおりますが、材料科学だけでなくデータ科学の分野からも多くの研究者がMIの研究を行なっている昨今、自分のオリジナリティを発揮するのがますます難しくなっていると感じています。&lt;/p&gt;
@@ -73,7 +216,7 @@
 
 &lt;h3 id=&quot;唯一無二の研究者になるために&quot;&gt;唯一無二の研究者になるために&lt;/h3&gt;
 
-&lt;p&gt;以上から、私は&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;自分にしか作れないデータを作る技術&lt;/font&gt;&lt;/strong&gt;こそがMIの「オリジナリティ」の源泉ではないかと考えます。例えば、私の場合には&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「構造予測」&lt;/font&gt;&lt;/strong&gt;がそれにあたると考え、取り組みを推進しています。&lt;/p&gt;
+&lt;p&gt;以上から、私は&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;自分にしか作れないデータを作る技術&lt;/font&gt;&lt;/strong&gt;こそがMIの「オリジナリティ」の源泉ではないかと考えます。例えば、私の場合には「構造予測」がそれにあたると考え、取り組みを推進しています。&lt;/p&gt;
 
 &lt;p&gt;第一原理計算では、材料を構成する原子同時がどのようにつながっているか、つまり「構造」がわからないと材料の物性を予測できません。通常は実験のデータベースなどから構造ファイルを取得して計算しますが、まだ発見されていない物質の構造ファイルは収録されていないため、そうした未知の物質を予測することはこれまで困難でした。&lt;/p&gt;
 
@@ -83,107 +226,9 @@
 
 &lt;p&gt;唯一無二の研究者になるために、AI社会の源泉であるデータを生み出す技術の構築をこれからも続けたいと思います。&lt;/p&gt;
 
-&lt;p&gt;次回は、企業研究者として大切と思うことの二つ目である「異分野の融合」について書きたいと思います。
-&lt;a href=&quot;https://yokoyamatomoyasu.github.io/researcher-life-5&quot;&gt;企業研究者にとって大事だと思うこと Ⅰ&lt;/a&gt;&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,mindset" /><category term="documentation" /><category term="technology" /><category term="mindset" /><summary type="html">パナソニックの研究所で研究者として働く私が、これまでの経験から大事だと思うことが３つあります。今回はそのことについて書きたいと思います。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pexels-fauxels-3183153.jpg" /><media:content medium="image" url="/pexels-fauxels-3183153.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">社会人博士論 Ⅱ ーなぜ博士過程に進学したかー</title><link href="/researcher-life-2" rel="alternate" type="text/html" title="社会人博士論 Ⅱ ーなぜ博士過程に進学したかー" /><published>2021-11-13T00:00:00+09:00</published><updated>2021-11-13T00:00:00+09:00</updated><id>/researcher-life-2</id><content type="html" xml:base="/researcher-life-2">&lt;p&gt;第2回は、どういう考えから私が&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;社会人博士課程&lt;/font&gt;&lt;/strong&gt;に進学するに至ったかについて
-書きたいと思います。&lt;/p&gt;
+&lt;p&gt;次回は、企業研究者として大切と思うことの二つ目である「異分野の融合」について書きたいと思います。&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;なぜ社会人になっても博士課程に進学する必要があるの&quot;&gt;なぜ社会人になっても博士課程に進学する必要があるの？&lt;/h3&gt;
-
-&lt;p&gt;私が博士課程に進学したいと考えた理由は、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;企業研究者として活躍し続ける&lt;/font&gt;&lt;/strong&gt;ためです。&lt;/p&gt;
-
-&lt;p&gt;入社してしばらく研究開発に従事しているうちに、今後の自分の研究者人生に&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;危機感&lt;/font&gt;&lt;/strong&gt;を覚えるようになりました。
-仮に社外の優秀な研究者が入社してきた場合、このままでは自分は彼らの下位互換になってしまうのではないかと考えたためです。&lt;/p&gt;
-
-&lt;p&gt;私が入社した2014年には、社内で材料シミュレーションができる人は数人しかいなかったため、
-そのスキルを保有する私は組織の中で貴重な存在として、技術的な優位性がありました。&lt;/p&gt;
-
-&lt;p&gt;しかしながら、汎用的なシミュレーションツールが増え、使い方さえ覚えれば誰でもシミュレーションができるような現代、
-その後やはり材料シミュレーションのスキルを保有する研究者たちが続々と入社してきました。
-大学で准教授や助教のお仕事をされていたような、高い技術力をもった優秀な研究者がキャリア入社してくることも少なくなく、
-学生時代に習得した私のスキルの優位性など、このままではすぐになくなってしてしまうと強く危機感を覚えました。&lt;/p&gt;
-
-&lt;p&gt;また、必要とされるスキルが変化してきていると実感したことで、さらに危機感が募りました。
-材料開発のDX、いわゆるマテリアルズ・インフォマティクスの流行に伴い、
-材料シミュレーションのスキルと台頭して機械学習のスキルも重要視されるようになりました。
-テクノロジーは常に進歩しており、必要とされるスキルも変化します。
-いつか機械学習の分野が飛躍的に発達すれば、材料シミュレーションが必要なくなり、私の保有するスキルが陳腐化するかもしれません。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/img/luca-bravo-XJXWbfSo2f0-unsplash.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;視点を変え、組織をマネジメントする立場から考えてみると、必要な技術が社内になければ、それを保有する研究者を社外から引っ張ってくれば良いだけなのです。
-ゆえに、我々企業研究者が活躍し続けるためには、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;必要とされる技術を、学術業界と同等のレベルで習得し続け&lt;/font&gt;&lt;/strong&gt;、
-さらに&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;彼らにはない別の技術的優位性を保有しなければならない&lt;/font&gt;&lt;/strong&gt;のです。&lt;/p&gt;
-
-&lt;p&gt;ここで言う「活躍」とは「自分のやりたいことで成果をあげる」ことを指しています。
-上司から言われたことにしたがって研究開発を進めることもできますが、
-自分の幸福度を上げるためには、自分のやりたい研究開発を自由にできることが一番だと思います。
-自分のやりたいことができる環境にするためには、
-&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;自分にしかできないことがある唯一無二の研究者&lt;/font&gt;&lt;/strong&gt;にならないといけないと感じました。&lt;/p&gt;
-
-&lt;p&gt;こうした危機感から、博士課程に進学することで、自分の保有するスキルをアップデートしたい、
-そして今後アップデートし続けられるようなきっかけにしたい、と思い至りました。
-博士課程において、世界にまだない技術をゼロから自分の力で構築しそれを発信するプロセスを経験することができます。
-その経験は、企業における研究開発においても必要なスキルを常にアップデートし続ける基盤になると考えました。
-そうしたことを継続できれば、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;企業研究者として活躍できる&lt;/font&gt;&lt;/strong&gt;と考えました。&lt;/p&gt;
-
-&lt;p&gt;私は修士課程の時に、博士課程に進むか民間企業に就職するか悩んだこともあり、
-就職前から博士課程に進みたいという思いはずっとありましたが、
-上記のような危機感からその思いが強くなり、進学を決めました。&lt;/p&gt;
-
-&lt;p&gt;ではどのように社会人課程に進学したか？最終回は、社会人博士課程への進学を考えている方に向けて、
-進学前に私がお勧めしたいことについて書きたいと思います。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://yokoyamatomoyasu.github.io/researcher-life-3&quot;&gt;社会人博士論 Ⅲ ー社会人博士課程進学前に何をすればいいかー&lt;/a&gt;&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,doctor" /><category term="documentation" /><category term="technology" /><summary type="html">第2回は、どういう考えから私が社会人博士課程に進学するに至ったかについて 書きたいと思います。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/vasily-koloda-8CqDvPuo_kI-unsplash.jpg" /><media:content medium="image" url="/vasily-koloda-8CqDvPuo_kI-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">社会人博士論 Ⅲ ー社会人博士課程進学前に何をすればいいかー</title><link href="/researcher-life-3" rel="alternate" type="text/html" title="社会人博士論 Ⅲ ー社会人博士課程進学前に何をすればいいかー" /><published>2021-11-13T00:00:00+09:00</published><updated>2021-11-13T00:00:00+09:00</updated><id>/researcher-life-3</id><content type="html" xml:base="/researcher-life-3">&lt;p&gt;第3回は社会人博士課程への進学を考えている方に向けて、
-進学前に私がお勧めしたいことについて書きたいと思います。&lt;/p&gt;
-
-&lt;h3 id=&quot;社会人博士課程進学前に何をすればいいの&quot;&gt;社会人博士課程進学前に何をすればいいの？&lt;/h3&gt;
-
-&lt;p&gt;これは人それぞれだと思いますが、私が個人的にお勧めするのは進学したい大学と所属企業の間で&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;共同研究を行う&lt;/font&gt;&lt;/strong&gt;ことです。&lt;/p&gt;
-
-&lt;p&gt;社会人博士課程の進学の際に、一番の悩みは業務と両立できるのか、
-平日の仕事・残業以外の時間で卒業できるほどの研究成果を出せるのか、という点だと思います。&lt;/p&gt;
-
-&lt;p&gt;博士課程に進学する前にその大学と&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;共同研究&lt;/font&gt;&lt;/strong&gt;をしておくと、精神的・身体的な負担が圧倒的に少なくなります。
-進学前の共同研究によって、いわば&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;博士課程0年生&lt;/font&gt;&lt;/strong&gt;として、リスク少なく研究ができるためです。&lt;/p&gt;
-
-&lt;p&gt;私も共同研究がきっかけで、社会人博士課程に進学しました。
-私が入社する前から続いていた東京工業大学との共同研究のメンバーに私も加えていただき、
-幸運にも、参加後１年で学術発表に値する成果を得ることができました。
-その成果を学術発表することで、博士号が取得できる見込みがあると共同研究先の先生にも了解をいただき、博士課程に進学しました。&lt;/p&gt;
-
-&lt;p&gt;このように、この博士課程0年生の成果によって、アドバンテージがある状態で博士課程をスタートできます。
-私自身も、このアドバンテージがあったため、精神的にもそれほど負担はなく、
-また、進学後も共同研究の枠組みの中で自身の研究活動ができたため、身体的にも楽でした。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/img/trnava-university-_9xRHrMOjeg-unsplash.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ゆえに、社会人博士過程に進学したいと考える企業研究者の方は、
-まずは&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;共同研究ができる可能性があるか探ってみる&lt;/font&gt;&lt;/strong&gt;ことから始めると良いと思います。
-そのために、大学の先生にヒアリングを行ったり、学会発表に参加・質問したりと、
-常に目を光らせて&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;共同研究をしたい研究室を探す努力と、先生方に自分自身を知ってもらう努力&lt;/font&gt;&lt;/strong&gt;をすることが大切だと思います。&lt;/p&gt;
-
-&lt;p&gt;ただ、このアプローチはどうしても企業の所属上司の考え方に依存します。
-現状は難しくても、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;自分の意思を口に出し続けていれば&lt;/font&gt;&lt;/strong&gt;チャンスを掴める可能性は上がります。
-初めはガッツリした共同研究でなくとも、金額的にもハードルの低いアドバイザリー契約から始めるのでも良いと思います。&lt;/p&gt;
-
-&lt;p&gt;また、共同研究が成立した暁には、進学をする前に共同研究の成果という位置付けで、その研究内容で学会発表をすることをお勧めします。
-発表済みという事実を作ることで、所属上司に博士課程進学への説得がしやすくなるためです。
-私の場合は、共同研究の成果として学会発表した結果、幸運にも講演奨励賞をいただくことができ、
-社会人博士課程進学について上司を説得しやすくなりました。&lt;/p&gt;
-
-&lt;h3 id=&quot;まとめ&quot;&gt;まとめ&lt;/h3&gt;
-
-&lt;p&gt;以上3回に分けて、社会人博士課程について私が考えてきたことについて書きました。
-まとめると、&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;企業研究者として活躍し続ける（自分のやりたいことで成果をあげる）ために、博士課程に進学したいと思った。&lt;/li&gt;
-  &lt;li&gt;社会人博士課程では、研究分野の選択肢を増やしてから、自分の極めたいテーマを選択できる。&lt;/li&gt;
-  &lt;li&gt;社会人博士課程に進学する前に、進学したい大学と共同研究を行うことで、博士0年生として研究ができるので負担が少なく卒業できる。&lt;/li&gt;
-  &lt;li&gt;共同研究を行う下準備（ヒアリング・学会参加、思いを口に出す）を継続してチャンスを伺う。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;です。博士課程への進学を考える皆さんのご参考になれば幸いです。&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,doctor" /><category term="documentation" /><category term="technology" /><summary type="html">第3回は社会人博士課程への進学を考えている方に向けて、 進学前に私がお勧めしたいことについて書きたいと思います。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg" /><media:content medium="image" url="/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">社会人博士論 Ⅰ ー博士課程と”社会人”博士課程は何が違うかー</title><link href="/researcher-life-1" rel="alternate" type="text/html" title="社会人博士論 Ⅰ ー博士課程と”社会人”博士課程は何が違うかー" /><published>2021-11-13T00:00:00+09:00</published><updated>2021-11-13T00:00:00+09:00</updated><id>/researcher-life-1</id><content type="html" xml:base="/researcher-life-1">&lt;p&gt;私はパナソニックで働きながら2019年に博士課程に進学しました。
+&lt;p&gt;&lt;a href=&quot;https://yokoyamatomoyasu.github.io/researcher-life-5&quot;&gt;企業研究者にとって大事だと思うこと ⅠⅠ&lt;/a&gt;&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,mindset" /><category term="documentation" /><category term="technology" /><category term="mindset" /><summary type="html">パナソニックの研究所で計算材料科学者として働く私が、これまでの経験から重要だと思うことが３つあります。今回はそのことについて３回に分けて書きたいと思います。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pexels-fauxels-3183153.jpg" /><media:content medium="image" url="/pexels-fauxels-3183153.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">社会人博士論 Ⅰ ー博士課程と”社会人”博士課程は何が違うかー</title><link href="/researcher-life-1" rel="alternate" type="text/html" title="社会人博士論 Ⅰ ー博士課程と”社会人”博士課程は何が違うかー" /><published>2021-11-13T00:00:00+09:00</published><updated>2021-11-13T00:00:00+09:00</updated><id>/researcher-life-1</id><content type="html" xml:base="/researcher-life-1">&lt;p&gt;私はパナソニックで働きながら2019年に博士課程に進学しました。
 今回は&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;社会人博士課程&lt;/font&gt;&lt;/strong&gt;について
 私が考えてきたことを3回に分けて書きたいと思います。
 第1回は、博士課程に進学するか、民間企業に就職するか悩んでいる方に対し、
@@ -261,7 +306,106 @@
 &lt;p&gt;ここまで、一般的な博士課程と社会人博士課程の違いについて社会人博士課程の私が思うことをお話しました。
 次回は、私はなぜ博士課程に進学したか？何がモチベーションだったのか？について書きたいと思います。&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://yokoyamatomoyasu.github.io/researcher-life-2&quot;&gt;社会人博士論 Ⅱ ーなぜ博士過程に進学したかー&lt;/a&gt;&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,doctor" /><category term="documentation" /><category term="technology" /><summary type="html">私はパナソニックで働きながら2019年に博士課程に進学しました。 今回は社会人博士課程について 私が考えてきたことを3回に分けて書きたいと思います。 第1回は、博士課程に進学するか、民間企業に就職するか悩んでいる方に対し、 私が思う社会人博士課程のメリットについてお話したいと思います。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/thisisengineering-raeng-mF6gB6hV5OU-unsplash.jpg" /><media:content medium="image" url="/thisisengineering-raeng-mF6gB6hV5OU-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">[技術解説]ペロブスカイト太陽電池とは？</title><link href="/tech-trend-1" rel="alternate" type="text/html" title="[技術解説]ペロブスカイト太陽電池とは？" /><published>2021-10-12T00:00:00+09:00</published><updated>2021-10-12T00:00:00+09:00</updated><id>/tech-trend-1</id><content type="html" xml:base="/tech-trend-1">&lt;p&gt;次世代の太陽電池として注目されている&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「ペロブスカイト太陽電池」&lt;/font&gt;&lt;/strong&gt;について、開発に携わる者として解説したいと思います。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://yokoyamatomoyasu.github.io/researcher-life-2&quot;&gt;社会人博士論 Ⅱ ーなぜ博士過程に進学したかー&lt;/a&gt;&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,doctor" /><category term="documentation" /><category term="technology" /><summary type="html">私はパナソニックで働きながら2019年に博士課程に進学しました。 今回は社会人博士課程について 私が考えてきたことを3回に分けて書きたいと思います。 第1回は、博士課程に進学するか、民間企業に就職するか悩んでいる方に対し、 私が思う社会人博士課程のメリットについてお話したいと思います。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/thisisengineering-raeng-mF6gB6hV5OU-unsplash.jpg" /><media:content medium="image" url="/thisisengineering-raeng-mF6gB6hV5OU-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">社会人博士論 Ⅲ ー社会人博士課程進学前に何をすればいいかー</title><link href="/researcher-life-3" rel="alternate" type="text/html" title="社会人博士論 Ⅲ ー社会人博士課程進学前に何をすればいいかー" /><published>2021-11-13T00:00:00+09:00</published><updated>2021-11-13T00:00:00+09:00</updated><id>/researcher-life-3</id><content type="html" xml:base="/researcher-life-3">&lt;p&gt;第3回は社会人博士課程への進学を考えている方に向けて、
+進学前に私がお勧めしたいことについて書きたいと思います。&lt;/p&gt;
+
+&lt;h3 id=&quot;社会人博士課程進学前に何をすればいいの&quot;&gt;社会人博士課程進学前に何をすればいいの？&lt;/h3&gt;
+
+&lt;p&gt;これは人それぞれだと思いますが、私が個人的にお勧めするのは進学したい大学と所属企業の間で&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;共同研究を行う&lt;/font&gt;&lt;/strong&gt;ことです。&lt;/p&gt;
+
+&lt;p&gt;社会人博士課程の進学の際に、一番の悩みは業務と両立できるのか、
+平日の仕事・残業以外の時間で卒業できるほどの研究成果を出せるのか、という点だと思います。&lt;/p&gt;
+
+&lt;p&gt;博士課程に進学する前にその大学と&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;共同研究&lt;/font&gt;&lt;/strong&gt;をしておくと、精神的・身体的な負担が圧倒的に少なくなります。
+進学前の共同研究によって、いわば&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;博士課程0年生&lt;/font&gt;&lt;/strong&gt;として、リスク少なく研究ができるためです。&lt;/p&gt;
+
+&lt;p&gt;私も共同研究がきっかけで、社会人博士課程に進学しました。
+私が入社する前から続いていた東京工業大学との共同研究のメンバーに私も加えていただき、
+幸運にも、参加後１年で学術発表に値する成果を得ることができました。
+その成果を学術発表することで、博士号が取得できる見込みがあると共同研究先の先生にも了解をいただき、博士課程に進学しました。&lt;/p&gt;
+
+&lt;p&gt;このように、この博士課程0年生の成果によって、アドバンテージがある状態で博士課程をスタートできます。
+私自身も、このアドバンテージがあったため、精神的にもそれほど負担はなく、
+また、進学後も共同研究の枠組みの中で自身の研究活動ができたため、身体的にも楽でした。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/trnava-university-_9xRHrMOjeg-unsplash.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ゆえに、社会人博士過程に進学したいと考える企業研究者の方は、
+まずは&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;共同研究ができる可能性があるか探ってみる&lt;/font&gt;&lt;/strong&gt;ことから始めると良いと思います。
+そのために、大学の先生にヒアリングを行ったり、学会発表に参加・質問したりと、
+常に目を光らせて&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;共同研究をしたい研究室を探す努力と、先生方に自分自身を知ってもらう努力&lt;/font&gt;&lt;/strong&gt;をすることが大切だと思います。&lt;/p&gt;
+
+&lt;p&gt;ただ、このアプローチはどうしても企業の所属上司の考え方に依存します。
+現状は難しくても、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;自分の意思を口に出し続けていれば&lt;/font&gt;&lt;/strong&gt;チャンスを掴める可能性は上がります。
+初めはガッツリした共同研究でなくとも、金額的にもハードルの低いアドバイザリー契約から始めるのでも良いと思います。&lt;/p&gt;
+
+&lt;p&gt;また、共同研究が成立した暁には、進学をする前に共同研究の成果という位置付けで、その研究内容で学会発表をすることをお勧めします。
+発表済みという事実を作ることで、所属上司に博士課程進学への説得がしやすくなるためです。
+私の場合は、共同研究の成果として学会発表した結果、幸運にも講演奨励賞をいただくことができ、
+社会人博士課程進学について上司を説得しやすくなりました。&lt;/p&gt;
+
+&lt;h3 id=&quot;まとめ&quot;&gt;まとめ&lt;/h3&gt;
+
+&lt;p&gt;以上3回に分けて、社会人博士課程について私が考えてきたことについて書きました。
+まとめると、&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;企業研究者として活躍し続ける（自分のやりたいことで成果をあげる）ために、博士課程に進学したいと思った。&lt;/li&gt;
+  &lt;li&gt;社会人博士課程では、研究分野の選択肢を増やしてから、自分の極めたいテーマを選択できる。&lt;/li&gt;
+  &lt;li&gt;社会人博士課程に進学する前に、進学したい大学と共同研究を行うことで、博士0年生として研究ができるので負担が少なく卒業できる。&lt;/li&gt;
+  &lt;li&gt;共同研究を行う下準備（ヒアリング・学会参加、思いを口に出す）を継続してチャンスを伺う。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;です。博士課程への進学を考える皆さんのご参考になれば幸いです。&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,doctor" /><category term="documentation" /><category term="technology" /><summary type="html">第3回は社会人博士課程への進学を考えている方に向けて、 進学前に私がお勧めしたいことについて書きたいと思います。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg" /><media:content medium="image" url="/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">社会人博士論 Ⅱ ーなぜ博士過程に進学したかー</title><link href="/researcher-life-2" rel="alternate" type="text/html" title="社会人博士論 Ⅱ ーなぜ博士過程に進学したかー" /><published>2021-11-13T00:00:00+09:00</published><updated>2021-11-13T00:00:00+09:00</updated><id>/researcher-life-2</id><content type="html" xml:base="/researcher-life-2">&lt;p&gt;第2回は、どういう考えから私が&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;社会人博士課程&lt;/font&gt;&lt;/strong&gt;に進学するに至ったかについて
+書きたいと思います。&lt;/p&gt;
+
+&lt;h3 id=&quot;なぜ社会人になっても博士課程に進学する必要があるの&quot;&gt;なぜ社会人になっても博士課程に進学する必要があるの？&lt;/h3&gt;
+
+&lt;p&gt;私が博士課程に進学したいと考えた理由は、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;企業研究者として活躍し続ける&lt;/font&gt;&lt;/strong&gt;ためです。&lt;/p&gt;
+
+&lt;p&gt;入社してしばらく研究開発に従事しているうちに、今後の自分の研究者人生に&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;危機感&lt;/font&gt;&lt;/strong&gt;を覚えるようになりました。
+仮に社外の優秀な研究者が入社してきた場合、このままでは自分は彼らの下位互換になってしまうのではないかと考えたためです。&lt;/p&gt;
+
+&lt;p&gt;私が入社した2014年には、社内で材料シミュレーションができる人は数人しかいなかったため、
+そのスキルを保有する私は組織の中で貴重な存在として、技術的な優位性がありました。&lt;/p&gt;
+
+&lt;p&gt;しかしながら、汎用的なシミュレーションツールが増え、使い方さえ覚えれば誰でもシミュレーションができるような現代、
+その後やはり材料シミュレーションのスキルを保有する研究者たちが続々と入社してきました。
+大学で准教授や助教のお仕事をされていたような、高い技術力をもった優秀な研究者がキャリア入社してくることも少なくなく、
+学生時代に習得した私のスキルの優位性など、このままではすぐになくなってしてしまうと強く危機感を覚えました。&lt;/p&gt;
+
+&lt;p&gt;また、必要とされるスキルが変化してきていると実感したことで、さらに危機感が募りました。
+材料開発のDX、いわゆるマテリアルズ・インフォマティクスの流行に伴い、
+材料シミュレーションのスキルと台頭して機械学習のスキルも重要視されるようになりました。
+テクノロジーは常に進歩しており、必要とされるスキルも変化します。
+いつか機械学習の分野が飛躍的に発達すれば、材料シミュレーションが必要なくなり、私の保有するスキルが陳腐化するかもしれません。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/luca-bravo-XJXWbfSo2f0-unsplash.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;視点を変え、組織をマネジメントする立場から考えてみると、必要な技術が社内になければ、それを保有する研究者を社外から引っ張ってくれば良いだけなのです。
+ゆえに、我々企業研究者が活躍し続けるためには、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;必要とされる技術を、学術業界と同等のレベルで習得し続け&lt;/font&gt;&lt;/strong&gt;、
+さらに&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;彼らにはない別の技術的優位性を保有しなければならない&lt;/font&gt;&lt;/strong&gt;のです。&lt;/p&gt;
+
+&lt;p&gt;ここで言う「活躍」とは「自分のやりたいことで成果をあげる」ことを指しています。
+上司から言われたことにしたがって研究開発を進めることもできますが、
+自分の幸福度を上げるためには、自分のやりたい研究開発を自由にできることが一番だと思います。
+自分のやりたいことができる環境にするためには、
+&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;自分にしかできないことがある唯一無二の研究者&lt;/font&gt;&lt;/strong&gt;にならないといけないと感じました。&lt;/p&gt;
+
+&lt;p&gt;こうした危機感から、博士課程に進学することで、自分の保有するスキルをアップデートしたい、
+そして今後アップデートし続けられるようなきっかけにしたい、と思い至りました。
+博士課程において、世界にまだない技術をゼロから自分の力で構築しそれを発信するプロセスを経験することができます。
+その経験は、企業における研究開発においても必要なスキルを常にアップデートし続ける基盤になると考えました。
+そうしたことを継続できれば、&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;企業研究者として活躍できる&lt;/font&gt;&lt;/strong&gt;と考えました。&lt;/p&gt;
+
+&lt;p&gt;私は修士課程の時に、博士課程に進むか民間企業に就職するか悩んだこともあり、
+就職前から博士課程に進みたいという思いはずっとありましたが、
+上記のような危機感からその思いが強くなり、進学を決めました。&lt;/p&gt;
+
+&lt;p&gt;ではどのように社会人課程に進学したか？最終回は、社会人博士課程への進学を考えている方に向けて、
+進学前に私がお勧めしたいことについて書きたいと思います。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://yokoyamatomoyasu.github.io/researcher-life-3&quot;&gt;社会人博士論 Ⅲ ー社会人博士課程進学前に何をすればいいかー&lt;/a&gt;&lt;/p&gt;</content><author><name>Tomoyasu Yokoyama</name></author><category term="blog,doctor" /><category term="documentation" /><category term="technology" /><summary type="html">第2回は、どういう考えから私が社会人博士課程に進学するに至ったかについて 書きたいと思います。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/vasily-koloda-8CqDvPuo_kI-unsplash.jpg" /><media:content medium="image" url="/vasily-koloda-8CqDvPuo_kI-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">[技術解説]ペロブスカイト太陽電池とは？</title><link href="/tech-trend-1" rel="alternate" type="text/html" title="[技術解説]ペロブスカイト太陽電池とは？" /><published>2021-10-12T00:00:00+09:00</published><updated>2021-10-12T00:00:00+09:00</updated><id>/tech-trend-1</id><content type="html" xml:base="/tech-trend-1">&lt;p&gt;次世代の太陽電池として注目されている&lt;strong&gt;&lt;font color=&quot;Blue&quot;&gt;「ペロブスカイト太陽電池」&lt;/font&gt;&lt;/strong&gt;について、開発に携わる者として解説したいと思います。&lt;/p&gt;
 
 &lt;h3 id=&quot;なにがすごいの&quot;&gt;なにがすごいの？&lt;/h3&gt;
 
