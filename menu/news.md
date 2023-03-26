@@ -4,6 +4,12 @@ title:  News
 permalink: /news
 ---
 
+
+### 2023年3月23日
+日本化学会第103回春季年会にて招待講演を行いました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">3月23日に日本化学会の年会でお話する機会をいただきました。<br><br>化学会に参加するのは初めてなのですが、マテリアルズインフォマティクス関連の発表も多いようで楽しみです。<a href="https://t.co/f6QMmTbL3y">https://t.co/f6QMmTbL3y</a> <a href="https://t.co/sHgqvlD9Ah">pic.twitter.com/sHgqvlD9Ah</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1621825902630912001?ref_src=twsrc%5Etfw">February 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ### 2022年9月15日
 日経BPから出版の「[日経テクノロジー展望2023 世界を変える100の技術](https://t.co/4XTFPkhb9S)」に私の研究が掲載されました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今週発売された「日経テクノロジー展望2023 世界を変える100の技術」という本に、僕の研究を掲載いただきました。ちょうど100番目に載ってます。<a href="https://t.co/4XTFPkhb9S">https://t.co/4XTFPkhb9S</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1571091595583102976?ref_src=twsrc%5Etfw">September 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
