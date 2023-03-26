@@ -9,6 +9,9 @@ permalink: /news
 日本化学会第103回春季年会にて招待講演を行いました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">3月23日に日本化学会の年会でお話する機会をいただきました。<br><br>化学会に参加するのは初めてなのですが、マテリアルズインフォマティクス関連の発表も多いようで楽しみです。<a href="https://t.co/f6QMmTbL3y">https://t.co/f6QMmTbL3y</a> <a href="https://t.co/sHgqvlD9Ah">pic.twitter.com/sHgqvlD9Ah</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1621825902630912001?ref_src=twsrc%5Etfw">February 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### 2023年1月26日
+LabBase主催のLabTech Talkにてセミナーを行いました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">1月26日19時より、マテリアルズインフォマティクスの最近の動向と所感についてお話させていただく機会をいただきました。<br><br>MIにおいて私が重視しているデータ生成、特に構造予測の話をする予定です。<br><br>オンラインかつ無料とのことですのでもしよろしければご参加ください。<a href="https://t.co/cCPr3roOtq">https://t.co/cCPr3roOtq</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1614940536745480193?ref_src=twsrc%5Etfw">January 16, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2022年9月15日
 日経BPから出版の「[日経テクノロジー展望2023 世界を変える100の技術](https://t.co/4XTFPkhb9S)」に私の研究が掲載されました。

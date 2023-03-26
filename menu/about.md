@@ -15,18 +15,16 @@ permalink: /about
 主任研究員　博士（工学）
 
 ### 専門  
-- 材料計算科学 / 物性物理 / 固体電子 
-- 第一原理計算 / 機械学習 / マテリアルズインフォマティクス  
+- 材料計算科学 / 固体電子論 / 第一原理計算 / 機械学習 / マテリアルズ・インフォマティクス  
 - 無機材料 / 有機－無機ハイブリッド材料  
-- 太陽電池 / 蓄電池 / 半導体  
+- 太陽電池 / 蓄電池 / 半導体  / キャパシタ 
 
 
 ### 略歴  
 - 2008-2012　京都大学 工学部 物理工学科  
 - 2012-2014　京都大学大学院 工学研究科 材料工学専攻 修士課程  
-- 2014-2022　パナソニック株式会社  
+- 2014-    　現パナソニックホールディングス株式会社  
 - 2019-2022　東京工業大学 物質理工学院 材料系 社会人博士課程 
-- 2022-　　　パナソニックホールディングス株式会社  
 
 ### 受賞歴  
 - [第30回日本MRS年次大会奨励賞](https://www.mrs-j.org/meeting2020/jp/prg/awardList.php)    
@@ -66,6 +64,8 @@ permalink: /about
 - <u>T. Yokoyama</u>, F. Oba, A. Seko, H. Hayashi, Y. Nose, I. Tanaka, Theoretical Photovoltaic Conversion Efficiencies of ZnSnP<sub>2</sub>, CdSnP<sub>2</sub>, and Zn<sub>1-X</sub>Cd<sub>x</sub>SnP<sub>2</sub> Alloys. *Appl. Phys. Express* **2013**, 6 (6). [https://doi.org/10.7567/APEX.6.061201](https://doi.org/10.7567/APEX.6.061201)  
 
 ### 招待講演  
+- <u>横山智康</u>，「有機－無機ハイブリッド材料におけるデータ駆動型探索技術の確率」 日本化学会第103回春季年会 (2023).  
+- <u>横山智康</u>，「「構造予測のためのデータ生成」が重要なワケ」 LabTech Talk vol.81 (2023).  
 - <u>横山智康</u>，「マテリアルズ・インフォマティクスによる有機－無機ハイブリッド材料の探索手法開発」 2022年度Ｐ＆Ｉ研究会第2回シンポジウム (2022).  
 - <u>横山智康</u>，「マテリアルズ・インフォマティクスによる有機－無機ハイブリッド材料の探索手法開発」 大阪大学超階層マテリアルサイエンスプログラム第8回インタラクティブ交流会 (2022).  
 - <u>横山智康</u>，大内暁，松井太佑，金子幸広，笹川崇男，「Predicting structures and properties of organic-inorganic hybrid materials by first-principles calculations」 第31回日本MRS年次大会 C-I13-001 (2021).  
