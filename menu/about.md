@@ -64,7 +64,7 @@ permalink: /about
 - <u>T. Yokoyama</u>, F. Oba, A. Seko, H. Hayashi, Y. Nose, I. Tanaka, Theoretical Photovoltaic Conversion Efficiencies of ZnSnP<sub>2</sub>, CdSnP<sub>2</sub>, and Zn<sub>1-X</sub>Cd<sub>x</sub>SnP<sub>2</sub> Alloys. *Appl. Phys. Express* **2013**, 6 (6). [https://doi.org/10.7567/APEX.6.061201](https://doi.org/10.7567/APEX.6.061201)  
 
 ### 招待講演  
-- <u>横山智康</u>，「有機－無機ハイブリッド材料におけるデータ駆動型探索技術の確率」 日本化学会第103回春季年会 (2023).  
+- <u>横山智康</u>，「有機－無機ハイブリッド材料におけるデータ駆動型探索技術の確立」 日本化学会第103回春季年会 (2023).  
 - <u>横山智康</u>，「「構造予測のためのデータ生成」が重要なワケ」 LabTech Talk vol.81 (2023).  
 - <u>横山智康</u>，「マテリアルズ・インフォマティクスによる有機－無機ハイブリッド材料の探索手法開発」 2022年度Ｐ＆Ｉ研究会第2回シンポジウム (2022).  
 - <u>横山智康</u>，「マテリアルズ・インフォマティクスによる有機－無機ハイブリッド材料の探索手法開発」 大阪大学超階層マテリアルサイエンスプログラム第8回インタラクティブ交流会 (2022).  
