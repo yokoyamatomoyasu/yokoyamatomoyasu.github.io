@@ -15,7 +15,7 @@ permalink: /about
 主任研究員　博士（工学）
 
 ### 専門  
-- 材料計算科学 / 固体電子論 / 第一原理計算 / 機械学習 / マテリアルズ・インフォマティクス  
+- 材料計算科学 / 固体電子論 / 第一原理計算 / マテリアルズ・インフォマティクス  
 - 無機材料 / 有機－無機ハイブリッド材料  
 - 太陽電池 / 蓄電池 / 半導体  / キャパシタ 
 
@@ -50,7 +50,11 @@ permalink: /about
 - 日経クロステック，「次世代太陽電池にわずか1年で革新　「10年に1人」の企業研究者」，2021年5月24日 [リンク](https://xtech.nikkei.com/atcl/nxt/column/18/01620/052000007/)
 
 
-### 論文  
+### 論文
+- <u>横山 智康</u>, 大内 暁, 笹川 崇男, 6．有機–無機ハイブリッド材料の結晶構造予測手法の開発, **電気化学**, **2023**, 91, 2, 164-168.
+- K. Ichikawa, S. Ohuchi, K. Ueno, <u>T. Yokoyama</u>, Accelerating Optimal Elemental Configuration Search in Crystal using Ising Machine. *arXiv.org* **2023**, arXiv:2305.19625. [https://arxiv.org/abs/2305.19625](https://arxiv.org/abs/2305.19625)
+- C. Liu, H. Tamaki, <u>T. Yokoyama</u>,, K. Wakasugi, S. Yotsuhashi, M. Kusaba, R. Yoshida, 
+Shotgun crystal structure prediction using machine-learned formation energies. *arXiv.org* **2023**, arXiv:2305.02158. [https://arxiv.org/abs/2305.02158](https://arxiv.org/abs/2305.02158)  
 - <u>T. Yokoyama</u>, S. Ohuchi, T. Matsui, Y. Kaneko, Material Digitalization for organic-inorganic hybrid materials. *Panasonic Technical Journal* **2021**, 67, 2. [https://www.panasonic.com/jp/corporate/technology-design/ptj/v6702-gaiyo.html#section01_15](https://www.panasonic.com/jp/corporate/technology-design/ptj/v6702-gaiyo.html#section01_15)  
 - <u>T. Yokoyama</u>, S. Ohuchi, T. Matsui, Y. Kaneko, T. Sasagawa, Low-Cost Computing of the Thermophysical Properties of Organic-Inorganic Halide Perovskites by Density Functional Theory Combined with the Three-Dimensional Reference Interaction Site Method. *J. Phys. Chem. C* **2021**, 45, 31. [https://doi.org/10.1021/acs.jpcc.1c01171](https://doi.org/10.1021/acs.jpcc.1c01171)  
 - <u>T. Yokoyama</u>, S. Ohuchi, E. Igaki, T. Matsui, Y. Kaneko, T. Sasagawa, An Efficient Ab Initio Scheme for Discovering Organic-Inorganic Hybrid Materials by Using Genetic Algorithms. *J. Phys. Chem. Lett.* **2021**, 12, 2023-2028. [https://doi.org/10.1021/acs.jpclett.1c00087](https://doi.org/10.1021/acs.jpclett.1c00087)  

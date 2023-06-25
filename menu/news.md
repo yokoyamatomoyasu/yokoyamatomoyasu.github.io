@@ -4,6 +4,18 @@ title:  News
 permalink: /news
 ---
 
+### 2023年6月5日
+電気化学会の会誌「電気化学」の特集「電気化学におけるマテリアルDX」に寄稿しました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">電気化学会の会誌の「電気化学のマテリアルDX」という特集に寄稿しました。<br><br>第一原理計算と遺伝的アルゴリズムを使って、ペロブスカイト太陽電池などに応用されるいくつかのハイブリッド材料の結晶構造を予測できたという内容です。<br><br>ご興味ある会員の方はご覧ください。<a href="https://t.co/bNZuvFZG8O">https://t.co/bNZuvFZG8O</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1667849162681884673?ref_src=twsrc%5Etfw">June 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 2023年5月31日
+共著者のプレプリントが公開されました。量子インスパイアード技術により固溶体の構造予測に成功したという内容です。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">共著のプレプリントが公開されました。<br><br>量子インスパイアード技術により固溶体の構造を高速に最適化できたという内容です。<br><br>従来は時間がかかり困難だった１万原子以上の最適化がこの手法では4分でできました。<br><br>固溶体計算は未だ課題が多いですが量子技術は解決の鍵かも。<a href="https://t.co/9w8xxUaumI">https://t.co/9w8xxUaumI</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1664950060743016449?ref_src=twsrc%5Etfw">June 3, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 2023年5月3日
+共著者のプレプリントが公開されました。結晶構造予測のベンチマークと機械学習により対称性を予測し構造予測を行う手法を構築したという内容です。統計数理研究所の吉田亮教授との共同研究の成果です。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">統数研さんより共著のプレプリントが公開されました。<br><br>結晶構造予測手法を90種類の化合物でベンチマークしてみた論文です。ここまで多様な構造で検証した例はほとんどないかなと思います。<br><br>構造予測は夢の技術ですが現状の課題を明確にできたのは個人的によかったです。<a href="https://t.co/ekntubxN9F">https://t.co/ekntubxN9F</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1654078425789878272?ref_src=twsrc%5Etfw">May 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ### 2023年3月23日
 日本化学会第103回春季年会にて招待講演を行いました。
