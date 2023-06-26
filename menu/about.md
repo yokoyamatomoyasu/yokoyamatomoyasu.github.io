@@ -43,32 +43,32 @@ permalink: /about
 
 
 ### メディア
-- LabBase，「化学で世界にインパクトを！ パナソニックグループ×コーセー研究者が語る「イノベーションと情熱」」，2022年5月11日 [リンク](https://compass.labbase.jp/articles/854)
-- Panasonic Newsroom Japan，「「個のチカラ」で会社を変える～Panasonic Young Leaders」，2022年3月28日 [リンク](https://news.panasonic.com/jp/stories/2022/98060.html)
-- パナソニック採用，「パナソニックの人：マテリアルズ・インフォマティクスを駆使し、エネルギー材料を革新したい。」，2022年3月15日 [リンク](https://recruit.jpn.panasonic.com/person/t_yokoyama.html)
-- WIRED JAPAN，「人智を超えた素材開発とその効率化の先にある未来とは」，2021年11月25日 [リンク](https://wired.jp/2021/11/25/wired-conference-2021-panasonic-ws/)
-- 日経クロステック，「次世代太陽電池にわずか1年で革新　「10年に1人」の企業研究者」，2021年5月24日 [リンク](https://xtech.nikkei.com/atcl/nxt/column/18/01620/052000007/)
+- LabBase，[「化学で世界にインパクトを！ パナソニックグループ×コーセー研究者が語る「イノベーションと情熱」」](https://compass.labbase.jp/articles/854)，2022年5月11日
+- Panasonic Newsroom Japan，[「「個のチカラ」で会社を変える～Panasonic Young Leaders」](https://news.panasonic.com/jp/stories/2022/98060.html)，2022年3月28日
+- パナソニック採用，[「パナソニックの人：マテリアルズ・インフォマティクスを駆使し、エネルギー材料を革新したい。」](https://recruit.jpn.panasonic.com/person/t_yokoyama.html)，2022年3月15日
+- WIRED JAPAN，[「人智を超えた素材開発とその効率化の先にある未来とは」](https://wired.jp/2021/11/25/wired-conference-2021-panasonic-ws/)，2021年11月25日
+- 日経クロステック，[「次世代太陽電池にわずか1年で革新　「10年に1人」の企業研究者」](https://xtech.nikkei.com/atcl/nxt/column/18/01620/052000007/)，2021年5月24日
 
 
 ### 論文
-- <u>横山 智康</u>, 大内 暁, 笹川 崇男, 6．有機–無機ハイブリッド材料の結晶構造予測手法の開発, **電気化学**, **2023**, 91, 2, 164-168.
+- <u>横山智康</u>, 大内暁, 笹川崇男, 6．有機–無機ハイブリッド材料の結晶構造予測手法の開発, *電気化学*, **2023**, 91 (2), 164-168. [https://doi.org/10.5796/denkikagaku.23-FE0014](https://doi.org/10.5796/denkikagaku.23-FE0014)
 - K. Ichikawa, S. Ohuchi, K. Ueno, <u>T. Yokoyama</u>, Accelerating Optimal Elemental Configuration Search in Crystal using Ising Machine. *arXiv.org* **2023**, arXiv:2305.19625. [https://arxiv.org/abs/2305.19625](https://arxiv.org/abs/2305.19625)
 - C. Liu, H. Tamaki, <u>T. Yokoyama</u>,, K. Wakasugi, S. Yotsuhashi, M. Kusaba, R. Yoshida, 
 Shotgun crystal structure prediction using machine-learned formation energies. *arXiv.org* **2023**, arXiv:2305.02158. [https://arxiv.org/abs/2305.02158](https://arxiv.org/abs/2305.02158)  
-- <u>T. Yokoyama</u>, S. Ohuchi, T. Matsui, Y. Kaneko, Material Digitalization for organic-inorganic hybrid materials. *Panasonic Technical Journal* **2021**, 67, 2. [https://www.panasonic.com/jp/corporate/technology-design/ptj/v6702-gaiyo.html#section01_15](https://www.panasonic.com/jp/corporate/technology-design/ptj/v6702-gaiyo.html#section01_15)  
-- <u>T. Yokoyama</u>, S. Ohuchi, T. Matsui, Y. Kaneko, T. Sasagawa, Low-Cost Computing of the Thermophysical Properties of Organic-Inorganic Halide Perovskites by Density Functional Theory Combined with the Three-Dimensional Reference Interaction Site Method. *J. Phys. Chem. C* **2021**, 45, 31. [https://doi.org/10.1021/acs.jpcc.1c01171](https://doi.org/10.1021/acs.jpcc.1c01171)  
-- <u>T. Yokoyama</u>, S. Ohuchi, E. Igaki, T. Matsui, Y. Kaneko, T. Sasagawa, An Efficient Ab Initio Scheme for Discovering Organic-Inorganic Hybrid Materials by Using Genetic Algorithms. *J. Phys. Chem. Lett.* **2021**, 12, 2023-2028. [https://doi.org/10.1021/acs.jpclett.1c00087](https://doi.org/10.1021/acs.jpclett.1c00087)  
+- <u>T. Yokoyama</u>, S. Ohuchi, T. Matsui, Y. Kaneko, Material Digitalization for organic-inorganic hybrid materials. *Panasonic Technical Journal* **2021**, 67 (2), 160-165. [https://holdings.panasonic/jp/corporate/technology/technology-journal/pdf/v6702/p0115.pdf](https://holdings.panasonic/jp/corporate/technology/technology-journal/pdf/v6702/p0115.pdf)  
+- <u>T. Yokoyama</u>, S. Ohuchi, T. Matsui, Y. Kaneko, T. Sasagawa, Low-Cost Computing of the Thermophysical Properties of Organic-Inorganic Halide Perovskites by Density Functional Theory Combined with the Three-Dimensional Reference Interaction Site Method. *J. Phys. Chem. C* **2021**, 125 (12), 6601-6610. [https://doi.org/10.1021/acs.jpcc.1c01171](https://doi.org/10.1021/acs.jpcc.1c01171)  
+- <u>T. Yokoyama</u>, S. Ohuchi, E. Igaki, T. Matsui, Y. Kaneko, T. Sasagawa, An Efficient Ab Initio Scheme for Discovering Organic-Inorganic Hybrid Materials by Using Genetic Algorithms. *J. Phys. Chem. Lett.* **2021**, 12 (8), 2023-2028. [https://doi.org/10.1021/acs.jpclett.1c00087](https://doi.org/10.1021/acs.jpclett.1c00087)  
 - Y. Miyamoto, S. Kusumoto, <u>T. Yokoyama</u>, Y. Nishitani, T. Matsui, T. Kouzaki, R. Nishikubo, A. Saeki, Y. Kaneko, High Current Density Sn-Based Perovskite Solar Cells via Enhanced Electron Extraction in Nanoporous Electron Transport Layers. *ACS Appl. Nano Mater.* **2020**, 3 (11), 11650-11657. [https://doi.org/10.1021/acsanm.0c02890](https://doi.org/10.1021/acs.jpclett.1c00087)  
 - <u>T. Yokoyama</u>, Y. Nishitani, Y. Miyamoto, S. Kusumoto, R. Uchida, T. Matsui, K. Kawano, T. Sekiguchi, Y. Kaneko, Improving the Open-Circuit Voltage of Sn-Based Perovskite Solar Cells by Band Alignment at the Electron Transport Layer/Perovskite Layer Interface. *ACS Appl. Mater. Interfaces* **2020**, 12 (24), 27131-27139. [https://doi.org/10.1021/acsami.0c04676](https://doi.org/10.1021/acsami.0c04676)  
-- T. Sekimoto, M. Suzuka, <u>T. Yokoyama</u>, Y. Miyamoto, R. Uchida, M. Hiraoka, K. Kawano, T. Sekiguchi, Y. Kaneko, Inverse Temperature Crystallization of Formamidinium Tin Iodide: Indirect Transition State and Restriction of Cation Motion. *Cryst. Growth Des.* **2019**, 20(2), 874-883. [https://doi.org/10.1021/acs.cgd.9b01262](https://doi.org/10.1021/acsami.0c04676)  
-- T. Matsui, T. Yamamoto, T. Nishihara, R. Morisawa, <u>T. Yokoyama</u>, T. Sekiguchi, T. Negami, Compositional Engineering for Thermally Stable, Highly Efficient Perovskite Solar Cells Exceeding 20% Power Conversion Efficiency with 85°C/85% 1000 h Stability. *Adv. Mater.* **2019**, 31 (10). [https://doi.org/10.1002/adma.201806823](https://doi.org/10.1021/acsami.0c04676)  
+- T. Sekimoto, M. Suzuka, <u>T. Yokoyama</u>, Y. Miyamoto, R. Uchida, M. Hiraoka, K. Kawano, T. Sekiguchi, Y. Kaneko, Inverse Temperature Crystallization of Formamidinium Tin Iodide: Indirect Transition State and Restriction of Cation Motion. *Cryst. Growth Des.* **2019**, 20 (2), 874-883. [https://doi.org/10.1021/acs.cgd.9b01262](https://doi.org/10.1021/acsami.0c04676)  
+- T. Matsui, T. Yamamoto, T. Nishihara, R. Morisawa, <u>T. Yokoyama</u>, T. Sekiguchi, T. Negami, Compositional Engineering for Thermally Stable, Highly Efficient Perovskite Solar Cells Exceeding 20% Power Conversion Efficiency with 85°C/85% 1000 h Stability. *Adv. Mater.* **2019**, 31 (10), 806823. [https://doi.org/10.1002/adma.201806823](https://doi.org/10.1021/acsami.0c04676)  
 - T. Matsui, <u>T. Yokoyama</u>, T. Negami, T. Sekiguchi, M. Saliba, M. Gratzel, H. Segawa, Effect of Rubidium for Thermal Stability of Triple-Cation Perovskite Solar Cells. *Chem. Lett.* **2018**, 47 (6), 814-816. [https://doi.org/10.1246/cl.180211](https://doi.org/10.1246/cl.180211)  
-- T. Sekimoto, M. Suzuka, <u>T. Yokoyama</u>, R. Uchida, S. I. Machida, T. Sekiguchi, K. Kawano, Energy level diagram of HC(NH<sub>2</sub>)<sub>2</sub>PbI<sub>3</sub> single crystal evaluated by electrical and optical analyses. *Phys. Chem. Chem. Phys.* **2018**, 20(3), 1373-1380. [https://doi.org/10.1039/C7CP07477H](https://doi.org/10.1039/C7CP07477H)  
-- H. Hayashi, S. Katayama, T. Komura, Y. Hinuma, <u>T. Yokoyama</u>, K. Mibu, F. Oba, I. Tanaka, Discovery of a Novel Sn(II)-Based Oxide β-SnMoO<sub>4</sub> for Daylight-Driven Photocatalysis. *Adv. Sci.* **2017**, 4 (1). [https://doi.org/10.1002/advs.201600246](https://doi.org/10.1002/advs.201600246)  
-- <u>T. Yokoyama</u>, F. Oba, A. Seko, H. Hayashi, Y. Nose, I. Tanaka, Theoretical Photovoltaic Conversion Efficiencies of ZnSnP<sub>2</sub>, CdSnP<sub>2</sub>, and Zn<sub>1-X</sub>Cd<sub>x</sub>SnP<sub>2</sub> Alloys. *Appl. Phys. Express* **2013**, 6 (6). [https://doi.org/10.7567/APEX.6.061201](https://doi.org/10.7567/APEX.6.061201)  
+- T. Sekimoto, M. Suzuka, <u>T. Yokoyama</u>, R. Uchida, S. I. Machida, T. Sekiguchi, K. Kawano, Energy level diagram of HC(NH<sub>2</sub>)<sub>2</sub>PbI<sub>3</sub> single crystal evaluated by electrical and optical analyses. *Phys. Chem. Chem. Phys.* **2018**, 20 (3), 1373-1380. [https://doi.org/10.1039/C7CP07477H](https://doi.org/10.1039/C7CP07477H)  
+- H. Hayashi, S. Katayama, T. Komura, Y. Hinuma, <u>T. Yokoyama</u>, K. Mibu, F. Oba, I. Tanaka, Discovery of a Novel Sn(II)-Based Oxide β-SnMoO<sub>4</sub> for Daylight-Driven Photocatalysis. *Adv. Sci.* **2017**, 4 (1), 2823-2832. [https://doi.org/10.1002/advs.201600246](https://doi.org/10.1002/advs.201600246)  
+- <u>T. Yokoyama</u>, F. Oba, A. Seko, H. Hayashi, Y. Nose, I. Tanaka, Theoretical Photovoltaic Conversion Efficiencies of ZnSnP<sub>2</sub>, CdSnP<sub>2</sub>, and Zn<sub>1-X</sub>Cd<sub>x</sub>SnP<sub>2</sub> Alloys. *Appl. Phys. Express* **2013**, 6 (6), 061201. [https://doi.org/10.7567/APEX.6.061201](https://doi.org/10.7567/APEX.6.061201)  
 
 ### 招待講演  
-- <u>横山智康</u>，「有機－無機ハイブリッド材料におけるデータ駆動型探索技術の確立」 日本化学会第103回春季年会 (2023).  
+- <u>横山智康</u>，「有機－無機ハイブリッド材料におけるデータ駆動型探索技術の確立」 日本化学会第103回春季年会 K401-2am-03 (2023).  
 - <u>横山智康</u>，「「構造予測のためのデータ生成」が重要なワケ」 LabTech Talk vol.81 (2023).  
 - <u>横山智康</u>，「マテリアルズ・インフォマティクスによる有機－無機ハイブリッド材料の探索手法開発」 2022年度Ｐ＆Ｉ研究会第2回シンポジウム (2022).  
 - <u>横山智康</u>，「マテリアルズ・インフォマティクスによる有機－無機ハイブリッド材料の探索手法開発」 大阪大学超階層マテリアルサイエンスプログラム第8回インタラクティブ交流会 (2022).  
@@ -95,13 +95,25 @@ Shotgun crystal structure prediction using machine-learned formation energies. *
 
 
 ### 特許  
-- パナソニックIPマネジメント株式会社．大浦恒星，<u>横山智康</u>．「固体電解質材料および電池」WO2022/137758．2022-06-30．
-- パナソニックIPマネジメント株式会社．<u>横山智康</u>，菊地諒介，西谷雄．「太陽電池」WO2021/181842．2021-09-16．
+- パナソニックIPマネジメント株式会社．<u>横山智康</u>，市川和秀．「固体電解質材料およびそれを用いた電池」[WO2023/013202](https://patents.google.com/patent/WO2023013202A1/)．2023-02-09．
+- パナソニックIPマネジメント株式会社．<u>横山智康</u>，大浦恒星，成瀬卓弥．「固体電解質材料およびそれを用いた電池」[WO2023/013206](https://patents.google.com/patent/WO2023013206A1/)．2023-02-09．
+- パナソニックIPマネジメント株式会社．<u>横山智康</u>，市川和秀．「固体電解質材料およびそれを用いた電池」[WO2022/264707](https://patents.google.com/patent/WO2022264707A1/)．2022-12-22．
+- パナソニックIPマネジメント株式会社．大浦恒星，<u>横山智康</u>，成瀬卓弥．「固体電解質材料および電池」[WO2022/264659](https://patents.google.com/patent/WO2022264659A1/)．2022-12-22．
+- パナソニックIPマネジメント株式会社．大浦恒星，<u>横山智康</u>，成瀬卓弥．「固体電解質材料およびそれを用いた電池」[WO2022/249759](https://patents.google.com/patent/WO2022249759A1/)．2022-12-01．
+- パナソニックIPマネジメント株式会社．大浦恒星，<u>横山智康</u>．「固体電解質材料およびそれを用いた電池」[WO2022/249760](https://patents.google.com/patent/WO2022249760A1/)．2022-12-01．
+- パナソニックIPマネジメント株式会社．大浦恒星，<u>横山智康</u>．「固体電解質材料および電池」[WO2022/259749](https://patents.google.com/patent/WO2022259749A1/)．2022-12-15．
+- パナソニックIPマネジメント株式会社．<u>横山智康</u>，大浦恒星，成瀬卓弥．「固体電解質材料およびそれを用いた電池」[WO2022/254956](https://patents.google.com/patent/WO2022254956A1/)．2022-12-08．
+- パナソニックIPマネジメント株式会社．<u>横山智康</u>，大浦恒星，成瀬卓弥．「固体電解質材料およびそれを用いた電池」[WO2022/254955](https://patents.google.com/patent/WO2022254955A1/)．2022-12-08．
+- パナソニックIPマネジメント株式会社．大浦恒星，<u>横山智康</u>．「固体電解質材料およびそれを用いた電池」[WO2022/249762](https://patents.google.com/patent/WO2022249762A1/)．2022-12-01．
+- パナソニックIPマネジメント株式会社．成瀬卓弥，<u>横山智康</u>．「固体電解質材料および電池」[WO2022/219846](https://patents.google.com/patent/WO2022219846A1/)．2022-10-02．
+- パナソニックIPマネジメント株式会社．成瀬卓弥，<u>横山智康</u>．「固体電解質材料および電池」[WO2022/219847](https://patents.google.com/patent/WO2022219847A1/)．2022-10-02．
+- パナソニックIPマネジメント株式会社．大浦恒星，<u>横山智康</u>．「固体電解質材料および電池」[WO2022/137758](https://patents.google.com/patent/WO2022137758A1/)．2022-06-30．
+- パナソニックIPマネジメント株式会社．<u>横山智康</u>，菊地諒介，西谷雄．「太陽電池」[WO2021/181842](https://patents.google.com/patent/WO2021181842A1/)．2021-09-16．
 - パナソニックIPマネジメント株式会社．松井太佑，菊地諒介，<u>横山智康</u>，熊谷悠，大場史康．「太陽電池」特開2021-197418．2021-12-27．
-- パナソニックIPマネジメント株式会社．楠本将平，河野 謙司，<u>横山智康</u>．「太陽電池」WO2021/100237．2021-05-27．
-- パナソニックIPマネジメント株式会社．<u>横山智康</u>，西谷雄，楠本将平，宮本唯未．「太陽電池」WO2020/213196．2020-10-22．
-- パナソニックIPマネジメント株式会社．松井太佑，菊地諒介，<u>横山智康</u>，大場史康．「太陽電池」WO2020/208843．2020-10-15．
-- パナソニックIPマネジメント株式会社．<u>横山智康</u>，松井太佑．「太陽電池」WO2020/105207．2020-05-28．
+- パナソニックIPマネジメント株式会社．楠本将平，河野 謙司，<u>横山智康</u>．「太陽電池」[WO2021/100237](https://patents.google.com/patent/WO2021100237A1/)．2021-05-27．
+- パナソニックIPマネジメント株式会社．<u>横山智康</u>，西谷雄，楠本将平，宮本唯未．「太陽電池」[WO2020/213196](https://patents.google.com/patent/WO2020213196A1/)．2020-10-22．
+- パナソニックIPマネジメント株式会社．松井太佑，菊地諒介，<u>横山智康</u>，大場史康．「太陽電池」[WO2020/208843](https://patents.google.com/patent/WO2020208843A1/)．2020-10-15．
+- パナソニックIPマネジメント株式会社．<u>横山智康</u>，松井太佑．「太陽電池」[WO2020/105207](https://patents.google.com/patent/WO2020105207A1/)．2020-05-28．
 - パナソニックIPマネジメント株式会社．<u>横山智康</u>，河野 謙司，宮本唯未．「太陽電池」特開2020-13982．2020-01-23．
 - パナソニックIPマネジメント株式会社．<u>横山智康</u>，若杉健介，松井太佑．「太陽電池の評価装置および太陽電池の評価方法」 特開2020-5473．2020-01-09．
 - パナソニックIPマネジメント株式会社．鈴鹿理生，<u>横山智康</u>，松井太佑．「光吸収材料及びそれを用いた太陽電池」特開2019-125775．2019-07-25．
