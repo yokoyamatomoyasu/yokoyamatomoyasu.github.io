@@ -43,11 +43,12 @@ permalink: /about
 
 
 ### メディア
-- LabBase，「化学で世界にインパクトを！ パナソニックグループ×コーセー研究者が語る「イノベーションと情熱」」，2022年5月11日 [link](https://compass.labbase.jp/articles/854)
-- Panasonic Newsroom Japan，「「個のチカラ」で会社を変える～Panasonic Young Leaders」，2022年3月28日 [link](https://news.panasonic.com/jp/stories/2022/98060.html)
-- パナソニック採用，「パナソニックの人：マテリアルズ・インフォマティクスを駆使し、エネルギー材料を革新したい。」，2022年3月15日 [link](https://recruit.jpn.panasonic.com/person/t_yokoyama.html)
-- WIRED JAPAN，「人智を超えた素材開発とその効率化の先にある未来とは」，2021年11月25日 [link](https://wired.jp/2021/11/25/wired-conference-2021-panasonic-ws/)
-- 日経クロステック，「次世代太陽電池にわずか1年で革新　「10年に1人」の企業研究者」，2021年5月24日 [link](https://xtech.nikkei.com/atcl/nxt/column/18/01620/052000007/)
+- 日経BP，「日経テクノロジー展望2023 世界を変える100の技術」，2022年9月15日．[link](https://www.amazon.co.jp/dp/4296001183#)
+- LabBase，「化学で世界にインパクトを！ パナソニックグループ×コーセー研究者が語る「イノベーションと情熱」」，2022年5月11日．[link](https://compass.labbase.jp/articles/854)
+- Panasonic Newsroom Japan，「「個のチカラ」で会社を変える～Panasonic Young Leaders」，2022年3月28日．[link](https://news.panasonic.com/jp/stories/2022/98060.html)
+- パナソニック採用，「パナソニックの人：マテリアルズ・インフォマティクスを駆使し、エネルギー材料を革新したい。」，2022年3月15日．[link](https://recruit.jpn.panasonic.com/person/t_yokoyama.html)
+- WIRED JAPAN，「人智を超えた素材開発とその効率化の先にある未来とは」，2021年11月25日．[link](https://wired.jp/2021/11/25/wired-conference-2021-panasonic-ws/)
+- 日経クロステック，「次世代太陽電池にわずか1年で革新　「10年に1人」の企業研究者」，2021年5月24日．[link](https://xtech.nikkei.com/atcl/nxt/column/18/01620/052000007/)
 
 
 ### 論文
