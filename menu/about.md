@@ -15,7 +15,7 @@ permalink: /about
 主任研究員　博士（工学）
 
 ### 専門  
-- 材料計算科学 / 固体電子論 / 第一原理計算 / マテリアルズ・インフォマティクス  
+- 計算材料科学 / 第一原理計算 / マテリアルズ・インフォマティクス  
 - 無機材料 / 有機－無機ハイブリッド材料  
 - 太陽電池 / 蓄電池 / 半導体  / キャパシタ 
 
@@ -79,6 +79,8 @@ Shotgun crystal structure prediction using machine-learned formation energies. *
 - [横山智康](https://doi.org/10.11470/jsapmeeting.2019.1.0_1863)，大内暁，松井太佑，井垣恵美子，笹川崇男，「第一原理計算と遺伝的アルゴリズムによる有機－無機ハイブリッド材料の状態図予測」 第66回応用物理学会春季学術講演会 10p-S423-1 (2019).  
 
 ### 学会発表
+- [横山智康](https://yamaguchi2023.crsj.jp/program.html)，市川和秀，内藤久資，「双対グラフを用いた配位多面体に基づく結晶構造生成」 2023年度日本結晶学会年次大会 OA-III-08 (2023).  
+- [横山智康](https://pub.confit.atlas.jp/ja/event/jsap2023a/presentation/19p-C601-3)，市川和秀，成瀬卓弥，大浦恒星，金子幸広，「半教師あり学習による超イオン伝導体の構造的設計指針の導出」 第84回応用物理学会秋季講演会 19p-C601 (2023).  
 - [横山智康](https://w4.gakkai-web.net/jps_search/2021au/data/html/program07.html)，大内暁，松井太佑，金子幸広，笹川崇男，「有機‐無機ハイブリッドペロブスカイト材料のDFT/3D-RISM法による熱物性および相転移予測」 日本物理学会2021年秋季大会 23pG1-5 (2021).  
 - [横山智康](https://doi.org/10.11470/jsapmeeting.2021.1.0_1258)，大内暁，市川和秀，四橋聡史，金子幸広，笹川崇男，「3D-RISM-SCF法による全固体電池用固体電解質におけるイオン拡散経路の高速探索手法」 第68回応用物理学会春季学術講演会 16p-Z33-11 (2021).  
 - <u>横山智康</u>，大内暁，松井太佑，金子幸広，笹川崇男，「Predicting the temperature dependence of properties of CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> by DFT/3D-RISM approach.」 第30回日本MRS年次大会 E-O9-014  (2020).  
