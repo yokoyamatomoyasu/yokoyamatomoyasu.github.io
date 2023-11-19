@@ -4,6 +4,15 @@ title:  News
 permalink: /news
 ---
 
+
+### 2023年10月29日
+2023年度日本結晶学会にて「双対グラフを用いた配位多面体に基づく結晶構造生成」というタイトルで発表しました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">10月29日に日本結晶学会年会で「双対グラフを用いた配位多面体に基づく結晶構造生成」というタイトルで発表します。<br><br>データ科学ではなく「数学」の視点から結晶構造をデザインできないか？という内容で、名大内藤先生との共同研究です。<br><br>ご興味あればお越しください。<a href="https://t.co/rSWgX74NdK">https://t.co/rSWgX74NdK</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1710973319149985836?ref_src=twsrc%5Etfw">October 8, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 2023年9月19日
+第84回応用物理学会秋季講演会にて「半教師あり学習による超イオン伝導体の構造的設計指針」というタイトルで発表しました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">秋の応物にて久しぶりに新ネタを発表します。<br><br>「イオン伝導体にとって理想的な構造はどんな構造か？」という疑問から、リチウムより高いイオン伝導度をもつ銀イオン伝導体をデータ科学により分類してみたところ、面白そうな構造グループが見つかったという内容です。<br><br>ご興味あればお越しください。 <a href="https://t.co/vxHs1O1Jvm">pic.twitter.com/vxHs1O1Jvm</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1700826452311286136?ref_src=twsrc%5Etfw">September 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### 2023年6月5日
 電気化学会の会誌「電気化学」の特集「電気化学におけるマテリアルDX」に寄稿しました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">電気化学会の会誌の「電気化学のマテリアルDX」という特集に寄稿しました。<br><br>第一原理計算と遺伝的アルゴリズムを使って、ペロブスカイト太陽電池などに応用されるいくつかのハイブリッド材料の結晶構造を予測できたという内容です。<br><br>ご興味ある会員の方はご覧ください。<a href="https://t.co/bNZuvFZG8O">https://t.co/bNZuvFZG8O</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1667849162681884673?ref_src=twsrc%5Etfw">June 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
