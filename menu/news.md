@@ -4,6 +4,9 @@ title:  News
 permalink: /news
 ---
 
+### 2023年12月15日
+プレプリントを公開しました。多面体を表現した双対グラフから離散幾何学に基づいて結晶構造を生成する手法を構築したという内容です。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">プレプリントを公開しました。<br><br>結晶構造の”素”を多面体ととらえ、積み木のように結晶構造をデザインできないか？という着想を起点とし<br><br>多面体を表現したグラフから離散幾何学に基づいて結晶構造を生成する手法を構築しました。名大内藤先生との共同研究の成果です。<a href="https://t.co/PVMzCI2an9">https://t.co/PVMzCI2an9</a> <a href="https://t.co/htnEYWB6KI">pic.twitter.com/htnEYWB6KI</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1735615693918470355?ref_src=twsrc%5Etfw">December 15, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2023年10月29日
 2023年度日本結晶学会にて「双対グラフを用いた配位多面体に基づく結晶構造生成」というタイトルで発表しました。

@@ -52,6 +52,7 @@ permalink: /about
 
 
 ### 論文
+- <u>T. Yokoyama</u>, K. Ichikawa, H. Naito, Crystal Structure Generation Based on Polyhedra using Dual Periodic Graphs. *arXiv.org* **2023**, arXiv:2312.09060. [https://arxiv.org/abs/2312.09060](https://arxiv.org/abs/2312.09060)
 - <u>横山智康</u>, 大内暁, 笹川崇男, 6．有機–無機ハイブリッド材料の結晶構造予測手法の開発, *電気化学*, **2023**, 91 (2), 164-168. [https://doi.org/10.5796/denkikagaku.23-FE0014](https://doi.org/10.5796/denkikagaku.23-FE0014)
 - K. Ichikawa, S. Ohuchi, K. Ueno, <u>T. Yokoyama</u>, Accelerating Optimal Elemental Configuration Search in Crystal using Ising Machine. *arXiv.org* **2023**, arXiv:2305.19625. [https://arxiv.org/abs/2305.19625](https://arxiv.org/abs/2305.19625)
 - C. Liu, H. Tamaki, <u>T. Yokoyama</u>,, K. Wakasugi, S. Yotsuhashi, M. Kusaba, R. Yoshida, 
