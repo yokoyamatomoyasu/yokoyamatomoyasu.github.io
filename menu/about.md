@@ -81,7 +81,7 @@ Shotgun crystal structure prediction using machine-learned formation energies. *
 
 ### 学会発表
 - R. Yoshida, C. Liu, H. Tamaki, [T. Yokoyama](https://confit.atlas.jp/guide/event/mrm2023/subject/A5-O602-03/advanced), K. Wakasugi, S. Yotsuhashi, M. Kusaba, "Non-iterative crystal structure prediction" The 3rd Materials Research Meeting (MRM 2023) A5-O602 (2023).
-- 劉暢，玉置洋正，[横山智康](https://www.mrs-j.org/meeting2023/jp/prg/programList.php?sid=A&mode=1&wday=14)，若杉健介，四橋聡史，草葉穫，吉田亮，「Non-iterative crystal structure prediction」 The 3rd Materials Research Meeting (MRM 2023) A-O15-008 (2021).  
+- 劉暢，玉置洋正，[横山智康](https://www.mrs-j.org/meeting2023/jp/prg/programList.php?sid=A&mode=1&wday=14)，若杉健介，四橋聡史，草葉穫，吉田亮，「Non-iterative crystal structure prediction」 The 3rd Materials Research Meeting (MRM 2023) A-O15-008 (2023).  
 - [横山智康](https://yamaguchi2023.crsj.jp/program.html)，市川和秀，内藤久資，「双対グラフを用いた配位多面体に基づく結晶構造生成」 2023年度日本結晶学会年次大会 OA-III-08 (2023).  
 - [横山智康](https://pub.confit.atlas.jp/ja/event/jsap2023a/presentation/19p-C601-3)，市川和秀，成瀬卓弥，大浦恒星，金子幸広，「半教師あり学習による超イオン伝導体の構造的設計指針の導出」 第84回応用物理学会秋季講演会 19p-C601 (2023).  
 - [横山智康](https://w4.gakkai-web.net/jps_search/2021au/data/html/program07.html)，大内暁，松井太佑，金子幸広，笹川崇男，「有機‐無機ハイブリッドペロブスカイト材料のDFT/3D-RISM法による熱物性および相転移予測」 日本物理学会2021年秋季大会 23pG1-5 (2021).  
@@ -103,10 +103,10 @@ Shotgun crystal structure prediction using machine-learned formation energies. *
 ### 特許  
 - パナソニックIPマネジメント株式会社．[横山智康](https://patents.google.com/patent/WO2023013202A1/)，大浦恒星，菊地諒介．「キャパシタ、電気回路、回路基板、及び機器」WO2023/233918．2023-12-07．
 - パナソニックIPマネジメント株式会社．[横山智康](https://patents.google.com/patent/WO2023233917A1/)，大浦恒星，菊地諒介．「キャパシタ、電気回路、回路基板、及び機器」WO2023/233917．2023-12-07．
-- パナソニックIPマネジメント株式会社．市川和秀，大内暁，[横山智康](https://patents.google.com/patent/WO2023176350A1/)，上野航輝．「情報処理システム、情報処理装置、計算装置、情報処理方法、および計算方法」WO2023/176350．2023-09-21．
 - パナソニックIPマネジメント株式会社．[横山智康](https://patents.google.com/patent/WO2023188733A1/)，市川和秀．「情報処理方法、情報処理システム、及びプログラム」WO2023/188733．2023-10-05．
 - パナソニックIPマネジメント株式会社．[横山智康](https://patents.google.com/patent/WO2023188732A1/)，市川和秀．「情報処理方法、情報処理システム、及びプログラム」WO2023/188732．2023-10-05．
 - パナソニックIPマネジメント株式会社．[横山智康](https://patents.google.com/patent/WO2023188731A1/)，市川和秀．「情報処理方法、情報処理システム、及びプログラム」WO2023/188731．2023-10-05．
+- パナソニックIPマネジメント株式会社．市川和秀，大内暁，[横山智康](https://patents.google.com/patent/WO2023176350A1/)，上野航輝．「情報処理システム、情報処理装置、計算装置、情報処理方法、および計算方法」WO2023/176350．2023-09-21．
 - パナソニックIPマネジメント株式会社．大浦恒星，[横山智康](https://patents.google.com/patent/WO2023013232A1/)．「固体電解質材料およびそれを用いた電池」WO2023/013232．2023-02-09．
 - パナソニックIPマネジメント株式会社．大浦恒星，[横山智康](https://patents.google.com/patent/WO2023013206A1/)，成瀬卓弥．「固体電解質材料およびそれを用いた電池」WO2023/013206．2023-02-09．
 - パナソニックIPマネジメント株式会社．[横山智康](https://patents.google.com/patent/WO2023013202A1/)，市川和秀．「固体電解質材料およびそれを用いた電池」WO2023/013202．2023-02-09．
