@@ -15,10 +15,7 @@ permalink: /about
 主任研究員　博士（工学）
 
 ### 専門  
-- 計算材料科学 / 第一原理計算 / マテリアルズ・インフォマティクス  
-- 無機材料 / 有機－無機ハイブリッド材料  
-- 太陽電池 / 蓄電池 / 半導体  / キャパシタ 
-
+計算材料科学
 
 ### 略歴  
 - 2008-2012　京都大学 工学部 物理工学科  
@@ -31,6 +28,9 @@ permalink: /about
 - 2020年度パナソニックイノベーション推進部門個人事業部長賞
 - [第45回（2018年秋季）応用物理学会講演奨励賞](https://www.jsap.or.jp/young-scientist-presentation-award/recipients45)
 - 2018年度パナソニックイノベーション推進部門知財若手奨励賞
+
+### 委員など
+- 2023-    　セラミックス協会 電子材料部会 幹事
 
 ### SNS 
 - [Twitter](https://twitter.com/yoko_materialDX)
@@ -50,6 +50,8 @@ permalink: /about
 - WIRED JAPAN，「人智を超えた素材開発とその効率化の先にある未来とは」，2021年11月25日．[link](https://wired.jp/2021/11/25/wired-conference-2021-panasonic-ws/)
 - 日経クロステック，「次世代太陽電池にわずか1年で革新　「10年に1人」の企業研究者」，2021年5月24日．[link](https://xtech.nikkei.com/atcl/nxt/column/18/01620/052000007/)
 
+### 書籍
+- [横山智康](https://andtech.co.jp/books/1eec6711-968c-6054-bb8d-064fb9a95405)，有機－無機ハイブリッド材料のデジタライゼーション マテリアルズインフォマティクス・量子コンピュータおよび自然言語処理と自律型実験システムを活用した次世代材料開発 AndTech，2024，4．
 
 ### 論文
 - <u>T. Yokoyama</u>, K. Ichikawa, H. Naito, Crystal Structure Generation Based on Polyhedra using Dual Periodic Graphs. *arXiv.org* **2023**, arXiv:2312.09060. [https://arxiv.org/abs/2312.09060](https://arxiv.org/abs/2312.09060)

@@ -4,6 +4,14 @@ title:  News
 permalink: /news
 ---
 
+### 2024年2月26日
+近畿化学協会コンピュータ化学部会第118回例会にて招待講演を行いました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">2月26日に近畿化学協会のコンピュータ化学部会にてお話する機会をいただきました。<br><br>全固体電池の心臓部の固体電解質材料を例に、データ科学・計算科学・幾何学を使って、多面体から結晶構造を設計するという最近の研究内容について話します。<br><br>ご興味あればお越しください。<a href="https://t.co/ghKWtCB4jH">https://t.co/ghKWtCB4jH</a> <a href="https://t.co/82s7purTYT">pic.twitter.com/82s7purTYT</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1751560754896183398?ref_src=twsrc%5Etfw">January 28, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 2024年2月14日
+論文がCrystal Growth & Designから公開されました。多面体を表現した双対グラフから離散幾何学に基づいて結晶構造を生成する手法を構築したという内容です。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">論文がアクセプト&amp;公開されました。<br><br>離散幾何学を用いて多面体を表現したグラフから結晶構造を生成する手法を提案しました。<br><br>面白い理論なのに材料科学ではこれまで注目されなかった点と、始めて1年で結果がでた点が幸運でした。<br><br>未知の結晶構造を作っていきたいです。<a href="https://t.co/A6srSD2lpe">https://t.co/A6srSD2lpe</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1759170904859574282?ref_src=twsrc%5Etfw">February 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### 2023年12月15日
 プレプリントを公開しました。多面体を表現した双対グラフから離散幾何学に基づいて結晶構造を生成する手法を構築したという内容です。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">プレプリントを公開しました。<br><br>結晶構造の”素”を多面体ととらえ、積み木のように結晶構造をデザインできないか？という着想を起点とし<br><br>多面体を表現したグラフから離散幾何学に基づいて結晶構造を生成する手法を構築しました。名大内藤先生との共同研究の成果です。<a href="https://t.co/PVMzCI2an9">https://t.co/PVMzCI2an9</a> <a href="https://t.co/htnEYWB6KI">pic.twitter.com/htnEYWB6KI</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1735615693918470355?ref_src=twsrc%5Etfw">December 15, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
