@@ -4,9 +4,17 @@ title:  News
 permalink: /news
 ---
 
+### 2024年3月4日
+早稲田大学の大久保研究室にて講演を行いました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">本日は早稲田大学の大久保研究室 <a href="https://twitter.com/OkuboLab?ref_src=twsrc%5Etfw">@OkuboLab</a> にて講演させていただきました。<br><br>学生の方には活発に質問いただき、またいろいろな方とお知り合いにもなれまして貴重な機会になりました。 <a href="https://t.co/H3vP4Al6sr">pic.twitter.com/H3vP4Al6sr</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1764622116052410425?ref_src=twsrc%5Etfw">March 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### 2024年2月26日
 近畿化学協会コンピュータ化学部会第118回例会にて招待講演を行いました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">2月26日に近畿化学協会のコンピュータ化学部会にてお話する機会をいただきました。<br><br>全固体電池の心臓部の固体電解質材料を例に、データ科学・計算科学・幾何学を使って、多面体から結晶構造を設計するという最近の研究内容について話します。<br><br>ご興味あればお越しください。<a href="https://t.co/ghKWtCB4jH">https://t.co/ghKWtCB4jH</a> <a href="https://t.co/82s7purTYT">pic.twitter.com/82s7purTYT</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1751560754896183398?ref_src=twsrc%5Etfw">January 28, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 2024年2月16日
+私が1節を執筆した書籍「マテリアルズインフォマティクス・量子コンピュータおよび自然言語処理と自律型実験システムを活用した次世代材料開発」が出版されました。第4章の第3節「有機－無機ハイブリッド材料開発のデジタライゼーション」というタイトルで執筆しました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「マテリアルズインフォマティクス・量子コンピュータおよび自然言語処理と自律型実験システムを活用した次世代材料開発」というこちらの書籍の一節を執筆させていただきました。<br><br>最近のトレンドが凝縮されており、企業の事例も多く勉強になりました。<a href="https://t.co/gVfIwyATEX">https://t.co/gVfIwyATEX</a> <a href="https://t.co/0oXfUabwbW">pic.twitter.com/0oXfUabwbW</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1764244326815871407?ref_src=twsrc%5Etfw">March 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2024年2月14日
 論文がCrystal Growth & Designから公開されました。多面体を表現した双対グラフから離散幾何学に基づいて結晶構造を生成する手法を構築したという内容です。
