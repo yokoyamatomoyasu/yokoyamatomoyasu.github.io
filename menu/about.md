@@ -43,33 +43,35 @@ permalink: /about
 
 
 ### メディア
-- 日経BP，「日経テクノロジー展望2023 世界を変える100の技術」，2022年9月15日．[link](https://www.amazon.co.jp/dp/4296001183#)
-- LabBase，「化学で世界にインパクトを！ パナソニックグループ×コーセー研究者が語る「イノベーションと情熱」」，2022年5月11日．[link](https://compass.labbase.jp/articles/854)
-- Panasonic Newsroom Japan，「「個のチカラ」で会社を変える～Panasonic Young Leaders」，2022年3月28日．[link](https://news.panasonic.com/jp/stories/2022/98060.html)
-- パナソニック採用，「パナソニックの人：マテリアルズ・インフォマティクスを駆使し、エネルギー材料を革新したい。」，2022年3月15日．[link](https://recruit.jpn.panasonic.com/person/t_yokoyama.html)
-- WIRED JAPAN，「人智を超えた素材開発とその効率化の先にある未来とは」，2021年11月25日．[link](https://wired.jp/2021/11/25/wired-conference-2021-panasonic-ws/)
-- 日経クロステック，「次世代太陽電池にわずか1年で革新　「10年に1人」の企業研究者」，2021年5月24日．[link](https://xtech.nikkei.com/atcl/nxt/column/18/01620/052000007/)
+- 日経BP，「[日経テクノロジー展望2023 世界を変える100の技術](https://www.amazon.co.jp/dp/4296001183#)」，2022年9月15日．
+- LabBase，「[化学で世界にインパクトを！ パナソニックグループ×コーセー研究者が語る「イノベーションと情熱」](https://compass.labbase.jp/articles/854)」，2022年5月11日．
+- Panasonic Newsroom Japan，「[「個のチカラ」で会社を変える～Panasonic Young Leaders](https://news.panasonic.com/jp/stories/2022/98060.html)」，2022年3月28日．
+- パナソニック採用，「[パナソニックの人：マテリアルズ・インフォマティクスを駆使し、エネルギー材料を革新したい。](https://recruit.jpn.panasonic.com/person/t_yokoyama.html)」，2022年3月15日．
+- WIRED JAPAN，「[人智を超えた素材開発とその効率化の先にある未来とは](https://wired.jp/2021/11/25/wired-conference-2021-panasonic-ws/)」，2021年11月25日．
+- 日経クロステック，「[次世代太陽電池にわずか1年で革新　「10年に1人」の企業研究者](https://xtech.nikkei.com/atcl/nxt/column/18/01620/052000007/)」，2021年5月24日．
 
 ### 書籍
 - [横山智康](https://andtech.co.jp/books/1eec6711-968c-6054-bb8d-064fb9a95405)，有機－無機ハイブリッド材料のデジタライゼーション マテリアルズインフォマティクス・量子コンピュータおよび自然言語処理と自律型実験システムを活用した次世代材料開発 AndTech，2024，4．
 
 ### 論文
-- <u>T. Yokoyama</u>, K. Ichikawa, H. Naito, Crystal Structure Generation Based on Polyhedra using Dual Periodic Graphs. *arXiv.org* **2023**, arXiv:2312.09060. [https://arxiv.org/abs/2312.09060](https://arxiv.org/abs/2312.09060)
-- <u>横山智康</u>, 大内暁, 笹川崇男, 6．有機–無機ハイブリッド材料の結晶構造予測手法の開発, *電気化学*, **2023**, 91 (2), 164-168. [https://doi.org/10.5796/denkikagaku.23-FE0014](https://doi.org/10.5796/denkikagaku.23-FE0014)
-- K. Ichikawa, S. Ohuchi, K. Ueno, <u>T. Yokoyama</u>, Accelerating Optimal Elemental Configuration Search in Crystal using Ising Machine. *arXiv.org* **2023**, arXiv:2305.19625. [https://arxiv.org/abs/2305.19625](https://arxiv.org/abs/2305.19625)
-- C. Liu, H. Tamaki, <u>T. Yokoyama</u>,, K. Wakasugi, S. Yotsuhashi, M. Kusaba, R. Yoshida, 
-Shotgun crystal structure prediction using machine-learned formation energies. *arXiv.org* **2023**, arXiv:2305.02158. [https://arxiv.org/abs/2305.02158](https://arxiv.org/abs/2305.02158)  
-- <u>T. Yokoyama</u>, S. Ohuchi, T. Matsui, Y. Kaneko, Material Digitalization for organic-inorganic hybrid materials. *Panasonic Technical Journal* **2021**, 67 (2), 160-165. [https://holdings.panasonic/jp/corporate/technology/technology-journal/pdf/v6702/p0115.pdf](https://holdings.panasonic/jp/corporate/technology/technology-journal/pdf/v6702/p0115.pdf)  
-- <u>T. Yokoyama</u>, S. Ohuchi, T. Matsui, Y. Kaneko, T. Sasagawa, Low-Cost Computing of the Thermophysical Properties of Organic-Inorganic Halide Perovskites by Density Functional Theory Combined with the Three-Dimensional Reference Interaction Site Method. *J. Phys. Chem. C* **2021**, 125 (12), 6601-6610. [https://doi.org/10.1021/acs.jpcc.1c01171](https://doi.org/10.1021/acs.jpcc.1c01171)  
-- <u>T. Yokoyama</u>, S. Ohuchi, E. Igaki, T. Matsui, Y. Kaneko, T. Sasagawa, An Efficient Ab Initio Scheme for Discovering Organic-Inorganic Hybrid Materials by Using Genetic Algorithms. *J. Phys. Chem. Lett.* **2021**, 12 (8), 2023-2028. [https://doi.org/10.1021/acs.jpclett.1c00087](https://doi.org/10.1021/acs.jpclett.1c00087)  
-- Y. Miyamoto, S. Kusumoto, <u>T. Yokoyama</u>, Y. Nishitani, T. Matsui, T. Kouzaki, R. Nishikubo, A. Saeki, Y. Kaneko, High Current Density Sn-Based Perovskite Solar Cells via Enhanced Electron Extraction in Nanoporous Electron Transport Layers. *ACS Appl. Nano Mater.* **2020**, 3 (11), 11650-11657. [https://doi.org/10.1021/acsanm.0c02890](https://doi.org/10.1021/acs.jpclett.1c00087)  
-- <u>T. Yokoyama</u>, Y. Nishitani, Y. Miyamoto, S. Kusumoto, R. Uchida, T. Matsui, K. Kawano, T. Sekiguchi, Y. Kaneko, Improving the Open-Circuit Voltage of Sn-Based Perovskite Solar Cells by Band Alignment at the Electron Transport Layer/Perovskite Layer Interface. *ACS Appl. Mater. Interfaces* **2020**, 12 (24), 27131-27139. [https://doi.org/10.1021/acsami.0c04676](https://doi.org/10.1021/acsami.0c04676)  
-- T. Sekimoto, M. Suzuka, <u>T. Yokoyama</u>, Y. Miyamoto, R. Uchida, M. Hiraoka, K. Kawano, T. Sekiguchi, Y. Kaneko, Inverse Temperature Crystallization of Formamidinium Tin Iodide: Indirect Transition State and Restriction of Cation Motion. *Cryst. Growth Des.* **2019**, 20 (2), 874-883. [https://doi.org/10.1021/acs.cgd.9b01262](https://doi.org/10.1021/acsami.0c04676)  
-- T. Matsui, T. Yamamoto, T. Nishihara, R. Morisawa, <u>T. Yokoyama</u>, T. Sekiguchi, T. Negami, Compositional Engineering for Thermally Stable, Highly Efficient Perovskite Solar Cells Exceeding 20% Power Conversion Efficiency with 85°C/85% 1000 h Stability. *Adv. Mater.* **2019**, 31 (10), 806823. [https://doi.org/10.1002/adma.201806823](https://doi.org/10.1021/acsami.0c04676)  
-- T. Matsui, <u>T. Yokoyama</u>, T. Negami, T. Sekiguchi, M. Saliba, M. Gratzel, H. Segawa, Effect of Rubidium for Thermal Stability of Triple-Cation Perovskite Solar Cells. *Chem. Lett.* **2018**, 47 (6), 814-816. [https://doi.org/10.1246/cl.180211](https://doi.org/10.1246/cl.180211)  
-- T. Sekimoto, M. Suzuka, <u>T. Yokoyama</u>, R. Uchida, S. I. Machida, T. Sekiguchi, K. Kawano, Energy level diagram of HC(NH<sub>2</sub>)<sub>2</sub>PbI<sub>3</sub> single crystal evaluated by electrical and optical analyses. *Phys. Chem. Chem. Phys.* **2018**, 20 (3), 1373-1380. [https://doi.org/10.1039/C7CP07477H](https://doi.org/10.1039/C7CP07477H)  
-- H. Hayashi, S. Katayama, T. Komura, Y. Hinuma, <u>T. Yokoyama</u>, K. Mibu, F. Oba, I. Tanaka, Discovery of a Novel Sn(II)-Based Oxide β-SnMoO<sub>4</sub> for Daylight-Driven Photocatalysis. *Adv. Sci.* **2017**, 4 (1), 2823-2832. [https://doi.org/10.1002/advs.201600246](https://doi.org/10.1002/advs.201600246)  
-- <u>T. Yokoyama</u>, F. Oba, A. Seko, H. Hayashi, Y. Nose, I. Tanaka, Theoretical Photovoltaic Conversion Efficiencies of ZnSnP<sub>2</sub>, CdSnP<sub>2</sub>, and Zn<sub>1-X</sub>Cd<sub>x</sub>SnP<sub>2</sub> Alloys. *Appl. Phys. Express* **2013**, 6 (6), 061201. [https://doi.org/10.7567/APEX.6.061201](https://doi.org/10.7567/APEX.6.061201)  
+- [T. Yokoyama](https://pubs.acs.org/doi/10.1021/acs.cgd.3c01492), K. Ichikawa, H. Naito, Crystal Structure Generation Based on Polyhedra using Dual Periodic Graphs. *Cryst. Growth Des.* **2024**,  24 (5), 2168–2178.
+- [横山智康](https://doi.org/10.5796/denkikagaku.23-FE0014), 大内暁, 笹川崇男, 6．有機–無機ハイブリッド材料の結晶構造予測手法の開発, *電気化学*, **2023**, 91 (2), 164-168.
+- [T. Yokoyama](https://holdings.panasonic/jp/corporate/technology/technology-journal/pdf/v6702/p0115.pdf), S. Ohuchi, T. Matsui, Y. Kaneko, Material Digitalization for organic-inorganic hybrid materials. *Panasonic Technical Journal* **2021**, 67 (2), 160-165.
+- [T. Yokoyama](https://doi.org/10.1021/acs.jpcc.1c01171), S. Ohuchi, T. Matsui, Y. Kaneko, T. Sasagawa, Low-Cost Computing of the Thermophysical Properties of Organic-Inorganic Halide Perovskites by Density Functional Theory Combined with the Three-Dimensional Reference Interaction Site Method. *J. Phys. Chem. C* **2021**, 125 (12), 6601-6610.
+- [T. Yokoyama](https://doi.org/10.1021/acs.jpclett.1c00087), S. Ohuchi, E. Igaki, T. Matsui, Y. Kaneko, T. Sasagawa, An Efficient Ab Initio Scheme for Discovering Organic-Inorganic Hybrid Materials by Using Genetic Algorithms. *J. Phys. Chem. Lett.* **2021**, 12 (8), 2023-2028.
+- Y. Miyamoto, S. Kusumoto, [T. Yokoyama](https://doi.org/10.1021/acs.jpclett.1c00087), Y. Nishitani, T. Matsui, T. Kouzaki, R. Nishikubo, A. Saeki, Y. Kaneko, High Current Density Sn-Based Perovskite Solar Cells via Enhanced Electron Extraction in Nanoporous Electron Transport Layers. *ACS Appl. Nano Mater.* **2020**, 3 (11), 11650-11657.
+- [T. Yokoyama](https://doi.org/10.1021/acsami.0c04676), Y. Nishitani, Y. Miyamoto, S. Kusumoto, R. Uchida, T. Matsui, K. Kawano, T. Sekiguchi, Y. Kaneko, Improving the Open-Circuit Voltage of Sn-Based Perovskite Solar Cells by Band Alignment at the Electron Transport Layer/Perovskite Layer Interface. *ACS Appl. Mater. Interfaces* **2020**, 12 (24), 27131-27139.
+- T. Sekimoto, M. Suzuka, [T. Yokoyama](https://doi.org/10.1021/acsami.0c04676), Y. Miyamoto, R. Uchida, M. Hiraoka, K. Kawano, T. Sekiguchi, Y. Kaneko, Inverse Temperature Crystallization of Formamidinium Tin Iodide: Indirect Transition State and Restriction of Cation Motion. *Cryst. Growth Des.* **2019**, 20 (2), 874-883.
+- T. Matsui, T. Yamamoto, T. Nishihara, R. Morisawa, [T. Yokoyama](https://doi.org/10.1021/acsami.0c04676), T. Sekiguchi, T. Negami, Compositional Engineering for Thermally Stable, Highly Efficient Perovskite Solar Cells Exceeding 20% Power Conversion Efficiency with 85°C/85% 1000 h Stability. *Adv. Mater.* **2019**, 31 (10), 806823.
+- T. Matsui, [T. Yokoyama](https://doi.org/10.1246/cl.180211), T. Negami, T. Sekiguchi, M. Saliba, M. Gratzel, H. Segawa, Effect of Rubidium for Thermal Stability of Triple-Cation Perovskite Solar Cells. *Chem. Lett.* **2018**, 47 (6), 814-816.
+- T. Sekimoto, M. Suzuka, [T. Yokoyama](https://doi.org/10.1039/C7CP07477H), R. Uchida, S. I. Machida, T. Sekiguchi, K. Kawano, Energy level diagram of HC(NH<sub>2</sub>)<sub>2</sub>PbI<sub>3</sub> single crystal evaluated by electrical and optical analyses. *Phys. Chem. Chem. Phys.* **2018**, 20 (3), 1373-1380.
+- H. Hayashi, S. Katayama, T. Komura, Y. Hinuma, [T. Yokoyama](https://doi.org/10.1002/advs.201600246)  , K. Mibu, F. Oba, I. Tanaka, Discovery of a Novel Sn(II)-Based Oxide β-SnMoO<sub>4</sub> for Daylight-Driven Photocatalysis. *Adv. Sci.* **2017**, 4 (1), 2823-2832.
+- [T. Yokoyama](https://doi.org/10.7567/APEX.6.061201), F. Oba, A. Seko, H. Hayashi, Y. Nose, I. Tanaka, Theoretical Photovoltaic Conversion Efficiencies of ZnSnP<sub>2</sub>, CdSnP<sub>2</sub>, and Zn<sub>1-X</sub>Cd<sub>x</sub>SnP<sub>2</sub> Alloys. *Appl. Phys. Express* **2013**, 6 (6), 061201. 
+
+### プレプリント
+- [T. Yokoyama](https://arxiv.org/abs/2312.09060), K. Ichikawa, H. Naito, Crystal Structure Generation Based on Polyhedra using Dual Periodic Graphs. *arXiv.org* **2023**, arXiv:2312.09060. 
+- K. Ichikawa, S. Ohuchi, K. Ueno, [T. Yokoyama]((https://arxiv.org/abs/2305.19625), Accelerating Optimal Elemental Configuration Search in Crystal using Ising Machine. *arXiv.org* **2023**, arXiv:2305.19625. 
+- C. Liu, H. Tamaki, [T. Yokoyama](https://arxiv.org/abs/2305.02158), K. Wakasugi, S. Yotsuhashi, M. Kusaba, R. Yoshida, Shotgun crystal structure prediction using machine-learned formation energies. *arXiv.org* **2023**, arXiv:2305.02158.
 
 ### 招待講演  
 - [横山智康](https://kinka.or.jp/compchem/prog/20240226_118prog.pdf)，「多面体に基づく結晶構造の設計」 近畿化学協会コンピュータ化学部会第118回例会 (2024).  

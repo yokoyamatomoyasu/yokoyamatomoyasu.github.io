@@ -4,6 +4,10 @@ title:  News
 permalink: /news
 ---
 
+### 2024年3月14日
+セラミックス協会2024年年会にて「四面体充填構造に基づく超イオン伝導材料の設計」というタイトルでポスター発表を行いました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">3月14日にセラミックス協会年会@熊本にて「四面体充填構造に基づく超イオン伝導材料の設計」というタイトルでポスター発表します。<br><br>結晶構造でいっぱいのポスターに仕上がりました。マニア向けです。ご参加されるマニアの方はよろしくお願いします。<a href="https://t.co/nCy82u9ExU">https://t.co/nCy82u9ExU</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1766056269712883891?ref_src=twsrc%5Etfw">March 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### 2024年3月4日
 早稲田大学の大久保研究室にて講演を行いました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">本日は早稲田大学の大久保研究室 <a href="https://twitter.com/OkuboLab?ref_src=twsrc%5Etfw">@OkuboLab</a> にて講演させていただきました。<br><br>学生の方には活発に質問いただき、またいろいろな方とお知り合いにもなれまして貴重な機会になりました。 <a href="https://t.co/H3vP4Al6sr">pic.twitter.com/H3vP4Al6sr</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1764622116052410425?ref_src=twsrc%5Etfw">March 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -25,7 +29,7 @@ permalink: /news
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">プレプリントを公開しました。<br><br>結晶構造の”素”を多面体ととらえ、積み木のように結晶構造をデザインできないか？という着想を起点とし<br><br>多面体を表現したグラフから離散幾何学に基づいて結晶構造を生成する手法を構築しました。名大内藤先生との共同研究の成果です。<a href="https://t.co/PVMzCI2an9">https://t.co/PVMzCI2an9</a> <a href="https://t.co/htnEYWB6KI">pic.twitter.com/htnEYWB6KI</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1735615693918470355?ref_src=twsrc%5Etfw">December 15, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2023年10月29日
-2023年度日本結晶学会にて「双対グラフを用いた配位多面体に基づく結晶構造生成」というタイトルで発表しました。
+2023年度日本結晶学会年会にて「双対グラフを用いた配位多面体に基づく結晶構造生成」というタイトルで発表しました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">10月29日に日本結晶学会年会で「双対グラフを用いた配位多面体に基づく結晶構造生成」というタイトルで発表します。<br><br>データ科学ではなく「数学」の視点から結晶構造をデザインできないか？という内容で、名大内藤先生との共同研究です。<br><br>ご興味あればお越しください。<a href="https://t.co/rSWgX74NdK">https://t.co/rSWgX74NdK</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1710973319149985836?ref_src=twsrc%5Etfw">October 8, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2023年9月19日
