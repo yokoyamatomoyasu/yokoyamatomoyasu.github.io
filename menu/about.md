@@ -70,7 +70,7 @@ permalink: /about
 
 ### プレプリント
 - [T. Yokoyama](https://arxiv.org/abs/2312.09060), K. Ichikawa, H. Naito, Crystal Structure Generation Based on Polyhedra using Dual Periodic Graphs. *arXiv.org* **2023**, arXiv:2312.09060. 
-- K. Ichikawa, S. Ohuchi, K. Ueno, [T. Yokoyama]((https://arxiv.org/abs/2305.19625), Accelerating Optimal Elemental Configuration Search in Crystal using Ising Machine. *arXiv.org* **2023**, arXiv:2305.19625. 
+- K. Ichikawa, S. Ohuchi, K. Ueno, [T. Yokoyama](https://arxiv.org/abs/2305.19625), Accelerating Optimal Elemental Configuration Search in Crystal using Ising Machine. *arXiv.org* **2023**, arXiv:2305.19625. 
 - C. Liu, H. Tamaki, [T. Yokoyama](https://arxiv.org/abs/2305.02158), K. Wakasugi, S. Yotsuhashi, M. Kusaba, R. Yoshida, Shotgun crystal structure prediction using machine-learned formation energies. *arXiv.org* **2023**, arXiv:2305.02158.
 
 ### 招待講演  
