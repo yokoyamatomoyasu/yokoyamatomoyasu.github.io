@@ -85,8 +85,10 @@ permalink: /about
 - [横山智康](https://doi.org/10.11470/jsapmeeting.2019.1.0_1863)，大内暁，松井太佑，井垣恵美子，笹川崇男，「第一原理計算と遺伝的アルゴリズムによる有機－無機ハイブリッド材料の状態図予測」 第66回応用物理学会春季学術講演会 10p-S423-1 (2019).  
 
 ### 学会発表
+- 市川和秀，大内暁，上野航輝，[横山智康](https://pub.confit.atlas.jp/ja/event/jsap2024s/presentation/23p-22B-13)，「結晶構造の元素配置最適化問題におけるイジングマシンを用いた解法」 第71回応用物理学会春季講演会 23p-22B-13 (2024).  
+- [横山智康](https://nenkai2024.ceramic.or.jp/program)，市川和秀，成瀬卓弥，大浦恒星，金子幸広，「四面体充填構造に基づく超イオン伝導材料の設計」 日本セラミックス協会2024年年会 1P162 (2024).  
 - R. Yoshida, C. Liu, H. Tamaki, [T. Yokoyama](https://confit.atlas.jp/guide/event/mrm2023/subject/A5-O602-03/advanced), K. Wakasugi, S. Yotsuhashi, M. Kusaba, "Non-iterative crystal structure prediction" The 3rd Materials Research Meeting (MRM 2023) A5-O602 (2023).
-- 劉暢，玉置洋正，[横山智康](https://www.mrs-j.org/meeting2023/jp/prg/programList.php?sid=A&mode=1&wday=14)，若杉健介，四橋聡史，草葉穫，吉田亮，「Non-iterative crystal structure prediction」 T第31回日本MRS年次大会 A-O15-008 (2023).  
+- 劉暢，玉置洋正，[横山智康](https://www.mrs-j.org/meeting2023/jp/prg/programList.php?sid=A&mode=1&wday=14)，若杉健介，四橋聡史，草葉穫，吉田亮，「Non-iterative crystal structure prediction」 第31回日本MRS年次大会 A-O15-008 (2023).  
 - [横山智康](https://yamaguchi2023.crsj.jp/program.html)，市川和秀，内藤久資，「双対グラフを用いた配位多面体に基づく結晶構造生成」 2023年度日本結晶学会年次大会 OA-III-08 (2023).  
 - [横山智康](https://pub.confit.atlas.jp/ja/event/jsap2023a/presentation/19p-C601-3)，市川和秀，成瀬卓弥，大浦恒星，金子幸広，「半教師あり学習による超イオン伝導体の構造的設計指針の導出」 第84回応用物理学会秋季講演会 19p-C601 (2023).  
 - [横山智康](https://w4.gakkai-web.net/jps_search/2021au/data/html/program07.html)，大内暁，松井太佑，金子幸広，笹川崇男，「有機‐無機ハイブリッドペロブスカイト材料のDFT/3D-RISM法による熱物性および相転移予測」 日本物理学会2021年秋季大会 23pG1-5 (2021).  
