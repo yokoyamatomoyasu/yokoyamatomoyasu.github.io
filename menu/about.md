@@ -76,7 +76,7 @@ permalink: /about
 - C. Liu, H. Tamaki, [T. Yokoyama](https://arxiv.org/abs/2305.02158), K. Wakasugi, S. Yotsuhashi, M. Kusaba, R. Yoshida, Shotgun crystal structure prediction using machine-learned formation energies. *arXiv.org* **2023**, arXiv:2305.02158.
 
 ### 招待講演  
-- [横山智康](https://ion-jamology.jp/event/1)，「多面体に基づく結晶構造設計」 「イオン渋滞学」第１回領域会議 (2024).  
+- [横山智康](https://ion-jamology.jp/event/1)，「多面体に基づく結晶構造設計」 イオン渋滞学第１回領域会議 (2024).  
 - [横山智康](https://kinka.or.jp/compchem/prog/20240226_118prog.pdf)，「多面体に基づく結晶構造の設計」 近畿化学協会コンピュータ化学部会第118回例会 (2024).  
 - [横山智康](https://confit.atlas.jp/guide/event/csj103rd/subject/K401-2am-03/advanced)，「有機－無機ハイブリッド材料におけるデータ駆動型探索技術の確立」 日本化学会第103回春季年会 K401-2am-03 (2023).  
 - [横山智康](https://labtechtalk-event230126.peatix.com/?lang=ja)，「「構造予測のためのデータ生成」が重要なワケ」 LabTech Talk vol.81 (2023).  
