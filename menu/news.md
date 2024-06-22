@@ -4,6 +4,18 @@ title:  News
 permalink: /news
 ---
 
+### 2024年6月12日
+日本結晶学会の会誌「日本結晶学会誌」の特集「結晶学とグラフ」に寄稿しました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">グラフ理論を用いた結晶構造生成についての解説記事を結晶学会誌に寄稿しました。誰でも読めます。<br><br>材料開発に対する僕の想いと、行列演算のみで結晶構造を生成できるという面白さが伝わるよう頑張って書きました。<br><br>数学×材料科学の可能性を感じていただければ嬉しいです。<a href="https://t.co/GxTrauYwQY">https://t.co/GxTrauYwQY</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1802295052838006888?ref_src=twsrc%5Etfw">June 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 2024年6月1日
+「イオン渋滞学」第１回領域会議にて招待講演を行いました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今日は学術変革Aイオン渋滞学（<a href="https://t.co/2XCRxMUqsf">https://t.co/2XCRxMUqsf</a>）の領域会議でお話する機会をいただき講演してきました。<br><br>新しいことが始まりそうな時のアカデミックの雰囲気を肌で感じられる貴重な機会になりました。</p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1796859237752045739?ref_src=twsrc%5Etfw">June 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 2024年4月1日
+会社での役職が「リードリサーチャー」になりました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">4月から社内での役職が「主任研究員」から「リードリサーチャー」に変わりました。専門性を究めていく技術軸のキャリアパスとして「高度専門職制度」が最近整備されその一環で任命されました。<br><br>周りの研究者に追いつけるよう、もっと専門性を高めていきたいと思います。<a href="https://t.co/xjmPK0yrc3">https://t.co/xjmPK0yrc3</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1776927911238598709?ref_src=twsrc%5Etfw">April 7, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### 2024年3月14日
 セラミックス協会2024年年会にて「四面体充填構造に基づく超イオン伝導材料の設計」というタイトルでポスター発表を行いました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">3月14日にセラミックス協会年会@熊本にて「四面体充填構造に基づく超イオン伝導材料の設計」というタイトルでポスター発表します。<br><br>結晶構造でいっぱいのポスターに仕上がりました。マニア向けです。ご参加されるマニアの方はよろしくお願いします。<a href="https://t.co/nCy82u9ExU">https://t.co/nCy82u9ExU</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1766056269712883891?ref_src=twsrc%5Etfw">March 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

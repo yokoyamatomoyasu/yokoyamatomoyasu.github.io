@@ -31,15 +31,16 @@ permalink: /about
 
 ### 委員など
 - 2023-    　セラミックス協会 電子材料部会 幹事
+- 2024-    　セラミックス協会 協会誌編集委員会 委員
 
 ### SNS 
-- [Twitter](https://twitter.com/yoko_materialDX)
-- [LinkedIn](https://www.linkedin.com/in/智康-横山-a48226223/) 
+- [X](https://twitter.com/yoko_materialDX)
+- [LinkedIn](https://www.linkedin.com/in/tomoyasu-yokoyama-a48226223/) 
 
 
 ### 研究者IDサービス  
-- [google scholar](https://scholar.google.co.jp/citations?user=D-TalWsAAAAJ&hl=ja&oi=ao) 
-- [researchmap](https://researchmap.jp/yokoyama_tomoyasu)
+- [Google Scholar](https://scholar.google.co.jp/citations?user=D-TalWsAAAAJ&hl=ja&oi=ao) 
+- [Researchmap](https://researchmap.jp/yokoyama_tomoyasu)
 
 
 ### メディア
@@ -54,6 +55,7 @@ permalink: /about
 - [横山智康](https://andtech.co.jp/books/1eec6711-968c-6054-bb8d-064fb9a95405)，有機－無機ハイブリッド材料のデジタライゼーション マテリアルズインフォマティクス・量子コンピュータおよび自然言語処理と自律型実験システムを活用した次世代材料開発 AndTech，2024，4．
 
 ### 論文
+- [横山智康](https://doi.org/10.5940/jcrsj.66.60), 市川和秀, 内藤久資, 双対グラフを用いた多面体に基づく結晶構造生成, *日本結晶学会誌*, **2024**, 66 (2), 60-70.
 - [T. Yokoyama](https://pubs.acs.org/doi/10.1021/acs.cgd.3c01492), K. Ichikawa, H. Naito, Crystal Structure Generation Based on Polyhedra using Dual Periodic Graphs. *Cryst. Growth Des.* **2024**,  24 (5), 2168–2178.
 - [横山智康](https://doi.org/10.5796/denkikagaku.23-FE0014), 大内暁, 笹川崇男, 6．有機–無機ハイブリッド材料の結晶構造予測手法の開発, *電気化学*, **2023**, 91 (2), 164-168.
 - [T. Yokoyama](https://holdings.panasonic/jp/corporate/technology/technology-journal/pdf/v6702/p0115.pdf), S. Ohuchi, T. Matsui, Y. Kaneko, Material Digitalization for organic-inorganic hybrid materials. *Panasonic Technical Journal* **2021**, 67 (2), 160-165.
@@ -74,6 +76,7 @@ permalink: /about
 - C. Liu, H. Tamaki, [T. Yokoyama](https://arxiv.org/abs/2305.02158), K. Wakasugi, S. Yotsuhashi, M. Kusaba, R. Yoshida, Shotgun crystal structure prediction using machine-learned formation energies. *arXiv.org* **2023**, arXiv:2305.02158.
 
 ### 招待講演  
+- [横山智康](https://ion-jamology.jp/event/1)，「多面体に基づく結晶構造設計」 「イオン渋滞学」第１回領域会議 (2024).  
 - [横山智康](https://kinka.or.jp/compchem/prog/20240226_118prog.pdf)，「多面体に基づく結晶構造の設計」 近畿化学協会コンピュータ化学部会第118回例会 (2024).  
 - [横山智康](https://confit.atlas.jp/guide/event/csj103rd/subject/K401-2am-03/advanced)，「有機－無機ハイブリッド材料におけるデータ駆動型探索技術の確立」 日本化学会第103回春季年会 K401-2am-03 (2023).  
 - [横山智康](https://labtechtalk-event230126.peatix.com/?lang=ja)，「「構造予測のためのデータ生成」が重要なワケ」 LabTech Talk vol.81 (2023).  
@@ -85,6 +88,7 @@ permalink: /about
 - [横山智康](https://doi.org/10.11470/jsapmeeting.2019.1.0_1863)，大内暁，松井太佑，井垣恵美子，笹川崇男，「第一原理計算と遺伝的アルゴリズムによる有機－無機ハイブリッド材料の状態図予測」 第66回応用物理学会春季学術講演会 10p-S423-1 (2019).  
 
 ### 学会発表
+- 市川和秀，大内暁，上野航輝，[横山智康](https://www2.ccs.tsukuba.ac.jp/people/theochem26/assets/pdf/program_list.pdf)，「結晶構造における元素配置最適化問題のイジングマシンによる効率的解法について」 第26回理論化学討論会 P221 (2024).  
 - 市川和秀，大内暁，上野航輝，[横山智康](https://pub.confit.atlas.jp/ja/event/jsap2024s/presentation/23p-22B-13)，「結晶構造の元素配置最適化問題におけるイジングマシンを用いた解法」 第71回応用物理学会春季講演会 23p-22B-13 (2024).  
 - [横山智康](https://nenkai2024.ceramic.or.jp/program)，市川和秀，成瀬卓弥，大浦恒星，金子幸広，「四面体充填構造に基づく超イオン伝導材料の設計」 日本セラミックス協会2024年年会 1P162 (2024).  
 - R. Yoshida, C. Liu, H. Tamaki, [T. Yokoyama](https://confit.atlas.jp/guide/event/mrm2023/subject/A5-O602-03/advanced), K. Wakasugi, S. Yotsuhashi, M. Kusaba, "Non-iterative crystal structure prediction" The 3rd Materials Research Meeting (MRM 2023) A5-O602 (2023).
