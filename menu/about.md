@@ -54,7 +54,7 @@ permalink: /about
 ### 書籍
 - [横山智康](https://andtech.co.jp/books/1eec6711-968c-6054-bb8d-064fb9a95405)，有機－無機ハイブリッド材料のデジタライゼーション マテリアルズインフォマティクス・量子コンピュータおよび自然言語処理と自律型実験システムを活用した次世代材料開発 AndTech，2024，4．
 
-### 論文
+### 論文・解説記事
 - [横山智康](https://doi.org/10.5940/jcrsj.66.60), 市川和秀, 内藤久資, 双対グラフを用いた多面体に基づく結晶構造生成, *日本結晶学会誌*, **2024**, 66 (2), 60-70.
 - [T. Yokoyama](https://pubs.acs.org/doi/10.1021/acs.cgd.3c01492), K. Ichikawa, H. Naito, Crystal Structure Generation Based on Polyhedra using Dual Periodic Graphs. *Cryst. Growth Des.* **2024**,  24 (5), 2168–2178.
 - [横山智康](https://doi.org/10.5796/denkikagaku.23-FE0014), 大内暁, 笹川崇男, 6．有機–無機ハイブリッド材料の結晶構造予測手法の開発, *電気化学*, **2023**, 91 (2), 164-168.
@@ -71,6 +71,8 @@ permalink: /about
 - [T. Yokoyama](https://doi.org/10.7567/APEX.6.061201), F. Oba, A. Seko, H. Hayashi, Y. Nose, I. Tanaka, Theoretical Photovoltaic Conversion Efficiencies of ZnSnP<sub>2</sub>, CdSnP<sub>2</sub>, and Zn<sub>1-X</sub>Cd<sub>x</sub>SnP<sub>2</sub> Alloys. *Appl. Phys. Express* **2013**, 6 (6), 061201. 
 
 ### プレプリント
+- [T. Yokoyama](https://arxiv.org/abs/2407.02838), K. Ichikawa, T. Naruse, K. Ohura, Y. Kaneko, 
+Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.org* **2024**, arXiv:2407.02838. 
 - [T. Yokoyama](https://arxiv.org/abs/2312.09060), K. Ichikawa, H. Naito, Crystal Structure Generation Based on Polyhedra using Dual Periodic Graphs. *arXiv.org* **2023**, arXiv:2312.09060. 
 - K. Ichikawa, S. Ohuchi, K. Ueno, [T. Yokoyama](https://arxiv.org/abs/2305.19625), Accelerating Optimal Elemental Configuration Search in Crystal using Ising Machine. *arXiv.org* **2023**, arXiv:2305.19625. 
 - C. Liu, H. Tamaki, [T. Yokoyama](https://arxiv.org/abs/2305.02158), K. Wakasugi, S. Yotsuhashi, M. Kusaba, R. Yoshida, Shotgun crystal structure prediction using machine-learned formation energies. *arXiv.org* **2023**, arXiv:2305.02158.

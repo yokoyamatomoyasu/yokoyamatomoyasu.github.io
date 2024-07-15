@@ -4,6 +4,10 @@ title:  News
 permalink: /news
 ---
 
+### 2024年7月3日
+プレプリントを公開しました。銀イオン伝導体の構造的共通点を調べたところ、四面体のみから構成される四面体充填構造のフレームワークに持つことを見出し、それに基づいてイオン伝導体をデザインしたという内容です。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">プレプリントを公開しました。<br><br>四面体に基づきイオン伝導体をデザインしてみたという話で、僕が多面体にハマるきっかけとなった研究です。<br><br>複雑に見える結晶構造もシンプルに整理すると意外と知られてないことがまだ眠っているんだと思いました。結晶構造は美しく奥が深い。<a href="https://t.co/ZmGqotP04A">https://t.co/ZmGqotP04A</a> <a href="https://t.co/k4XqzYINFT">pic.twitter.com/k4XqzYINFT</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1812441918468399146?ref_src=twsrc%5Etfw">July 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### 2024年6月12日
 日本結晶学会の会誌「日本結晶学会誌」の特集「結晶学とグラフ」に寄稿しました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">グラフ理論を用いた結晶構造生成についての解説記事を結晶学会誌に寄稿しました。誰でも読めます。<br><br>材料開発に対する僕の想いと、行列演算のみで結晶構造を生成できるという面白さが伝わるよう頑張って書きました。<br><br>数学×材料科学の可能性を感じていただければ嬉しいです。<a href="https://t.co/GxTrauYwQY">https://t.co/GxTrauYwQY</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1802295052838006888?ref_src=twsrc%5Etfw">June 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
