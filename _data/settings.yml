@@ -16,7 +16,7 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github',     link: 'https://www.github.com/yokoyamatomoyasu'}
-- {icon: 'twitter',    link: 'https://twitter.com/yoko_materialDX'}
+- {icon: 'x',    link: 'https://x.com/yoko_materialDX'}
 - {icon: 'linkedin',   link: 'https://www.linkedin.com/in/tomoyasu-yokoyama-a48226223/'}
 - {icon: 'envelope',   link: 'mailto:yokoyama.tomoyasu@jp.panasonic.com'}
 - {icon: 'rss-square', link: '/feed.xml'}
