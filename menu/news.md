@@ -2,6 +2,7 @@
 layout: page
 title:  News
 permalink: /news
+paginate:            5
 ---
 
 ### 2024年7月3日

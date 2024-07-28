@@ -51,14 +51,8 @@ permalink: /about
 - WIRED JAPAN，「[人智を超えた素材開発とその効率化の先にある未来とは](https://wired.jp/2021/11/25/wired-conference-2021-panasonic-ws/)」，2021年11月25日．
 - 日経クロステック，「[次世代太陽電池にわずか1年で革新　「10年に1人」の企業研究者](https://xtech.nikkei.com/atcl/nxt/column/18/01620/052000007/)」，2021年5月24日．
 
-### 書籍
-- [横山智康](https://andtech.co.jp/books/1eec6711-968c-6054-bb8d-064fb9a95405)，有機－無機ハイブリッド材料のデジタライゼーション マテリアルズインフォマティクス・量子コンピュータおよび自然言語処理と自律型実験システムを活用した次世代材料開発 AndTech，2024，4．
-
-### 論文・解説記事
-- [横山智康](https://doi.org/10.5940/jcrsj.66.60), 市川和秀, 内藤久資, 双対グラフを用いた多面体に基づく結晶構造生成, *日本結晶学会誌*, **2024**, 66 (2), 60-70.
+### 論文
 - [T. Yokoyama](https://pubs.acs.org/doi/10.1021/acs.cgd.3c01492), K. Ichikawa, H. Naito, Crystal Structure Generation Based on Polyhedra using Dual Periodic Graphs. *Cryst. Growth Des.* **2024**,  24 (5), 2168–2178.
-- [横山智康](https://doi.org/10.5796/denkikagaku.23-FE0014), 大内暁, 笹川崇男, 6．有機–無機ハイブリッド材料の結晶構造予測手法の開発, *電気化学*, **2023**, 91 (2), 164-168.
-- [T. Yokoyama](https://holdings.panasonic/jp/corporate/technology/technology-journal/pdf/v6702/p0115.pdf), S. Ohuchi, T. Matsui, Y. Kaneko, Material Digitalization for organic-inorganic hybrid materials. *Panasonic Technical Journal* **2021**, 67 (2), 160-165.
 - [T. Yokoyama](https://doi.org/10.1021/acs.jpcc.1c01171), S. Ohuchi, T. Matsui, Y. Kaneko, T. Sasagawa, Low-Cost Computing of the Thermophysical Properties of Organic-Inorganic Halide Perovskites by Density Functional Theory Combined with the Three-Dimensional Reference Interaction Site Method. *J. Phys. Chem. C* **2021**, 125 (12), 6601-6610.
 - [T. Yokoyama](https://doi.org/10.1021/acs.jpclett.1c00087), S. Ohuchi, E. Igaki, T. Matsui, Y. Kaneko, T. Sasagawa, An Efficient Ab Initio Scheme for Discovering Organic-Inorganic Hybrid Materials by Using Genetic Algorithms. *J. Phys. Chem. Lett.* **2021**, 12 (8), 2023-2028.
 - Y. Miyamoto, S. Kusumoto, [T. Yokoyama](https://doi.org/10.1021/acs.jpclett.1c00087), Y. Nishitani, T. Matsui, T. Kouzaki, R. Nishikubo, A. Saeki, Y. Kaneko, High Current Density Sn-Based Perovskite Solar Cells via Enhanced Electron Extraction in Nanoporous Electron Transport Layers. *ACS Appl. Nano Mater.* **2020**, 3 (11), 11650-11657.
@@ -76,6 +70,14 @@ Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.or
 - [T. Yokoyama](https://arxiv.org/abs/2312.09060), K. Ichikawa, H. Naito, Crystal Structure Generation Based on Polyhedra using Dual Periodic Graphs. *arXiv.org* **2023**, arXiv:2312.09060. 
 - K. Ichikawa, S. Ohuchi, K. Ueno, [T. Yokoyama](https://arxiv.org/abs/2305.19625), Accelerating Optimal Elemental Configuration Search in Crystal using Ising Machine. *arXiv.org* **2023**, arXiv:2305.19625. 
 - C. Liu, H. Tamaki, [T. Yokoyama](https://arxiv.org/abs/2305.02158), K. Wakasugi, S. Yotsuhashi, M. Kusaba, R. Yoshida, Shotgun crystal structure prediction using machine-learned formation energies. *arXiv.org* **2023**, arXiv:2305.02158.
+
+### 解説記事
+- [横山智康](https://doi.org/10.5940/jcrsj.66.60), 市川和秀, 内藤久資, 双対グラフを用いた多面体に基づく結晶構造生成, *日本結晶学会誌*, **2024**, 66 (2), 60-70.
+- [横山智康](https://doi.org/10.5796/denkikagaku.23-FE0014), 大内暁, 笹川崇男, 6．有機–無機ハイブリッド材料の結晶構造予測手法の開発, *電気化学*, **2023**, 91 (2), 164-168.
+- [T. Yokoyama](https://holdings.panasonic/jp/corporate/technology/technology-journal/pdf/v6702/p0115.pdf), S. Ohuchi, T. Matsui, Y. Kaneko, Material Digitalization for organic-inorganic hybrid materials. *Panasonic Technical Journal* **2021**, 67 (2), 160-165.
+
+### 書籍
+- [横山智康](https://andtech.co.jp/books/1eec6711-968c-6054-bb8d-064fb9a95405)，有機－無機ハイブリッド材料のデジタライゼーション マテリアルズインフォマティクス・量子コンピュータおよび自然言語処理と自律型実験システムを活用した次世代材料開発 AndTech，2024，4．
 
 ### 招待講演  
 - [横山智康](https://ion-jamology.jp/event/1)，「多面体に基づく結晶構造設計」 イオン渋滞学第１回領域会議 (2024).  
