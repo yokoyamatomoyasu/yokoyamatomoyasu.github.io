@@ -42,7 +42,6 @@ image: patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg
 ### 人生を変える一本の論文との出会い
 
 そうした結晶構造デザインに関する先行研究を調べていたところ、僕の**<font color="Blue">人生を変える</font>**一本の論文に出会いました。
-
 それは2015年にNature Materialsから出版された"Design principles for solid-state lithium superionic conductors"という[コチラ](https://doi.org/10.1038/nmat4369)の論文です。
 この著者のCeder先生はMIブームの発起人にもなったアメリカの超有名な材料科学者です。
 
