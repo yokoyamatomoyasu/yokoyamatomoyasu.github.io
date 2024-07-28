@@ -42,9 +42,9 @@ permalink: /news
 
 
 ### 過去のニュースはコチラ
-- [2023](https://yokoyamatomoyasu.github.io/news-2023.html)
-- [2022](https://yokoyamatomoyasu.github.io/news-2022.html)
-- [2021](https://yokoyamatomoyasu.github.io/news-2021.html)
+- [2023年](https://yokoyamatomoyasu.github.io/news-2023.html)
+- [2022年](https://yokoyamatomoyasu.github.io/news-2022.html)
+- [2021年](https://yokoyamatomoyasu.github.io/news-2021.html)
 
 
 
