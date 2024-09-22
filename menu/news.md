@@ -9,7 +9,7 @@ I時代における計算科学の社会実装を実現する学際ハブ拠点�
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">10月7日に「AI時代における計算科学の社会実装を実現する学際ハブ拠点」のシンポジウムにてお話する機会をいただきました。<br><br>計算科学によるマテリアルデザインについて私の事例も踏まえ紹介できればと思います。<br><br>材料以外の話もあるようです、ご興味あればご参加ください。<a href="https://t.co/SvE7R7t42c">https://t.co/SvE7R7t42c</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1830198918736699714?ref_src=twsrc%5Etfw">September 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2024年9月18日
-第85回応用物理学会秋季講演会にて「グラフ理論による多面体に基づいた結晶構造生成手法の構築」というタイトルで発表します。
+第85回応用物理学会秋季講演会にて「グラフ理論による多面体に基づいた結晶構造生成手法の構築」というタイトルで発表しました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今年も応物で発表します。<br><br>「グラフ理論による多面体に基づいた結晶構造生成手法の構築」というタイトルで、数学を使って結晶構造をつくってみたという話です。<br><br>ご興味あればお越し下さい。<a href="https://t.co/KHEB8ziXGi">https://t.co/KHEB8ziXGi</a> <a href="https://t.co/AlvWfnpiLd">pic.twitter.com/AlvWfnpiLd</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1832735636593524811?ref_src=twsrc%5Etfw">September 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2024年7月3日

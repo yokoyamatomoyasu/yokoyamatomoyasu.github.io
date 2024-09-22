@@ -52,6 +52,7 @@ permalink: /about
 - 日経クロステック，「[次世代太陽電池にわずか1年で革新　「10年に1人」の企業研究者](https://xtech.nikkei.com/atcl/nxt/column/18/01620/052000007/)」，2021年5月24日．
 
 ### 論文
+- K. Ichikawa, S. Ohuchi, K. Ueno, [T. Yokoyama](https://doi.org/10.1103/PhysRevResearch.6.033321), Accelerating Optimal Elemental Configuration Search in Crystal using Ising Machine. *Phys. Rev. Research* *2024*, 6, 033321. 
 - [T. Yokoyama](https://pubs.acs.org/doi/10.1021/acs.cgd.3c01492), K. Ichikawa, H. Naito, Crystal Structure Generation Based on Polyhedra using Dual Periodic Graphs. *Cryst. Growth Des.* **2024**,  24 (5), 2168–2178.
 - [T. Yokoyama](https://doi.org/10.1021/acs.jpcc.1c01171), S. Ohuchi, T. Matsui, Y. Kaneko, T. Sasagawa, Low-Cost Computing of the Thermophysical Properties of Organic-Inorganic Halide Perovskites by Density Functional Theory Combined with the Three-Dimensional Reference Interaction Site Method. *J. Phys. Chem. C* **2021**, 125 (12), 6601-6610.
 - [T. Yokoyama](https://doi.org/10.1021/acs.jpclett.1c00087), S. Ohuchi, E. Igaki, T. Matsui, Y. Kaneko, T. Sasagawa, An Efficient Ab Initio Scheme for Discovering Organic-Inorganic Hybrid Materials by Using Genetic Algorithms. *J. Phys. Chem. Lett.* **2021**, 12 (8), 2023-2028.
@@ -92,6 +93,7 @@ Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.or
 - [横山智康](https://doi.org/10.11470/jsapmeeting.2019.1.0_1863)，大内暁，松井太佑，井垣恵美子，笹川崇男，「第一原理計算と遺伝的アルゴリズムによる有機－無機ハイブリッド材料の状態図予測」 第66回応用物理学会春季学術講演会 10p-S423-1 (2019).  
 
 ### 学会発表
+- [横山智康](https://pub.confit.atlas.jp/ja/event/jsap2024a/presentation/18a-A21-4)，市川和秀，成瀬卓弥，大浦恒星，金子幸広，「グラフ理論による多面体に基づいた結晶構造生成手法の構築」 第85回応用物理学会秋季講演会 18a-A21-4 (2024).  
 - 市川和秀，大内暁，上野航輝，[横山智康](https://www2.ccs.tsukuba.ac.jp/people/theochem26/assets/pdf/program_list.pdf)，「結晶構造における元素配置最適化問題のイジングマシンによる効率的解法について」 第26回理論化学討論会 P221 (2024).  
 - 市川和秀，大内暁，上野航輝，[横山智康](https://pub.confit.atlas.jp/ja/event/jsap2024s/presentation/23p-22B-13)，「結晶構造の元素配置最適化問題におけるイジングマシンを用いた解法」 第71回応用物理学会春季講演会 23p-22B-13 (2024).  
 - [横山智康](https://nenkai2024.ceramic.or.jp/program)，市川和秀，成瀬卓弥，大浦恒星，金子幸広，「四面体充填構造に基づく超イオン伝導材料の設計」 日本セラミックス協会2024年年会 1P162 (2024).  
