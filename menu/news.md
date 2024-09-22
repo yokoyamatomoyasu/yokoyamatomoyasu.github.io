@@ -5,8 +5,12 @@ permalink: /news
 ---
 
 ### 2024年10月7日
-I時代における計算科学の社会実装を実現する学際ハブ拠点」第2回シンポジウムにて招待講演を行います。
+AI時代における計算科学の社会実装を実現する学際ハブ拠点」第2回シンポジウムにて招待講演を行います。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">10月7日に「AI時代における計算科学の社会実装を実現する学際ハブ拠点」のシンポジウムにてお話する機会をいただきました。<br><br>計算科学によるマテリアルデザインについて私の事例も踏まえ紹介できればと思います。<br><br>材料以外の話もあるようです、ご興味あればご参加ください。<a href="https://t.co/SvE7R7t42c">https://t.co/SvE7R7t42c</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1830198918736699714?ref_src=twsrc%5Etfw">September 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 2024年9月20日
+共著論文がPhysical  Review Researchから公開されました。結晶構造の組成最適化をイジングマシンを使うことで効率的に解くことができたという内容です。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">共著の論文がアクセプト&amp;公開されました。<br><br>結晶構造の組成最適化をイジングマシンを使うことで効率的に解くことができた、という内容です。<br><br>1万原子以上のでかい構造でも4分くらいでちゃんと最適化できるのが面白ポイントです。<br><br>オープンアクセスなので是非ご覧ください。<a href="https://t.co/6kEjN7wQDr">https://t.co/6kEjN7wQDr</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1837446683656868251?ref_src=twsrc%5Etfw">September 21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2024年9月18日
 第85回応用物理学会秋季講演会にて「グラフ理論による多面体に基づいた結晶構造生成手法の構築」というタイトルで発表しました。
