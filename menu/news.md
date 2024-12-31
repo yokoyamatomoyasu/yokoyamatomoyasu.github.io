@@ -4,12 +4,36 @@ title:  News
 permalink: /news
 ---
 
+### 2025年1月24日
+ICSDオンラインセミナー2025にて「多面体に基づく結晶構造デザイン」というタイトルで講演予定です。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">1月24日にICSDオンラインセミナーにてお話する機会をいただきました。<br><br>ICSDには学生の時からずっとお世話になっておりますので、ファンとしての思い出もお話できたらと思います。<a href="https://t.co/G8dHKMU6ID">https://t.co/G8dHKMU6ID</a> <a href="https://t.co/NyezaBScNj">https://t.co/NyezaBScNj</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1867567777822986572?ref_src=twsrc%5Etfw">December 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 2025年1月16日
+KISTECさんが主催するオンライン講座「MI×データ科学」コースの計算材料科学×データ科学の講師を務めます。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">KISTECさんが主催するオンライン講座「MI×データ科学」コースの計算材料科学×データ科学の講師を担当させて頂くことになりました。<br><br>講座自体は4日間あり、自律探索や生成AIや量子技術といった最近話題の話も聞けるそうです。申し込み締切は12月20日とのことです。<a href="https://t.co/KB4F6I19qX">https://t.co/KB4F6I19qX</a> <a href="https://t.co/5J5qjWlOGB">pic.twitter.com/5J5qjWlOGB</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1863176214544089279?ref_src=twsrc%5Etfw">December 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 2024年12月20日
+共著論文がnpj Computational Materialsから公開されました。対称性を考慮し機械学習による結晶構造予測により、これまで予測が難しかった複雑な結晶構造を予測できたという内容です。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">機械学習による結晶構造予測に関する共著論文が公開されました。<br><br>結晶構造っぽさには対称性が重要との考えから、機械学習により対称性を予測することで、複雑な結晶構造でも従来と比べ高精度に予測できたという内容です。<br><br>統数研吉田先生との共同研究の成果になります。<a href="https://t.co/gfE5Kw5kJ8">https://t.co/gfE5Kw5kJ8</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1872598307408601375?ref_src=twsrc%5Etfw">December 27, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 2024年12月4日
+化学電池材料研究会第53回講演会にて「超イオン伝導体のための多面体に基づく結晶構造のデザイン」というタイトルで招待講演を行いました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">12月4日に化学電池材料研究会の講演会にてお話する機会をいただきました。<br><br>多面体からイオン伝導体をデザインする話を紹介できればと思っています。<br><br>ご興味あればご参加ください。<a href="https://t.co/Mv9oNyXSSJ">https://t.co/Mv9oNyXSSJ</a> <a href="https://t.co/lHmuESSUId">pic.twitter.com/lHmuESSUId</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1844694442977948050?ref_src=twsrc%5Etfw">October 11, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 2024年11月22日
+第44回電子材料研究討論会にて「多面体に基づいた結晶構造のデザイン」というタイトルで招待講演を行いました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">11月22日に第44回電子材料研究討論会にてお話する機会をいただきました。<br><br>多面体からの結晶構造デザインに関し、どういう想いでこの研究を始めたかにも触れながら紹介できればと思います。結晶構造の面白さが伝われば嬉しいです。<br><br>ご興味あればご参加ください。<a href="https://t.co/KgFo4Npcle">https://t.co/KgFo4Npcle</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1850130256331784247?ref_src=twsrc%5Etfw">October 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 2024年11月8日
+2024年度日本結晶学会年次大会にて「双対配位多面体解析による四面体充填構造の同定」というタイトルで発表しました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">11月8日に結晶学会年会で「双対配位多面体解析による四面体充填構造の同定」というタイトルで発表します。<br><br>結晶構造データベースをよくよくみてみると、四面体だけでできていると知られていない構造がまだ結構あったよという話です。<br><br>ご興味ありましたらお越しください。<a href="https://t.co/3sVKXI1w5k">https://t.co/3sVKXI1w5k</a> <a href="https://t.co/iGmQSgFlLN">pic.twitter.com/iGmQSgFlLN</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1842883752864972880?ref_src=twsrc%5Etfw">October 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### 2024年10月7日
-AI時代における計算科学の社会実装を実現する学際ハブ拠点」第2回シンポジウムにて招待講演を行います。
+「AI時代における計算科学の社会実装を実現する学際ハブ拠点」第2回シンポジウムにて「計算材料科学に基づくマテリアルデザイン」というタイトルで招待講演を行いました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">10月7日に「AI時代における計算科学の社会実装を実現する学際ハブ拠点」のシンポジウムにてお話する機会をいただきました。<br><br>計算科学によるマテリアルデザインについて私の事例も踏まえ紹介できればと思います。<br><br>材料以外の話もあるようです、ご興味あればご参加ください。<a href="https://t.co/SvE7R7t42c">https://t.co/SvE7R7t42c</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1830198918736699714?ref_src=twsrc%5Etfw">September 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2024年9月20日
-共著論文がPhysical  Review Researchから公開されました。結晶構造の組成最適化をイジングマシンを使うことで効率的に解くことができたという内容です。
+共著論文がPhysical Review Researchから公開されました。結晶構造の組成最適化をイジングマシンを使うことで効率的に解くことができたという内容です。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">共著の論文がアクセプト&amp;公開されました。<br><br>結晶構造の組成最適化をイジングマシンを使うことで効率的に解くことができた、という内容です。<br><br>1万原子以上のでかい構造でも4分くらいでちゃんと最適化できるのが面白ポイントです。<br><br>オープンアクセスなので是非ご覧ください。<a href="https://t.co/6kEjN7wQDr">https://t.co/6kEjN7wQDr</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1837446683656868251?ref_src=twsrc%5Etfw">September 21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2024年9月18日

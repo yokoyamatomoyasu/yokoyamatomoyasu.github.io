@@ -52,6 +52,7 @@ permalink: /about
 - 日経クロステック，「[次世代太陽電池にわずか1年で革新　「10年に1人」の企業研究者](https://xtech.nikkei.com/atcl/nxt/column/18/01620/052000007/)」，2021年5月24日．
 
 ### 論文
+- C. Liu, H. Tamaki, [T. Yokoyama](https://www.nature.com/articles/s41524-024-01471-8), K. Wakasugi, S. Yotsuhashi, M. Kusaba, R. Yoshida, Shotgun crystal structure prediction using machine-learned formation energies. *npj Comp. Mater.* **2024**, 10 (1) 298.
 - K. Ichikawa, S. Ohuchi, K. Ueno, [T. Yokoyama](https://doi.org/10.1103/PhysRevResearch.6.033321), Accelerating Optimal Elemental Configuration Search in Crystal using Ising Machine. *Phys. Rev. Research* **2024**, 6, 033321. 
 - [T. Yokoyama](https://pubs.acs.org/doi/10.1021/acs.cgd.3c01492), K. Ichikawa, H. Naito, Crystal Structure Generation Based on Polyhedra using Dual Periodic Graphs. *Cryst. Growth Des.* **2024**,  24 (5), 2168–2178.
 - [T. Yokoyama](https://doi.org/10.1021/acs.jpcc.1c01171), S. Ohuchi, T. Matsui, Y. Kaneko, T. Sasagawa, Low-Cost Computing of the Thermophysical Properties of Organic-Inorganic Halide Perovskites by Density Functional Theory Combined with the Three-Dimensional Reference Interaction Site Method. *J. Phys. Chem. C* **2021**, 125 (12), 6601-6610.
@@ -81,6 +82,9 @@ Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.or
 - [横山智康](https://andtech.co.jp/books/1eec6711-968c-6054-bb8d-064fb9a95405)，有機－無機ハイブリッド材料のデジタライゼーション マテリアルズインフォマティクス・量子コンピュータおよび自然言語処理と自律型実験システムを活用した次世代材料開発 AndTech，2024，4．
 
 ### 招待講演  
+- [横山智康](http://www.yabuuchi-lab.ynu.ac.jp/kagakudenchi/53th%20lecture.html)，「超イオン伝導体のための多面体に基づく結晶構造のデザイン」 化学電池材料研究会第53回講演会 (2024).
+- [横山智康](https://www.ceramic.or.jp/bdenshi/images/44th_program.pdf)，「多面体に基づいた結晶構造のデザイン」 第44回電子材料研究討論 (2024).
+- [横山智康](https://www.ccs.tsukuba.ac.jp/ai-sympo-2nd/)，「計算材料科学に基づくマテリアルデザイン」 AI 時代における計算科学の社会実装を実現する学際ハブ拠点第2回シンポジウム (2024).
 - [横山智康](https://ion-jamology.jp/event/1)，「多面体に基づく結晶構造設計」 イオン渋滞学第１回領域会議 (2024).  
 - [横山智康](https://kinka.or.jp/compchem/prog/20240226_118prog.pdf)，「多面体に基づく結晶構造の設計」 近畿化学協会コンピュータ化学部会第118回例会 (2024).  
 - [横山智康](https://confit.atlas.jp/guide/event/csj103rd/subject/K401-2am-03/advanced)，「有機－無機ハイブリッド材料におけるデータ駆動型探索技術の確立」 日本化学会第103回春季年会 K401-2am-03 (2023).  
@@ -93,12 +97,13 @@ Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.or
 - [横山智康](https://doi.org/10.11470/jsapmeeting.2019.1.0_1863)，大内暁，松井太佑，井垣恵美子，笹川崇男，「第一原理計算と遺伝的アルゴリズムによる有機－無機ハイブリッド材料の状態図予測」 第66回応用物理学会春季学術講演会 10p-S423-1 (2019).  
 
 ### 学会発表
+- [横山智康](https://nusr.nagoya-u.ac.jp/CrSJ2024/?page_id=1691)，市川和秀，「双対配位多面体解析による四面体充填構造の同定」 2024年度日本結晶学会年次大会 OA-I-08 (2024).  
 - [横山智康](https://pub.confit.atlas.jp/ja/event/jsap2024a/presentation/18a-A21-4)，市川和秀，内藤久資，「グラフ理論による多面体に基づいた結晶構造生成手法の構築」 第85回応用物理学会秋季講演会 18a-A21-4 (2024).  
 - 市川和秀，大内暁，上野航輝，[横山智康](https://www2.ccs.tsukuba.ac.jp/people/theochem26/assets/pdf/program_list.pdf)，「結晶構造における元素配置最適化問題のイジングマシンによる効率的解法について」 第26回理論化学討論会 P221 (2024).  
 - 市川和秀，大内暁，上野航輝，[横山智康](https://pub.confit.atlas.jp/ja/event/jsap2024s/presentation/23p-22B-13)，「結晶構造の元素配置最適化問題におけるイジングマシンを用いた解法」 第71回応用物理学会春季講演会 23p-22B-13 (2024).  
 - [横山智康](https://nenkai2024.ceramic.or.jp/program)，市川和秀，成瀬卓弥，大浦恒星，金子幸広，「四面体充填構造に基づく超イオン伝導材料の設計」 日本セラミックス協会2024年年会 1P162 (2024).  
 - R. Yoshida, C. Liu, H. Tamaki, [T. Yokoyama](https://confit.atlas.jp/guide/event/mrm2023/subject/A5-O602-03/advanced), K. Wakasugi, S. Yotsuhashi, M. Kusaba, "Non-iterative crystal structure prediction" The 3rd Materials Research Meeting (MRM 2023) A5-O602 (2023).
-- 劉暢，玉置洋正，[横山智康](https://www.mrs-j.org/meeting2023/jp/prg/programList.php?sid=A&mode=1&wday=14)，若杉健介，四橋聡史，草葉穫，吉田亮，「Non-iterative crystal structure prediction」 第31回日本MRS年次大会 A-O15-008 (2023).  
+- 劉暢，玉置洋正，[横山智康](https://www.mrs-j.org/meeting2023/jp/prg/programList.php?sid=A&mode=1&wday=14)，若杉健介，四橋聡史，草場穫，吉田亮，「Non-iterative crystal structure prediction」 第31回日本MRS年次大会 A-O15-008 (2023).  
 - [横山智康](https://yamaguchi2023.crsj.jp/program.html)，市川和秀，内藤久資，「双対グラフを用いた配位多面体に基づく結晶構造生成」 2023年度日本結晶学会年次大会 OA-III-08 (2023).  
 - [横山智康](https://pub.confit.atlas.jp/ja/event/jsap2023a/presentation/19p-C601-3)，市川和秀，成瀬卓弥，大浦恒星，金子幸広，「半教師あり学習による超イオン伝導体の構造的設計指針の導出」 第84回応用物理学会秋季講演会 19p-C601 (2023).  
 - [横山智康](https://w4.gakkai-web.net/jps_search/2021au/data/html/program07.html)，大内暁，松井太佑，金子幸広，笹川崇男，「有機‐無機ハイブリッドペロブスカイト材料のDFT/3D-RISM法による熱物性および相転移予測」 日本物理学会2021年秋季大会 23pG1-5 (2021).  
