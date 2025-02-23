@@ -81,7 +81,11 @@ Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.or
 ### 書籍
 - [横山智康](https://andtech.co.jp/books/1eec6711-968c-6054-bb8d-064fb9a95405)，有機－無機ハイブリッド材料のデジタライゼーション マテリアルズインフォマティクス・量子コンピュータおよび自然言語処理と自律型実験システムを活用した次世代材料開発 AndTech，2024，4．
 
-### 招待講演  
+
+### 招待講演・セミナー講師
+- [横山智康](https://www.issp.u-tokyo.ac.jp/maincontents/seminar/all2.html?ptype=seminar&pid=25996)，「多面体に基づく結晶構造デザイン」 東京大学物性研究所理論セミナー (2025).
+- [横山智康](https://www.jaici.or.jp/schedule/2025/2025-1-24/)，「多面体に基づく結晶構造デザイン」 ICSDオンラインセミナー2025 (2025).
+- [横山智康](https://www.kistec.jp/learn/mibydatascience/)，「計算材料科学×データ科学」 MI×データ科学コース (2025).
 - [横山智康](http://www.yabuuchi-lab.ynu.ac.jp/kagakudenchi/53th%20lecture.html)，「超イオン伝導体のための多面体に基づく結晶構造のデザイン」 化学電池材料研究会第53回講演会 (2024).
 - [横山智康](https://www.ceramic.or.jp/bdenshi/images/44th_program.pdf)，「多面体に基づいた結晶構造のデザイン」 第44回電子材料研究討論 (2024).
 - [横山智康](https://www.ccs.tsukuba.ac.jp/ai-sympo-2nd/)，「計算材料科学に基づくマテリアルデザイン」 AI 時代における計算科学の社会実装を実現する学際ハブ拠点第2回シンポジウム (2024).
