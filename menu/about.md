@@ -9,7 +9,7 @@ permalink: /about
 
 
 ### 所属  
-パナソニック ホールディングス株式会社 テクノロジー本部 
+パナソニック ホールディングス株式会社 GX本部 
 
 ### 役職・資格
 リードリサーチャー　博士（工学）
@@ -83,6 +83,7 @@ Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.or
 
 
 ### 招待講演・セミナー講師
+- [横山智康](https://pub.confit.atlas.jp/ja/event/csj105th/presentation/E_F401-4pm-05)，「金属結晶に基づいたイオン結晶の多元素設計」 日本化学会第105回春季年会 [E]F401-4pm−05 (2025).  
 - [横山智康](https://www.issp.u-tokyo.ac.jp/maincontents/seminar/all2.html?ptype=seminar&pid=25996)，「多面体に基づく結晶構造デザイン」 東京大学物性研究所理論セミナー (2025).
 - [横山智康](https://www.jaici.or.jp/schedule/2025/2025-1-24/)，「多面体に基づく結晶構造デザイン」 ICSDオンラインセミナー2025 (2025).
 - [横山智康](https://www.kistec.jp/learn/mibydatascience/)，「計算材料科学×データ科学」 MI×データ科学コース (2025).
@@ -101,6 +102,7 @@ Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.or
 - [横山智康](https://doi.org/10.11470/jsapmeeting.2019.1.0_1863)，大内暁，松井太佑，井垣恵美子，笹川崇男，「第一原理計算と遺伝的アルゴリズムによる有機－無機ハイブリッド材料の状態図予測」 第66回応用物理学会春季学術講演会 10p-S423-1 (2019).  
 
 ### 学会発表
+- [横山智康](https://nenkai2024.ceramic.or.jp/program)，市川和秀，内藤久資，「四面体充填構造に基づく超イオン伝導材料の設計」 日本セラミックス協会2024年年会 1P162 (2024). 
 - [横山智康](https://nusr.nagoya-u.ac.jp/CrSJ2024/?page_id=1691)，市川和秀，「双対配位多面体解析による四面体充填構造の同定」 2024年度日本結晶学会年次大会 OA-I-08 (2024).  
 - [横山智康](https://pub.confit.atlas.jp/ja/event/jsap2024a/presentation/18a-A21-4)，市川和秀，内藤久資，「グラフ理論による多面体に基づいた結晶構造生成手法の構築」 第85回応用物理学会秋季講演会 18a-A21-4 (2024).  
 - 市川和秀，大内暁，上野航輝，[横山智康](https://www2.ccs.tsukuba.ac.jp/people/theochem26/assets/pdf/program_list.pdf)，「結晶構造における元素配置最適化問題のイジングマシンによる効率的解法について」 第26回理論化学討論会 P221 (2024).  
