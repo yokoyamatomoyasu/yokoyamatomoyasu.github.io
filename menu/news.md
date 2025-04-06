@@ -10,6 +10,10 @@ permalink: /news
 日本化学会第105回春季年会にて「金属結晶に基づいたイオン結晶の多元素設計」というタイトルで招待講演を行いました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">3月29日に日本化学会の年会でお話する機会をいただきました。<br><br>金属結晶を基に新たなイオン結晶をつくる構造生成手法について発表する予定です。<br><br>最終日午後の発表ですが、ご興味あれば足をお運びください。<a href="https://t.co/d2CjnKnsWG">https://t.co/d2CjnKnsWG</a> <a href="https://t.co/g7dRrsM97m">pic.twitter.com/g7dRrsM97m</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1883469934732206324?ref_src=twsrc%5Etfw">January 26, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### 2025年3月12日
+共著者のプレプリントが公開されました。量子計算最適化により固溶体の構造予測に成功したという内容です。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">共著のプレプリントが公開されました。<br><br>量子計算による最適化アルゴリズムQAOAを使って結晶構造の組成最適化が効率的にできたという内容です。阪大藤井先生との共同研究の成果です。<br><br>量子技術の材料応用はできることがまだまだありそうで楽しみです。<a href="https://t.co/FGfn6OLKxC">https://t.co/FGfn6OLKxC</a> <a href="https://t.co/IGkDNQ89OV">pic.twitter.com/IGkDNQ89OV</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1900502177967112297?ref_src=twsrc%5Etfw">March 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### 2025年3月5日
 日本セラミックス協会2025年年会にて「双対グラフを用いた四面体のみからなる結晶構造の生成」というタイトルでポスター発表を行いました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">3月5日にセラミックス協会年会にて「双対グラフを用いた四面体のみからなる結晶構造の生成」というタイトルでポスター発表します。<br><br>四面体のみから結晶構造を生成してみたという話で、手法の課題についても説明予定です。<br><br>ご参加の方はぜひご議論のほどお願いいたします。<a href="https://t.co/VZFjIcBOnF">https://t.co/VZFjIcBOnF</a> <a href="https://t.co/DvpennTgMN">pic.twitter.com/DvpennTgMN</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1893616797963948035?ref_src=twsrc%5Etfw">February 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

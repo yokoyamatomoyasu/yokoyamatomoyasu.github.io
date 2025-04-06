@@ -67,6 +67,7 @@ permalink: /about
 - [T. Yokoyama](https://doi.org/10.7567/APEX.6.061201), F. Oba, A. Seko, H. Hayashi, Y. Nose, I. Tanaka, Theoretical Photovoltaic Conversion Efficiencies of ZnSnP<sub>2</sub>, CdSnP<sub>2</sub>, and Zn<sub>1-X</sub>Cd<sub>x</sub>SnP<sub>2</sub> Alloys. *Appl. Phys. Express* **2013**, 6 (6), 061201. 
 
 ### プレプリント
+- K. Ichikawa, G. Hayashi, S. Ohuchi, [T. Yokoyama](https://arxiv.org/abs/2503.09356), K. Okada, K. Fujii, Optimal elemental configuration search in crystal using quantum approximate optimization algorithm. *arXiv.org* **2025**, arXiv:2503.09356. 
 - [T. Yokoyama](https://arxiv.org/abs/2407.02838), K. Ichikawa, T. Naruse, K. Ohura, Y. Kaneko, 
 Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.org* **2024**, arXiv:2407.02838. 
 - [T. Yokoyama](https://arxiv.org/abs/2312.09060), K. Ichikawa, H. Naito, Crystal Structure Generation Based on Polyhedra using Dual Periodic Graphs. *arXiv.org* **2023**, arXiv:2312.09060. 
