@@ -18,6 +18,10 @@ permalink: /news
 日本セラミックス協会2025年年会にて「双対グラフを用いた四面体のみからなる結晶構造の生成」というタイトルでポスター発表を行いました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">3月5日にセラミックス協会年会にて「双対グラフを用いた四面体のみからなる結晶構造の生成」というタイトルでポスター発表します。<br><br>四面体のみから結晶構造を生成してみたという話で、手法の課題についても説明予定です。<br><br>ご参加の方はぜひご議論のほどお願いいたします。<a href="https://t.co/VZFjIcBOnF">https://t.co/VZFjIcBOnF</a> <a href="https://t.co/DvpennTgMN">pic.twitter.com/DvpennTgMN</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1893616797963948035?ref_src=twsrc%5Etfw">February 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### 2025年3月4日
+統計数理研究所の吉田先生との共同研究の成果でプレスリリースを行いました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">統数研との共同研究成果でプレスリリースを行いました。ちょっと大袈裟ですが、自分が関わった仕事でプレスリリースは初めてなので嬉しいです。<br><br>結晶学的知識を学習したAI ～結晶構造予測タスクで世界最高性能に到達～<a href="https://t.co/GaePjXFFUb">https://t.co/GaePjXFFUb</a> <a href="https://t.co/52Zf7A070K">pic.twitter.com/52Zf7A070K</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1897240686191427813?ref_src=twsrc%5Etfw">March 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### 2025年2月7日
 東京大学物性研究所が主催する理論セミナーにて「多面体に基づく結晶構造デザイン」というタイトルで講演を行いました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">2月7日に東大物性研の理論セミナーで講演する機会をいただきました。<br><br>多面体の視点から結晶構造を制御しイオン伝導体をデザインしてみた、という内容を話す予定です。<a href="https://t.co/VzbvKYm1MF">https://t.co/VzbvKYm1MF</a> <a href="https://t.co/ZtvnKePluz">pic.twitter.com/ZtvnKePluz</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1880933220679651655?ref_src=twsrc%5Etfw">January 19, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

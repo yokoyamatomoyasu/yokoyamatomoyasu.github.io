@@ -30,8 +30,8 @@ permalink: /about
 - 2018年度パナソニックイノベーション推進部門知財若手奨励賞
 
 ### 委員など
-- 2023-    　セラミックス協会 電子材料部会 幹事
 - 2024-    　セラミックス協会 協会誌編集委員会 委員
+- 2023-    　セラミックス協会 電子材料部会 幹事
 
 ### SNS 
 - [X](https://twitter.com/yoko_materialDX)
@@ -44,6 +44,7 @@ permalink: /about
 
 
 ### メディア
+- MONOist，「[パナソニックHDと統計数理研、材料から結晶構造を予測する機械学習モデルを開発](https://monoist.itmedia.co.jp/mn/articles/2503/21/news095.html)」，2025年3月21日．
 - 日経BP，「[日経テクノロジー展望2023 世界を変える100の技術](https://www.amazon.co.jp/dp/4296001183#)」，2022年9月15日．
 - LabBase，「[化学で世界にインパクトを！ パナソニックグループ×コーセー研究者が語る「イノベーションと情熱」](https://compass.labbase.jp/articles/854)」，2022年5月11日．
 - Panasonic Newsroom Japan，「[「個のチカラ」で会社を変える～Panasonic Young Leaders](https://news.panasonic.com/jp/stories/2022/98060.html)」，2022年3月28日．
@@ -82,6 +83,8 @@ Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.or
 ### 書籍
 - [横山智康](https://andtech.co.jp/books/1eec6711-968c-6054-bb8d-064fb9a95405)，有機－無機ハイブリッド材料のデジタライゼーション マテリアルズインフォマティクス・量子コンピュータおよび自然言語処理と自律型実験システムを活用した次世代材料開発 AndTech，2024，4．
 
+###　プレスリリース
+- [https://news.panasonic.com/jp/topics/206135]
 
 ### 招待講演・セミナー講師
 - [横山智康](https://pub.confit.atlas.jp/ja/event/csj105th/presentation/E_F401-4pm-05)，「金属結晶に基づいたイオン結晶の多元素設計」 日本化学会第105回春季年会 [E]F401-4pm−05 (2025).  
