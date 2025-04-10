@@ -84,8 +84,6 @@ Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.or
 ### 書籍
 - [横山智康](https://andtech.co.jp/books/1eec6711-968c-6054-bb8d-064fb9a95405)，有機－無機ハイブリッド材料のデジタライゼーション マテリアルズインフォマティクス・量子コンピュータおよび自然言語処理と自律型実験システムを活用した次世代材料開発 AndTech，2024，4．
 
-###　プレスリリース
-- [https://news.panasonic.com/jp/topics/206135]
 
 ### 招待講演・セミナー講師
 - [横山智康](https://pub.confit.atlas.jp/ja/event/csj105th/presentation/E_F401-4pm-05)，「金属結晶に基づいたイオン結晶の多元素設計」 日本化学会第105回春季年会 [E]F401-4pm−05 (2025).  
