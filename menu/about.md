@@ -44,6 +44,7 @@ permalink: /about
 
 
 ### メディア
+- miLab，「[材料開発における夢の技術、結晶構造予測の現在地](https://mi-6.co.jp/milab/article/e0005/)」，2025年4月10日．
 - MONOist，「[パナソニックHDと統計数理研、材料から結晶構造を予測する機械学習モデルを開発](https://monoist.itmedia.co.jp/mn/articles/2503/21/news095.html)」，2025年3月21日．
 - 日経BP，「[日経テクノロジー展望2023 世界を変える100の技術](https://www.amazon.co.jp/dp/4296001183#)」，2022年9月15日．
 - LabBase，「[化学で世界にインパクトを！ パナソニックグループ×コーセー研究者が語る「イノベーションと情熱」](https://compass.labbase.jp/articles/854)」，2022年5月11日．
