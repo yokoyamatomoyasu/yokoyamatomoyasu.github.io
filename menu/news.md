@@ -4,6 +4,23 @@ title:  News
 permalink: /news
 ---
 
+### 2025年7月30日
+触媒学会若手会が主催する第45回夏の研修会にて招待講演を行いました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">7月30日に触媒学会若手会が主催する第45回夏の研修会にてお話する機会をいただきました。<br><br>材料科学の知見を活用した結晶構造予測の研究について紹介できればと思います。<br><br>触媒に関しては素人なので私も勉強してきたいと思います。<a href="https://t.co/Dp1ZVQWLbU">https://t.co/Dp1ZVQWLbU</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1926594092798263403?ref_src=twsrc%5Etfw">May 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 2025年7月21日
+理論化学若手セミナーにて招待講演予定です。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">7月21日に理論化学若手セミナーにてお話する機会をいただきました。<br><br>マテリアルズインフォマティクスの最新動向だけでなく、企業での研究活動、社会人博士課程の経験についても話す予定です。<br><br>ハイブリッド開催とのことです、ご興味あればぜひ。<a href="https://t.co/1giuOKncPj">https://t.co/1giuOKncPj</a> <a href="https://t.co/06fsyEwZzL">pic.twitter.com/06fsyEwZzL</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1929130814563922303?ref_src=twsrc%5Etfw">June 1, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### 2025年6月16日
+数理情報系研究集会にて「双対グラフを用いた多面体に基づく結晶構造生成」というタイトルで招待講演を行いました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">6月16日に京大で開催される数理情報系研究集会にてお話する機会をいただきました。グラフ理論を使った結晶構造生成の話をする予定です。<br><br>数学の専門家に相談できる貴重な機会ですので、普段とは違った視点からのご意見を楽しみに発表してきたいと思います。<a href="https://t.co/5gYD3LVx8c">https://t.co/5gYD3LVx8c</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1926594090759823542?ref_src=twsrc%5Etfw">May 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### 2025年6月13日
+製造業AI普及協会が主催するプロセスインフォマティクスセミナーにて「データ駆動型アプローチによる計算材料科学の進化」というタイトルで招待講演を行いました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">下記のセミナーにて「データ駆動型アプローチによる計算材料科学の進化」というタイトルで講演する機会をいただきました。<br><br>私は最近の計算材料科学の動向などをお話できればと思います。いろいろな分野の話が一度に聞けるみたいです。<br><br>オンライン開催とのことです、ご興味あればぜひ。 <a href="https://t.co/8pBVTyu4OC">https://t.co/8pBVTyu4OC</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1924057376748888413?ref_src=twsrc%5Etfw">May 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ### 2025年3月29日
@@ -37,10 +54,10 @@ KISTECさんが主催するオンライン講座「MI×データ科学」コー�
 
 
 ### 過去のニュースはコチラ
-- [2024年](https://yokoyamatomoyasu.github.io/news-2024.html)
-- [2023年](https://yokoyamatomoyasu.github.io/news-2023.html)
-- [2022年](https://yokoyamatomoyasu.github.io/news-2022.html)
-- [2021年](https://yokoyamatomoyasu.github.io/news-2021.html)
+- [2024年](https://yokoyamatomoyasu.github.io/menu/news-2024.html)
+- [2023年](https://yokoyamatomoyasu.github.io/menu/news-2023.html)
+- [2022年](https://yokoyamatomoyasu.github.io/menu/news-2022.html)
+- [2021年](https://yokoyamatomoyasu.github.io/menu/news-2021.html)
 
 
 

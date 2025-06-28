@@ -24,14 +24,15 @@ permalink: /about
 - 2019-2022　東京工業大学 物質理工学院 材料系 社会人博士課程 
 
 ### 受賞歴  
+- [日本セラミックス協会2025年年会優秀ポスター発表賞](https://www.ceramic.or.jp/act/award/poster_list.html)    
 - [第30回日本MRS年次大会奨励賞](https://www.mrs-j.org/meeting2020/jp/prg/awardList.php)    
 - 2020年度パナソニックイノベーション推進部門個人事業部長賞
 - [第45回（2018年秋季）応用物理学会講演奨励賞](https://www.jsap.or.jp/young-scientist-presentation-award/recipients45)
 - 2018年度パナソニックイノベーション推進部門知財若手奨励賞
 
 ### 委員など
-- 2024-    　セラミックス協会 協会誌編集委員会 委員
-- 2023-    　セラミックス協会 電子材料部会 幹事
+- 2024-    　日本セラミックス協会 協会誌編集委員会 委員
+- 2023-    　日本セラミックス協会 電子材料部会 幹事
 
 ### SNS 
 - [X](https://twitter.com/yoko_materialDX)
@@ -86,6 +87,8 @@ Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.or
 
 
 ### 招待講演・セミナー講師
+- [横山智康](https://sites.google.com/view/math-info-mini-workshop/home/202506)，「双対グラフを用いた多面体に基づく結晶構造生成」 数理情報系研究集会 (2025).  
+- [横山智康](https://peatix.com/group/16363871/events)，「データ駆動型アプローチによる計算材料科学の進化」 プロセスインフォマティクスセミナー (2025).  
 - [横山智康](https://pub.confit.atlas.jp/ja/event/csj105th/presentation/E_F401-4pm-05)，「金属結晶に基づいたイオン結晶の多元素設計」 日本化学会第105回春季年会 [E]F401-4pm−05 (2025).  
 - [横山智康](https://www.issp.u-tokyo.ac.jp/maincontents/seminar/all2.html?ptype=seminar&pid=25996)，「多面体に基づく結晶構造デザイン」 東京大学物性研究所理論セミナー (2025).
 - [横山智康](https://www.jaici.or.jp/schedule/2025/2025-1-24/)，「多面体に基づく結晶構造デザイン」 ICSDオンラインセミナー2025 (2025).
