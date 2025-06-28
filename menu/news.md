@@ -5,7 +5,7 @@ permalink: /news
 ---
 
 ### 2025年7月30日
-触媒学会若手会が主催する第45回夏の研修会にて招待講演を行いました。
+触媒学会若手会が主催する第45回夏の研修会にて招待講演予定です。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">7月30日に触媒学会若手会が主催する第45回夏の研修会にてお話する機会をいただきました。<br><br>材料科学の知見を活用した結晶構造予測の研究について紹介できればと思います。<br><br>触媒に関しては素人なので私も勉強してきたいと思います。<a href="https://t.co/Dp1ZVQWLbU">https://t.co/Dp1ZVQWLbU</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1926594092798263403?ref_src=twsrc%5Etfw">May 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2025年7月21日
@@ -54,10 +54,10 @@ KISTECさんが主催するオンライン講座「MI×データ科学」コー�
 
 
 ### 過去のニュースはコチラ
-- [2024年](https://yokoyamatomoyasu.github.io/menu/news-2024.html)
-- [2023年](https://yokoyamatomoyasu.github.io/menu/news-2023.html)
-- [2022年](https://yokoyamatomoyasu.github.io/menu/news-2022.html)
-- [2021年](https://yokoyamatomoyasu.github.io/menu/news-2021.html)
+- [2024年](./news-2024.md)
+- [2023年](./news-2023.md)
+- [2022年](./news-2022.md)
+- [2021年](./news-2021.md)
 
 
 
