@@ -4,14 +4,25 @@ title:  News
 permalink: /news
 ---
 
+### 2025年9月9日
+第86回応用物理学会秋季講演会にて「金属結晶に基づくイオン結晶の構造予測手法」というタイトルで口頭発表予定です。
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">9月9日に応用物理学会の秋季講演会にて「金属結晶に基づくイオン結晶の構造予測手法」というタイトルで講演します。<br><br>金属結晶からイオン結晶をいろいろ作ってみたという話です。<br><br>ありがたいことに注目講演に選んでいただきましたので頑張りたいと思います。<a href="https://t.co/gs75Xo4ZIK">https://t.co/gs75Xo4ZIK</a> <a href="https://t.co/cQfyTwX5lC">pic.twitter.com/cQfyTwX5lC</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1951961249442570579?ref_src=twsrc%5Etfw">August 3, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 2025年9月4日
+2025電気化学秋季大会で「ハライド系固体電解質を用いた全固体キャパシタの高容量設計」というタイトルで共著の口頭発表がありました。
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">2025電気化学秋季大会で「ハライド系固体電解質を用いた全固体キャパシタの高容量設計」というタイトルにて共著の発表があります。<br><br>ハライド系Liイオン伝導体をキャパシタの電解質に使用すると今までにない高容量が実現できたという内容です。<br><br>ぜひお越しください。<a href="https://t.co/ViEsq3AoYP">https://t.co/ViEsq3AoYP</a> <a href="https://t.co/anqzXQd7n7">pic.twitter.com/anqzXQd7n7</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1949424529832562754?ref_src=twsrc%5Etfw">July 27, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### 2025年7月30日
-触媒学会若手会が主催する第45回夏の研修会にて招待講演予定です。
+触媒学会若手会が主催する第45回夏の研修会にて「材料科学の知見を活用した結晶構造予測手法の開発」というタイトルで招待講演を行いました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">7月30日に触媒学会若手会が主催する第45回夏の研修会にてお話する機会をいただきました。<br><br>材料科学の知見を活用した結晶構造予測の研究について紹介できればと思います。<br><br>触媒に関しては素人なので私も勉強してきたいと思います。<a href="https://t.co/Dp1ZVQWLbU">https://t.co/Dp1ZVQWLbU</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1926594092798263403?ref_src=twsrc%5Etfw">May 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### 2025年7月21日
-理論化学若手セミナーにて招待講演予定です。
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">7月21日に理論化学若手セミナーにてお話する機会をいただきました。<br><br>マテリアルズインフォマティクスの最新動向だけでなく、企業での研究活動、社会人博士課程の経験についても話す予定です。<br><br>ハイブリッド開催とのことです、ご興味あればぜひ。<a href="https://t.co/1giuOKncPj">https://t.co/1giuOKncPj</a> <a href="https://t.co/06fsyEwZzL">pic.twitter.com/06fsyEwZzL</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1929130814563922303?ref_src=twsrc%5Etfw">June 1, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+### 2025年7月22日
+第27回理論化学討論会にて「グラフ上のランダムウォーク理論に基づく固体中のイオン伝導解析」というタイトルで口頭発表を行いました。
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">7月22日に理論化学討論会にて「グラフ上のランダムウォーク理論に基づく固体中のイオン伝導解析」とのタイトルで発表します。<br><br>イオンをグラフ上をランダムに動く粒子とみなしグラフ理論を適用すると、意外と説明できるという内容です。<br><br>ご参加の方はよろしくお願いします。<a href="https://t.co/GvJy2RGmJA">https://t.co/GvJy2RGmJA</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1944357387730878881?ref_src=twsrc%5Etfw">July 13, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### 2025年7月21日
+第6回理論化学若手セミナーにて「材料科学の知見に基づく結晶構造予測」というタイトルで招待講演を行いました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">7月21日に理論化学若手セミナーにてお話する機会をいただきました。<br><br>マテリアルズインフォマティクスの最新動向だけでなく、企業での研究活動、社会人博士課程の経験についても話す予定です。<br><br>ハイブリッド開催とのことです、ご興味あればぜひ。<a href="https://t.co/1giuOKncPj">https://t.co/1giuOKncPj</a> <a href="https://t.co/06fsyEwZzL">pic.twitter.com/06fsyEwZzL</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1929130814563922303?ref_src=twsrc%5Etfw">June 1, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2025年6月16日
 数理情報系研究集会にて「双対グラフを用いた多面体に基づく結晶構造生成」というタイトルで招待講演を行いました。
@@ -19,9 +30,12 @@ permalink: /news
 
 
 ### 2025年6月13日
-製造業AI普及協会が主催するプロセスインフォマティクスセミナーにて「データ駆動型アプローチによる計算材料科学の進化」というタイトルで招待講演を行いました。
+製造業AI普及協会が主催するプロセスインフォマティクスセミナーにて「データ駆動型アプローチによる計算材料科学の進化」というタイトルで講師を務めました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">下記のセミナーにて「データ駆動型アプローチによる計算材料科学の進化」というタイトルで講演する機会をいただきました。<br><br>私は最近の計算材料科学の動向などをお話できればと思います。いろいろな分野の話が一度に聞けるみたいです。<br><br>オンライン開催とのことです、ご興味あればぜひ。 <a href="https://t.co/8pBVTyu4OC">https://t.co/8pBVTyu4OC</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1924057376748888413?ref_src=twsrc%5Etfw">May 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### 2025年5月16日
+セラミックス協会2025年年会にてポスター発表賞を受賞しました。
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">3月に開催された日本セラミックス協会2025年年会にてポスター発表賞いただきました。<br><br>いつもどこで話すべきか悩ましい研究内容なのですが、面白いと思ってもらえて嬉しかったです。これからもそのような成果を出せるよう頑張りたいです。<a href="https://t.co/gGFhGajY2j">https://t.co/gGFhGajY2j</a> <a href="https://t.co/K6steDlFsX">pic.twitter.com/K6steDlFsX</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1939277669855887451?ref_src=twsrc%5Etfw">June 29, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2025年3月29日
 日本化学会第105回春季年会にて「金属結晶に基づいたイオン結晶の多元素設計」というタイトルで招待講演を行いました。
@@ -40,11 +54,11 @@ permalink: /news
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">統数研との共同研究成果でプレスリリースを行いました。ちょっと大袈裟ですが、自分が関わった仕事でプレスリリースは初めてなので嬉しいです。<br><br>結晶学的知識を学習したAI ～結晶構造予測タスクで世界最高性能に到達～<a href="https://t.co/GaePjXFFUb">https://t.co/GaePjXFFUb</a> <a href="https://t.co/52Zf7A070K">pic.twitter.com/52Zf7A070K</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1897240686191427813?ref_src=twsrc%5Etfw">March 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2025年2月7日
-東京大学物性研究所が主催する理論セミナーにて「多面体に基づく結晶構造デザイン」というタイトルで講演を行いました。
+東京大学物性研究所が主催する理論セミナーにて「多面体に基づく結晶構造デザイン」というタイトルで講師を務めました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">2月7日に東大物性研の理論セミナーで講演する機会をいただきました。<br><br>多面体の視点から結晶構造を制御しイオン伝導体をデザインしてみた、という内容を話す予定です。<a href="https://t.co/VzbvKYm1MF">https://t.co/VzbvKYm1MF</a> <a href="https://t.co/ZtvnKePluz">pic.twitter.com/ZtvnKePluz</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1880933220679651655?ref_src=twsrc%5Etfw">January 19, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2025年1月24日
-ICSDオンラインセミナー2025にて「多面体に基づく結晶構造デザイン」というタイトルで講演を行いました。
+ICSDオンラインセミナー2025にて「多面体に基づく結晶構造デザイン」というタイトルで講師を務めました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">1月24日にICSDオンラインセミナーにてお話する機会をいただきました。<br><br>ICSDには学生の時からずっとお世話になっておりますので、ファンとしての思い出もお話できたらと思います。<a href="https://t.co/G8dHKMU6ID">https://t.co/G8dHKMU6ID</a> <a href="https://t.co/NyezaBScNj">https://t.co/NyezaBScNj</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1867567777822986572?ref_src=twsrc%5Etfw">December 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2025年1月16日

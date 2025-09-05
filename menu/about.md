@@ -87,6 +87,8 @@ Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.or
 
 
 ### 招待講演・セミナー講師
+- [横山智康](https://catsj.jp/event/18779)，「材料科学の知見を活用した結晶構造予測手法の開発」 触媒学会若手会第45回夏の研修会 (2025).  
+- [横山智康](https://sites.google.com/view/y-theochem/%E9%96%8B%E5%82%AC%E5%B1%A5%E6%AD%B4/%E7%AC%AC%E5%9B%9E_2?authuser=0)，「材料科学の知見に基づく結晶構造予測」 第6回理論化学若手セミナー (2025).  
 - [横山智康](https://sites.google.com/view/math-info-mini-workshop/home/202506)，「双対グラフを用いた多面体に基づく結晶構造生成」 数理情報系研究集会 (2025).  
 - [横山智康](https://peatix.com/group/16363871/events)，「データ駆動型アプローチによる計算材料科学の進化」 プロセスインフォマティクスセミナー (2025).  
 - [横山智康](https://pub.confit.atlas.jp/ja/event/csj105th/presentation/E_F401-4pm-05)，「金属結晶に基づいたイオン結晶の多元素設計」 日本化学会第105回春季年会 [E]F401-4pm−05 (2025).  
@@ -108,7 +110,10 @@ Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.or
 - [横山智康](https://doi.org/10.11470/jsapmeeting.2019.1.0_1863)，大内暁，松井太佑，井垣恵美子，笹川崇男，「第一原理計算と遺伝的アルゴリズムによる有機－無機ハイブリッド材料の状態図予測」 第66回応用物理学会春季学術講演会 10p-S423-1 (2019).  
 
 ### 学会発表
-- [横山智康](https://nenkai2024.ceramic.or.jp/program)，市川和秀，内藤久資，「四面体充填構造に基づく超イオン伝導材料の設計」 日本セラミックス協会2024年年会 1P162 (2024). 
+- 海老野哲朗，長尾賢治，松村忠朗，[横山智康](https://pub.confit.atlas.jp/ja/event/ecsj2025f/presentation/1S702)，森本航太，竹内宏樹，菊地諒介，宮崎晃暢，「ハライド系固体電解質を用いた全固体キャパシタの高容量設計」 2025電気化学秋季大会 S7_1_02 (2025). 
+- [横山智康](https://qcs.kyushu-u.ac.jp/Theochem27_HP/assets/pdf/presentation_list.pdf)，市川和秀，内藤久資，「グラフ上のランダムウォーク理論に基づく固体中のイオン伝導解析」 第27回理論化学討論会 1L11 (2025). 
+- 林 源太，市川和秀，大内暁，[横山智康](https://qcs.kyushu-u.ac.jp/Theochem27_HP/assets/pdf/presentation_list.pdf)，岡田健，藤井啓祐，「量子近似最適化アルゴリズムを用いた結晶中の最適元素配置の探索」 第27回理論化学討論会 P127 (2025).
+- [横山智康](https://nenkai2025.ceramic.or.jp/program)，市川和秀，内藤久資，「四面体充填構造に基づく超イオン伝導材料の設計」 日本セラミックス協会2025年年会 1P162 (2025). 
 - [横山智康](https://nusr.nagoya-u.ac.jp/CrSJ2024/?page_id=1691)，市川和秀，「双対配位多面体解析による四面体充填構造の同定」 2024年度日本結晶学会年次大会 OA-I-08 (2024).  
 - [横山智康](https://pub.confit.atlas.jp/ja/event/jsap2024a/presentation/18a-A21-4)，市川和秀，内藤久資，「グラフ理論による多面体に基づいた結晶構造生成手法の構築」 第85回応用物理学会秋季講演会 18a-A21-4 (2024).  
 - 市川和秀，大内暁，上野航輝，[横山智康](https://www2.ccs.tsukuba.ac.jp/people/theochem26/assets/pdf/program_list.pdf)，「結晶構造における元素配置最適化問題のイジングマシンによる効率的解法について」 第26回理論化学討論会 P221 (2024).  
