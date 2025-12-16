@@ -87,6 +87,7 @@ Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.or
 
 
 ### 招待講演・セミナー講師
+- [横山智康](https://www.ceramic.or.jp/bkouon/archive/event/2025/2025_seminar.pdf)，「多面体に基づくイオン伝導体の設計」 第56回エンジニアリングセラミックスセミナー (2025).  
 - [横山智康](https://catsj.jp/event/18779)，「材料科学の知見を活用した結晶構造予測手法の開発」 触媒学会若手会第45回夏の研修会 (2025).  
 - [横山智康](https://sites.google.com/view/y-theochem/%E9%96%8B%E5%82%AC%E5%B1%A5%E6%AD%B4/%E7%AC%AC%E5%9B%9E_2?authuser=0)，「材料科学の知見に基づく結晶構造予測」 第6回理論化学若手セミナー (2025).  
 - [横山智康](https://sites.google.com/view/math-info-mini-workshop/home/202506)，「双対グラフを用いた多面体に基づく結晶構造生成」 数理情報系研究集会 (2025).  
@@ -110,6 +111,9 @@ Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.or
 - [横山智康](https://doi.org/10.11470/jsapmeeting.2019.1.0_1863)，大内暁，松井太佑，井垣恵美子，笹川崇男，「第一原理計算と遺伝的アルゴリズムによる有機－無機ハイブリッド材料の状態図予測」 第66回応用物理学会春季学術講演会 10p-S423-1 (2019).  
 
 ### 学会発表
+- 森本航太，[横山智康](https://pub.confit.atlas.jp/ja/event/denchi66/presentation/2I12)，市川和秀，葛西章也，吉竹純基，乾幸地，「自動微分を用いた逆設計手法の電気二重層キャパシタへの適用」 第66回電池討論会 2I12 (2025). 
+- [横山智康](https://www.ceramic.or.jp/bdenshi/activity03/activity03_2025.html)，市川和秀，内藤久資，「グラフ理論に基づく固体中のイオン伝導解析手法の開発」 第45回電子材料研究討論会 2B01 (2025). 
+- [横山智康](https://pub.confit.atlas.jp/ja/event/jsap2025a/presentation/9p-S301-9)，市川和秀，大内暁，「金属結晶に基づくイオン結晶の構造予測手法」 第87回応用物理学会秋季講演会 9p-S301-9 (2025). 
 - 海老野哲朗，長尾賢治，松村忠朗，[横山智康](https://pub.confit.atlas.jp/ja/event/ecsj2025f/presentation/1S702)，森本航太，竹内宏樹，菊地諒介，宮崎晃暢，「ハライド系固体電解質を用いた全固体キャパシタの高容量設計」 2025電気化学秋季大会 S7_1_02 (2025). 
 - [横山智康](https://qcs.kyushu-u.ac.jp/Theochem27_HP/assets/pdf/presentation_list.pdf)，市川和秀，内藤久資，「グラフ上のランダムウォーク理論に基づく固体中のイオン伝導解析」 第27回理論化学討論会 1L11 (2025). 
 - 林 源太，市川和秀，大内暁，[横山智康](https://qcs.kyushu-u.ac.jp/Theochem27_HP/assets/pdf/presentation_list.pdf)，岡田健，藤井啓祐，「量子近似最適化アルゴリズムを用いた結晶中の最適元素配置の探索」 第27回理論化学討論会 P127 (2025).

@@ -4,8 +4,33 @@ title:  News
 permalink: /news
 ---
 
+
+### 2025年12月5日
+第56回エンジニアリングセラミックスセミナーにて「多面体に基づくイオン伝導体の設計」というタイトルで招待講演を行いました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">12月5日に第56回エンジニアリングセラミックスセミナーでお話する機会をいただきました。<br><br>四面体体に基づくイオン伝導体のデザインと、最近取り組んでいるグラフ理論によるイオン伝導解析の研究について紹介する予定です。<a href="https://t.co/FVwIumtn3n">https://t.co/FVwIumtn3n</a> <a href="https://t.co/MxIvvOvtxC">pic.twitter.com/MxIvvOvtxC</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1992548691274559642?ref_src=twsrc%5Etfw">November 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 2025年11月19日
+第66回電池討論会で「自動微分を用いた逆設計手法の電気二重層キャパシタへの適用」というタイトルで共著の口頭発表がありました。株式会社カルマリオンとの共同研究の成果です。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">11月19日に第66回電池討論会にて「自動微分を用いた逆設計手法の電気二重層キャパシタへの適用」というタイトルで共著の発表があります。<br><br>所望の充放電特性を実現するデバイスパラメータを逆設計したという内容で、カルマリオンさんとの共同研究の成果です。<a href="https://t.co/S3rAbk1fRz">https://t.co/S3rAbk1fRz</a> <a href="https://t.co/8yZATp4sav">pic.twitter.com/8yZATp4sav</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1974791684790583698?ref_src=twsrc%5Etfw">October 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 2025年11月6日
+京大陰山教授の研究室を訪問しディスカッションさせていただきました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">京大陰山先生の研究室を訪問させていただきました！<br>新材料が生まれる最先端の現場でいろいろなディスカッションができ、とても勉強になりました。ありがとうございました。 <a href="https://t.co/19bMibRJcA">https://t.co/19bMibRJcA</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1986770705569161559?ref_src=twsrc%5Etfw">November 7, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 2025年10月22日
+第45回電子材料研究討論会にて「グラフ理論に基づく固体中のイオン伝導解析手法の開発」というタイトルで口頭発表を行いました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">10月22日に第45回電子材料研究討論会にて「グラフ理論に基づく固体中のイオン伝導解析手法の開発」というタイトルで発表します。<br><br>グラフ理論により結晶のカタチのみからイオン伝導を評価しても意外と説明できるという内容です。<br><br>ご参加の方はよろしくお願いいたします。<a href="https://t.co/hsLp6brGIW">https://t.co/hsLp6brGIW</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1977328401196384763?ref_src=twsrc%5Etfw">October 12, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 2025年10月15日
+東大溝口教授の研究室を訪問しディスカッションさせていただきました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">東大溝口先生の研究室にお邪魔させていただきました！<br>いろいろとディスカッションでき、とても勉強になりました。ありがとうございます。 <a href="https://t.co/uT6UyM0Ceg">https://t.co/uT6UyM0Ceg</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1979139377776464107?ref_src=twsrc%5Etfw">October 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 2025年10月8日
+Matlantis User Conference 2025にて「ニューラルネットワークポテンシャル（NNP）を用いた金属結晶に基づくイオン結晶の構造予測」というタイトルでポスター発表を行いました。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">10月8日にMatlantis User Conference 2025にて「ニューラルネットワークポテンシャル（NNP）を用いた金属結晶に基づくイオン結晶の構造予測」というタイトルでポスター発表します。<br><br>NNPで高速予測したという内容です。<br><br>ご参加の方はご議論のほどよろしくお願いします。<a href="https://t.co/7GIauo3JAh">https://t.co/7GIauo3JAh</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1972254969077313741?ref_src=twsrc%5Etfw">September 28, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### 2025年9月9日
-第86回応用物理学会秋季講演会にて「金属結晶に基づくイオン結晶の構造予測手法」というタイトルで口頭発表予定です。
+第86回応用物理学会秋季講演会にて「金属結晶に基づくイオン結晶の構造予測手法」というタイトルで口頭発表を行いました。
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">9月9日に応用物理学会の秋季講演会にて「金属結晶に基づくイオン結晶の構造予測手法」というタイトルで講演します。<br><br>金属結晶からイオン結晶をいろいろ作ってみたという話です。<br><br>ありがたいことに注目講演に選んでいただきましたので頑張りたいと思います。<a href="https://t.co/gs75Xo4ZIK">https://t.co/gs75Xo4ZIK</a> <a href="https://t.co/cQfyTwX5lC">pic.twitter.com/cQfyTwX5lC</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://twitter.com/yoko_materialDX/status/1951961249442570579?ref_src=twsrc%5Etfw">August 3, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2025年9月4日
