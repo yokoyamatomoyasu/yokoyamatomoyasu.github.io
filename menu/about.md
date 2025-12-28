@@ -70,6 +70,7 @@ permalink: /about
 - [T. Yokoyama](https://doi.org/10.7567/APEX.6.061201), F. Oba, A. Seko, H. Hayashi, Y. Nose, I. Tanaka, Theoretical Photovoltaic Conversion Efficiencies of ZnSnP<sub>2</sub>, CdSnP<sub>2</sub>, and Zn<sub>1-X</sub>Cd<sub>x</sub>SnP<sub>2</sub> Alloys. *Appl. Phys. Express* **2013**, 6 (6), 061201. 
 
 ### プレプリント
+- [T. Yokoyama](https://arxiv.org/abs/2505.21235), K. Ichikawa, H. Naito, From Polyhedra to Crystals: A Graph-Theoretic Framework for Crystal Structure Generation. *arXiv.org* **2025**, arXiv:2505.21235. 
 - K. Ichikawa, G. Hayashi, S. Ohuchi, [T. Yokoyama](https://arxiv.org/abs/2503.09356), K. Okada, K. Fujii, Optimal elemental configuration search in crystal using quantum approximate optimization algorithm. *arXiv.org* **2025**, arXiv:2503.09356. 
 - [T. Yokoyama](https://arxiv.org/abs/2407.02838), K. Ichikawa, T. Naruse, K. Ohura, Y. Kaneko, 
 Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.org* **2024**, arXiv:2407.02838. 
@@ -87,6 +88,7 @@ Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.or
 
 
 ### 招待講演・セミナー講師
+- [横山智康](https://chemical.iae.kyoto-u.ac.jp/Materials_Tailoring_Committee/past_committee.html)，「多面体に基づく結晶構造の設計」 第103回マテリアルズテーラリング研究会 (2025).  
 - [横山智康](https://www.ceramic.or.jp/bkouon/archive/event/2025/2025_seminar.pdf)，「多面体に基づくイオン伝導体の設計」 第56回エンジニアリングセラミックスセミナー (2025).  
 - [横山智康](https://catsj.jp/event/18779)，「材料科学の知見を活用した結晶構造予測手法の開発」 触媒学会若手会第45回夏の研修会 (2025).  
 - [横山智康](https://sites.google.com/view/y-theochem/%E9%96%8B%E5%82%AC%E5%B1%A5%E6%AD%B4/%E7%AC%AC%E5%9B%9E_2?authuser=0)，「材料科学の知見に基づく結晶構造予測」 第6回理論化学若手セミナー (2025).  
@@ -144,7 +146,11 @@ Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.or
 
 
 ### 特許  
-- パナソニックIPマネジメント株式会社．[横山智康](https://patents.google.com/patent/WO2023013202A1/)，大浦恒星，菊地諒介．「キャパシタ、電気回路、回路基板、及び機器」WO2023/233918．2023-12-07．
+- パナソニックIPマネジメント株式会社．[横山智康](https://patents.google.com/patent/WO2024236941A1/)，菊地諒介．「ハロゲン化物、誘電体材料、キャパシタ、電気回路、回路基板、及び機器」WO2024/236941．2024-11-21．
+- パナソニックIPマネジメント株式会社．[横山智康](https://patents.google.com/patent/WO2024236930A1/)，菊地諒介．「キャパシタ、電気回路、回路基板、及び機器」WO2024/236930．2024-11-21．
+- パナソニックIPマネジメント株式会社．上野貴也，[横山智康](https://patents.google.com/patent/WO2024185494A1/)，大浦恒星．「キャパシタ、キャパシタ用誘電体、電気回路、回路基板、及び機器」WO2024/185494．2024-9-12．
+- パナソニックIPマネジメント株式会社．上野貴也，[横山智康](https://patents.google.com/patent/WO2024185493A1/)，大浦恒星．「キャパシタ、キャパシタ用誘電体、電気回路、回路基板、及び機器」WO2024/185493．2024-9-12．
+- パナソニックIPマネジメント株式会社．[横山智康](https://patents.google.com/patent/WO2023233918A1/)，大浦恒星，菊地諒介．「キャパシタ、電気回路、回路基板、及び機器」WO2023/233918．2023-12-07．
 - パナソニックIPマネジメント株式会社．[横山智康](https://patents.google.com/patent/WO2023233917A1/)，大浦恒星，菊地諒介．「キャパシタ、電気回路、回路基板、及び機器」WO2023/233917．2023-12-07．
 - パナソニックIPマネジメント株式会社．[横山智康](https://patents.google.com/patent/WO2023188733A1/)，市川和秀．「情報処理方法、情報処理システム、及びプログラム」WO2023/188733．2023-10-05．
 - パナソニックIPマネジメント株式会社．[横山智康](https://patents.google.com/patent/WO2023188732A1/)，市川和秀．「情報処理方法、情報処理システム、及びプログラム」WO2023/188732．2023-10-05．
