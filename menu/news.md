@@ -17,7 +17,7 @@ arXivに「Constrained Optimization of Higher-Order Cluster-Expansion Hamiltonia
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">7月6日から開催されるデータ駆動型材料科学研究会2026年夏季年会にて講演の機会をいただきました。<br><br>昨年立ち上がった研究会で、計算科学やデータ科学、自動実験などをテーマにしているとのことです。<br><br>MI研究者が集まる場ってこれまでなかなかなかったので参加が楽しみです。<a href="https://t.co/KevxOCoBhj">https://t.co/KevxOCoBhj</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://x.com/yoko_materialDX/status/2043282991678439648?ref_src=twsrc%5Etfw">April 12, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 ### 2026年3月22日
-CrystEngComm誌から「From polyhedra to crystals: a graph-theoretic framework for crystal structure generation」というタイトルでhilightが公開されました。
+CrystEngComm誌から「From polyhedra to crystals: a graph-theoretic framework for crystal structure generation」というタイトルでハイライトが公開されました。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">CrystEngComm誌に「From polyhedra to crystals: a graph-theoretic framework for crystal structure generation」とのハイライトを寄稿しました。多面体から結晶構造を作る話です。<br><br>元論文では書ききれなかった技術背景や展望について頑張って書きました。誰でも読めます。<a href="https://t.co/0NLrEn1xpE">https://t.co/0NLrEn1xpE</a> <a href="https://t.co/DvMnoEGaMc">pic.twitter.com/DvMnoEGaMc</a></p>&mdash; 横山トモヤス｜計算材料科学者 (@yoko_materialDX) <a href="https://x.com/yoko_materialDX/status/2035672837990514903?ref_src=twsrc%5Etfw">March 22, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 ### 2026年3月23日
