@@ -12,7 +12,7 @@ permalink: /about
 パナソニック ホールディングス株式会社 GX本部 
 
 ### 役職・資格
-リードリサーチャー　博士（工学）
+シニアリードリサーチャー　博士（工学）
 
 ### 専門  
 計算材料科学
@@ -24,6 +24,7 @@ permalink: /about
 - 2019-2022　東京工業大学 物質理工学院 材料系 社会人博士課程 
 
 ### 受賞歴  
+- 2026年度パナソニックホールディングスイノベーション推進部門個人部門部長賞
 - [日本セラミックス協会2025年年会優秀ポスター発表賞](https://www.ceramic.or.jp/act/award/poster_list.html)    
 - [第30回日本MRS年次大会奨励賞](https://www.mrs-j.org/meeting2020/jp/prg/awardList.php)    
 - 2020年度パナソニックイノベーション推進部門個人事業部長賞
@@ -70,6 +71,7 @@ permalink: /about
 - [T. Yokoyama](https://doi.org/10.7567/APEX.6.061201), F. Oba, A. Seko, H. Hayashi, Y. Nose, I. Tanaka, Theoretical Photovoltaic Conversion Efficiencies of ZnSnP<sub>2</sub>, CdSnP<sub>2</sub>, and Zn<sub>1-X</sub>Cd<sub>x</sub>SnP<sub>2</sub> Alloys. *Appl. Phys. Express* **2013**, 6 (6), 061201. 
 
 ### プレプリント
+- K. Ichikawa, S. Ohuchi, [T. Yokoyama](https://arxiv.org/abs/2609.10310), T. Saito, Y. Matsuda, Constrained Optimization of Higher-Order Cluster-Expansion Hamiltonians for Alloys Using Simulated Bifurcation. *arXiv.org* **2026**, arXiv:2609.10310. 
 - [T. Yokoyama](https://arxiv.org/abs/2505.21235), K. Ichikawa, H. Naito, From Polyhedra to Crystals: A Graph-Theoretic Framework for Crystal Structure Generation. *arXiv.org* **2025**, arXiv:2505.21235. 
 - K. Ichikawa, G. Hayashi, S. Ohuchi, [T. Yokoyama](https://arxiv.org/abs/2503.09356), K. Okada, K. Fujii, Optimal elemental configuration search in crystal using quantum approximate optimization algorithm. *arXiv.org* **2025**, arXiv:2503.09356. 
 - [T. Yokoyama](https://arxiv.org/abs/2407.02838), K. Ichikawa, T. Naruse, K. Ohura, Y. Kaneko, 
@@ -79,15 +81,22 @@ Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.or
 - C. Liu, H. Tamaki, [T. Yokoyama](https://arxiv.org/abs/2305.02158), K. Wakasugi, S. Yotsuhashi, M. Kusaba, R. Yoshida, Shotgun crystal structure prediction using machine-learned formation energies. *arXiv.org* **2023**, arXiv:2305.02158.
 
 ### 解説記事
+- [T. Yokoyama](https://doi.org/10.1039/d5ce01176k), K. Ichikawa, H. Naito, From Polyhedra to Crystals: A Graph-Theoretic Framework for Crystal Structure Generation. *CrystEngComm* **2026**, 28 (15) 2293–2304. 
 - [横山智康](https://doi.org/10.5940/jcrsj.66.60), 市川和秀, 内藤久資, 双対グラフを用いた多面体に基づく結晶構造生成, *日本結晶学会誌*, **2024**, 66 (2), 60-70.
 - [横山智康](https://doi.org/10.5796/denkikagaku.23-FE0014), 大内暁, 笹川崇男, 6．有機–無機ハイブリッド材料の結晶構造予測手法の開発, *電気化学*, **2023**, 91 (2), 164-168.
 - [T. Yokoyama](https://holdings.panasonic/jp/corporate/technology/technology-journal/pdf/v6702/p0115.pdf), S. Ohuchi, T. Matsui, Y. Kaneko, Material Digitalization for organic-inorganic hybrid materials. *Panasonic Technical Journal* **2021**, 67 (2), 160-165.
 
 ### 書籍
+- 若杉健介，[横山智康](https://www.cmcbooks.co.jp/products/detail.php?product_id=116071)，玉置洋正，四橋聡史，第一原理計算と機械学習の融合に基づく結晶構造予測 マテリアルズ・インフォマティクスが拓く材料開発の新潮流 シーエムシー出版，2025，12．
 - [横山智康](https://andtech.co.jp/books/1eec6711-968c-6054-bb8d-064fb9a95405)，有機－無機ハイブリッド材料のデジタライゼーション マテリアルズインフォマティクス・量子コンピュータおよび自然言語処理と自律型実験システムを活用した次世代材料開発 AndTech，2024，4．
 
 
 ### 招待講演・セミナー講師
+- [横山智康](https://www.msc.osaka-u.ac.jp/activity/20260828/?lang=ja)，「多面体に基づく結晶構造デザイン」 大阪大学超階層マテリアルサイエンスプログラム第12回インタラクティブ交流会 (2026). 
+- [横山智康](https://sites.google.com/view/soddms/activities/events/2026-7-6)，「多面体からはじめるデータ駆動型材料設計」 データ駆動型材料科学研究会2026年夏季年会 (2026). 
+- [横山智康](http://www.sakutai.jp/event/sfs/2026/04/031643192569)，「多面体に基づく結晶構造デザイン」 第10回錯体化学会フロンティアセミナー (2026). 
+- [Tomoyasu Yokoyama](https://acs.digitellinc.com/live/36/session/583520)，「Crystal structure design using graph theory on polyhedral blueprints」 ACS Spring Meeting 2026 4409369 (2026).  
+- 若杉健介，[横山智康](https://nenkai2026.ceramic.or.jp/program)，玉置洋正，四橋聡史，「対称性予測サロゲートモデルに基づく結晶構造予測」 日本金属学会2026年春期(第178回)講演大会 S3,17 (2026). 
 - [横山智康](https://chemical.iae.kyoto-u.ac.jp/Materials_Tailoring_Committee/past_committee.html)，「多面体に基づく結晶構造の設計」 第103回マテリアルズテーラリング研究会 (2025).  
 - [横山智康](https://www.ceramic.or.jp/bkouon/archive/event/2025/2025_seminar.pdf)，「多面体に基づくイオン伝導体の設計」 第56回エンジニアリングセラミックスセミナー (2025).  
 - [横山智康](https://catsj.jp/event/18779)，「材料科学の知見を活用した結晶構造予測手法の開発」 触媒学会若手会第45回夏の研修会 (2025).  
@@ -113,9 +122,11 @@ Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.or
 - [横山智康](https://doi.org/10.11470/jsapmeeting.2019.1.0_1863)，大内暁，松井太佑，井垣恵美子，笹川崇男，「第一原理計算と遺伝的アルゴリズムによる有機－無機ハイブリッド材料の状態図予測」 第66回応用物理学会春季学術講演会 10p-S423-1 (2019).  
 
 ### 学会発表
+- 市川和秀，大内暁，[横山智康](https://pub.confit.atlas.jp/ja/event/jsap2026a/presentation/11a-PA3-18)，齊藤巧真，松田佳希，「イジングマシンを用いた合金結晶の高次クラスター展開ハミルトニアンの最適化」 第87回応用物理学会秋季講演会 11a-PA3-18 (2026). 
+- [横山智康](https://nenkai2026.ceramic.or.jp/program)，市川和秀，内藤久資，「グラフ理論に基づく固体中のイオン伝導性の評価」 日本セラミックス協会2026年年会 3G08 (2026). 
 - 森本航太，[横山智康](https://pub.confit.atlas.jp/ja/event/denchi66/presentation/2I12)，市川和秀，葛西章也，吉竹純基，乾幸地，「自動微分を用いた逆設計手法の電気二重層キャパシタへの適用」 第66回電池討論会 2I12 (2025). 
 - [横山智康](https://www.ceramic.or.jp/bdenshi/activity03/activity03_2025.html)，市川和秀，内藤久資，「グラフ理論に基づく固体中のイオン伝導解析手法の開発」 第45回電子材料研究討論会 2B01 (2025). 
-- [横山智康](https://pub.confit.atlas.jp/ja/event/jsap2025a/presentation/9p-S301-9)，市川和秀，大内暁，「金属結晶に基づくイオン結晶の構造予測手法」 第87回応用物理学会秋季講演会 9p-S301-9 (2025). 
+- [横山智康](https://pub.confit.atlas.jp/ja/event/jsap2025a/presentation/9p-S301-9)，市川和秀，大内暁，「金属結晶に基づくイオン結晶の構造予測手法」 第86回応用物理学会秋季講演会 9p-S301-9 (2025). 
 - 海老野哲朗，長尾賢治，松村忠朗，[横山智康](https://pub.confit.atlas.jp/ja/event/ecsj2025f/presentation/1S702)，森本航太，竹内宏樹，菊地諒介，宮崎晃暢，「ハライド系固体電解質を用いた全固体キャパシタの高容量設計」 2025電気化学秋季大会 S7_1_02 (2025). 
 - [横山智康](https://qcs.kyushu-u.ac.jp/Theochem27_HP/assets/pdf/presentation_list.pdf)，市川和秀，内藤久資，「グラフ上のランダムウォーク理論に基づく固体中のイオン伝導解析」 第27回理論化学討論会 1L11 (2025). 
 - 林 源太，市川和秀，大内暁，[横山智康](https://qcs.kyushu-u.ac.jp/Theochem27_HP/assets/pdf/presentation_list.pdf)，岡田健，藤井啓祐，「量子近似最適化アルゴリズムを用いた結晶中の最適元素配置の探索」 第27回理論化学討論会 P127 (2025).
@@ -146,6 +157,9 @@ Designing Superionic Conductors Using Tetrahedrally Packed Structures. *arXiv.or
 
 
 ### 特許  
+- パナソニックIPマネジメント株式会社．市川和秀，大内暁，[横山智康](https://patents.google.com/patent/WO2025004940A1/)，上野航輝．「情報処理方法、情報処理システム、及びプログラム」WO2025/004940．2025-01-02．
+- パナソニックIPマネジメント株式会社．[横山智康](https://patents.google.com/patent/WO2024247879A1/)，市川和秀．「情報処理方法、情報処理システム、及びプログラム」WO2024/247879．2024-12-05．
+- パナソニックIPマネジメント株式会社．[横山智康](https://patents.google.com/patent/WO2024247790A1/)，市川和秀．「情報処理方法、情報処理システム、及びプログラム」WO2024/247790．2024-12-05．
 - パナソニックIPマネジメント株式会社．[横山智康](https://patents.google.com/patent/WO2024236941A1/)，菊地諒介．「ハロゲン化物、誘電体材料、キャパシタ、電気回路、回路基板、及び機器」WO2024/236941．2024-11-21．
 - パナソニックIPマネジメント株式会社．[横山智康](https://patents.google.com/patent/WO2024236930A1/)，菊地諒介．「キャパシタ、電気回路、回路基板、及び機器」WO2024/236930．2024-11-21．
 - パナソニックIPマネジメント株式会社．上野貴也，[横山智康](https://patents.google.com/patent/WO2024185494A1/)，大浦恒星．「キャパシタ、キャパシタ用誘電体、電気回路、回路基板、及び機器」WO2024/185494．2024-9-12．
